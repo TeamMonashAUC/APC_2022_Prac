@@ -1,0 +1,49 @@
+repositories:
+  autoware/common:
+    type: git
+    url: https://github.com/TeamMonashAUC/common.git
+    version: 1.14.0
+  autoware/core_perception:
+    type: git
+    url: https://github.com/TeamMonashAUC/core_perception.git
+    version: 1.14.0
+  autoware/core_planning:
+    type: git
+    url: https://github.com/TeamMonashAUC/core_planning.git
+    version: 1.14.0
+  autoware/documentation:
+    type: git
+    url: https://github.com/TeamMonashAUC/documentation.git
+    version: 1.14.0
+  autoware/messages:
+    type: git
+    url: https://github.com/TeamMonashAUC/messages.git
+    version: 1.14.0
+  autoware/simulation:
+    type: git
+    url: https://github.com/TeamMonashAUC/simulation.git
+    version: 1.14.0
+  autoware/utilities:
+    type: git
+    url: https://github.com/TeamMonashAUC/utilities.git
+    version: 1.14.0
+  autoware/visualization:
+    type: git
+    url: https://github.com/TeamMonashAUC/visualization.git
+    version: 1.14.0
+  drivers/awf_drivers:
+    type: git
+    url: https://github.com/TeamMonashAUC/drivers.git
+    version: 1.14.0
+  citysim:
+    type: git
+    url: https://github.com/TeamMonashAUC/osrf_citysim.git
+    version: master
+  car_demo:
+    type: git
+    url: https://github.com/TeamMonashAUC/car_demo.git
+    version: master
+  drivers/ds4:
+    type: git
+    url: https://github.com/TeamMonashAUC/ds4.git
+    version: master

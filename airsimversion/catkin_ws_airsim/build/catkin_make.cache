@@ -1,0 +1,2 @@
+ndt_mapping
+-DCATKIN_DEVEL_PREFIX=/home/yeap/Autonomous-Programming-Competition/year2022/airsimversion/catkin_ws_airsim/devel -DCMAKE_INSTALL_PREFIX=/home/yeap/Autonomous-Programming-Competition/year2022/airsimversion/catkin_ws_airsim/install -G Unix Makefiles
