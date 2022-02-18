@@ -2,10 +2,10 @@
 
 This is the repository that contains workspace and packages used for the Autonomous Programming Challenge in the year 2022. The information stated below will be based on what workspaces and packages are provided.
 
-autoware.ai
+## autoware.ai
 This is initially the workspace that is copied from the official Autoware AI Github repository. This contains the majority of the code that performs computation for object detection, localization, prediction etc. The version currently in this repository is modified to fit for Airsim simulator which initially is not able to.
 
-catkin_ws
+## catkin_ws
 This workspace contains some packages or files that initially is not within the autoware.ai repository. As it is built differently than autoware.ai workspace( catkin_ws built using command catkin_make while autoware.ai is built using colcon build command), some launch files are able to launch here but not in autoware.ai.
 
 Special instructions for modifying autoware.ai
