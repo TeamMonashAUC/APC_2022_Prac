@@ -50,4 +50,7 @@ If you have Nvidia GPU, install CUDA ( this version below is for Ubuntu 18.04):
  3) Extra: you no need to remove the additional files built in catkin_ws as we all compile workspace the same way using catkin_make. (Assumption: this assume that you are using catkin_make command to compile workspace. If you are not, discuss with the current person in-charge.)
 
 ### EXTRA NOTICE: 
-If you find out that there is log files, install files and build files in the Github repository, you can recorrect it by pulling it , delete them then pushing back again.
+ 1) If you find out that there is log files, install files and build files in the Github repository, you can recorrect it by pulling it , delete them then pushing back again.
+
+## PROTOCOLS FOR GIT PUSHING AND GIT PULLING FOR ALL REPOSITORY
+ Please refer to this link: https://docs.google.com/document/d/1Pfw7eHWmMhLx0jqc95NdSMOaUkW31QaqW7IGphx6vds/edit?usp=sharing
