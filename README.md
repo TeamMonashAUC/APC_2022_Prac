@@ -8,7 +8,7 @@ This is initially the workspace that is copied from the official Autoware AI Git
 ## catkin_ws
 This workspace contains some packages or files that initially is not within the autoware.ai repository. As it is built differently than autoware.ai workspace( catkin_ws built using command catkin_make while autoware.ai is built using colcon build command), some launch files are able to launch here but not in autoware.ai.
 
-## Special instructions for modifying autoware.ai
+## Special instructions for using and modifying autoware.ai
 As autoware.ai can be built via different commands, one with or without CUDA support. (If you have an Nvidia GPU, you should have CUDA support available. If you have AMD or Intel GPU used, CUDA support is not available. )
 
 
