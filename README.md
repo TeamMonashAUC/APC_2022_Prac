@@ -19,22 +19,21 @@ Install Qt (this version below is for Ubuntu 18.04):
 Follow this link: https://lucidar.me/en/dev-c-cpp/how-to-install-qt-creator-on-ubuntu-18-04/ 
 
 If you have Nvidia GPU, install CUDA ( this version below is for Ubuntu 18.04):
- 1) Follow this link (For installation instructions for CUDA 10.0): https://docs.nvidia.com/cuda/archive /10.0/cuda-installation-guide-linux/index.html 
+#### 1) Follow this link (For installation instructions for CUDA 10.0): https://docs.nvidia.com/cuda/archive /10.0/cuda-installation-guide-linux/index.html 
 
-   2) NOTE: To enable CUDA support on Melodic, Eigen is required to be updated.
-#### WARNING: This might break your system, or the compilation of other programs
+#### 2) NOTE: To enable CUDA support on Melodic, Eigen is required to be updated.
+##### WARNING: This might break your system, or the compilation of other programs
      $ cd && wget http://bitbucket.org/eigen/eigen/get/3.3.7.tar.gz #Download Eigen
      $ mkdir eigen && tar --strip-components=1 -xzvf 3.3.7.tar.gz -C eigen #Decompress
      $ cd eigen && mkdir build && cd build && cmake .. && make && make install #Build and install
      $ cd && rm -rf 3.3.7.tar.gz && rm -rf eigen #Remove downloaded and temporary files
 
 ### Git cloning for the first time and Git pulling every single time:
+   ##### 1. Install dependencies using rosdep:
+      a. $ rosdep update
+      b. $ rosdep install -y --from-paths src --ignore-src --rosdistro $ROS_DISTRO
 
-Markup : 1. Install dependencies using rosdep:
-$ rosdep update
-$ rosdep install -y --from-paths src --ignore-src --rosdistro $ROS_DISTRO
-
-   2. Compile the workspace
+   ##### 2. Compile the workspace
 
     a. With CUDA support
        $ AUTOWARE_COMPILE_WITH_CUDA=1 colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release
@@ -44,11 +43,11 @@ $ rosdep install -y --from-paths src --ignore-src --rosdistro $ROS_DISTRO
 
 
 ### GIT PUSHING EVERY SINGLE TIME:
-1) ALWAYS remove the log files, install files and build files in autoware.ai before Git Pushing. You can either delete it or temporarily move to other directories. THIS IS IMPORTANT because different members may have or do not have CUDA support on their laptop or pc which they compile differently using different command (check the section just above state different compiling command)
+ 1) ALWAYS remove the log files, install files and build files in autoware.ai before Git Pushing. You can either delete it or temporarily move to other directories. THIS IS IMPORTANT because different members may have or do not have CUDA support on their laptop or pc which they compile differently using different command (check the section just above state different compiling command)
 
-2) After Git Pushing, you can recompile again to retrieve back your files mentioned above if you deleted it using compiling command in the above section or you can just move back the files from the other directory you put in before you git push.
+ 2) After Git Pushing, you can recompile again to retrieve back your files mentioned above if you deleted it using compiling command in the above section or you can just move back the files from the other directory you put in before you git push.
 
-3) Extra: you no need to remove the additional files built in catkin_ws as we all compile workspace the same way using catkin_make. (Assumption: this assume that you are using catkin_make command to compile workspace. If you are not, discuss with the current person in-charge.)
+ 3) Extra: you no need to remove the additional files built in catkin_ws as we all compile workspace the same way using catkin_make. (Assumption: this assume that you are using catkin_make command to compile workspace. If you are not, discuss with the current person in-charge.)
 
 ### EXTRA NOTICE: 
 If you find out that there is log files, install files and build files in the Github repository, you can recorrect it by pulling it , delete them then pushing back again.
