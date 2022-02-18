@@ -30,17 +30,17 @@ If you have Nvidia GPU, install CUDA ( this version below is for Ubuntu 18.04):
 
 ### Git cloning for the first time and Git pulling every single time:
 
-1) Install dependencies using rosdep:
+Markup : 1. Install dependencies using rosdep:
 $ rosdep update
 $ rosdep install -y --from-paths src --ignore-src --rosdistro $ROS_DISTRO
 
-2) Compile the workspace
+   2. Compile the workspace
 
-With CUDA support
-$ AUTOWARE_COMPILE_WITH_CUDA=1 colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release
+    1. With CUDA support
+       $ AUTOWARE_COMPILE_WITH_CUDA=1 colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release
 
-Without CUDA Support
-$ colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release
+    2. Without CUDA Support
+      $ colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release
 
 
 ### GIT PUSHING EVERY SINGLE TIME:
