@@ -19,7 +19,7 @@ Install Qt (this version below is for Ubuntu 18.04):
 Follow this link: https://lucidar.me/en/dev-c-cpp/how-to-install-qt-creator-on-ubuntu-18-04/ 
 
 If you have Nvidia GPU, install CUDA ( this version below is for Ubuntu 18.04):
-Markup: 1) Follow this link (For installation instructions for CUDA 10.0): https://docs.nvidia.com/cuda/archive /10.0/cuda-installation-guide-linux/index.html 
+ 1) Follow this link (For installation instructions for CUDA 10.0): https://docs.nvidia.com/cuda/archive /10.0/cuda-installation-guide-linux/index.html 
 
    2) NOTE: To enable CUDA support on Melodic, Eigen is required to be updated.
 #### WARNING: This might break your system, or the compilation of other programs
