@@ -23,10 +23,10 @@ If you have Nvidia GPU, install CUDA ( this version below is for Ubuntu 18.04):
 
 #### 2) NOTE: To enable CUDA support on Melodic, Eigen is required to be updated.
 ##### WARNING: This might break your system, or the compilation of other programs
-     $ cd && wget http://bitbucket.org/eigen/eigen/get/3.3.7.tar.gz #Download Eigen
-     $ mkdir eigen && tar --strip-components=1 -xzvf 3.3.7.tar.gz -C eigen #Decompress
-     $ cd eigen && mkdir build && cd build && cmake .. && make && make install #Build and install
-     $ cd && rm -rf 3.3.7.tar.gz && rm -rf eigen #Remove downloaded and temporary files
+    $ cd && wget https://gitlab.com/libeigen/eigen/-/archive/3.4.0/eigen-3.4.0.tar.gz #Download Eigen
+    $ mkdir eigen && tar --strip-components=1 -xzvf eigen-3.4.0.tar.gz -C eigen #Decompress
+    $ cd eigen && mkdir build && cd build && cmake .. && make && make install #Build and install
+    $ cd && rm -rf 3.3.7.tar.gz && rm -rf eigen #Remove downloaded and temporary files
 
 ### Git cloning for the first time and Git pulling every single time:
    ##### 1. Install dependencies using rosdep:
