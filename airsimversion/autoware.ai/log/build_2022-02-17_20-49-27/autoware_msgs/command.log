@@ -1,6 +1,0 @@
-Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs -- -j6 -l6
-Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs -- -j6 -l6
-Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs --target tests -- -j6 -l6
-Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs --target tests -- -j6 -l6
-Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs --target install -- -j6 -l6
-Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs --target install -- -j6 -l6

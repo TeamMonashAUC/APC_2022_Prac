@@ -1,6 +1,0 @@
-Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/pcl_omp_registration': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/pcl_omp_registration -- -j6 -l6
-Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/pcl_omp_registration' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/pcl_omp_registration -- -j6 -l6
-Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/pcl_omp_registration': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/pcl_omp_registration --target tests -- -j6 -l6
-Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/pcl_omp_registration' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/pcl_omp_registration --target tests -- -j6 -l6
-Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/pcl_omp_registration': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/pcl_omp_registration --target install -- -j6 -l6
-Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/pcl_omp_registration' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/pcl_omp_registration --target install -- -j6 -l6

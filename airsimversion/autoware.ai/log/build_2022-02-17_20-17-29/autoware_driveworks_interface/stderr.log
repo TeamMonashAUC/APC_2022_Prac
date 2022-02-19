@@ -1,2 +1,0 @@
-CUDA_TOOLKIT_ROOT_DIR not found or specified
-autoware_driveworks_interface won't be built, CUDA and aarch64 are required.

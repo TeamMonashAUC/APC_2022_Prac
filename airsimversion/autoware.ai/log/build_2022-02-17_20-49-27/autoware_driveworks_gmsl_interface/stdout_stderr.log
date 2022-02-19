@@ -1,8 +1,0 @@
-Built target tests
-[36mInstall the project...[0m
--- Install configuration: "Release"
--- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_driveworks_gmsl_interface/lib/pkgconfig/autoware_driveworks_gmsl_interface.pc
--- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_driveworks_gmsl_interface/share/autoware_driveworks_gmsl_interface/cmake/autoware_driveworks_gmsl_interfaceConfig.cmake
--- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_driveworks_gmsl_interface/share/autoware_driveworks_gmsl_interface/cmake/autoware_driveworks_gmsl_interfaceConfig-version.cmake
--- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_driveworks_gmsl_interface/share/autoware_driveworks_gmsl_interface/package.xml
--- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_driveworks_gmsl_interface/share/autoware_driveworks_gmsl_interface/nodelet_gmsl_camera.xml

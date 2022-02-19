@@ -1,2 +1,0 @@
-CUDA_TOOLKIT_ROOT_DIR not found or specified
-gmsl_camera driver will not be built. CUDA was not found.

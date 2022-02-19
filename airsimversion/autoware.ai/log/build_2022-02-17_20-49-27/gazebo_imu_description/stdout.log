@@ -1,9 +1,0 @@
-Built target tests
-[36mInstall the project...[0m
--- Install configuration: "Release"
--- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gazebo_imu_description/lib/pkgconfig/gazebo_imu_description.pc
--- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/cmake/gazebo_imu_descriptionConfig.cmake
--- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/cmake/gazebo_imu_descriptionConfig-version.cmake
--- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/package.xml
--- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/urdf
--- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gazebo_imu_description/share/gazebo_imu_description/urdf/imu.xacro
