@@ -53,4 +53,4 @@ If you have Nvidia GPU, install CUDA ( this version below is for Ubuntu 18.04):
  1) If you find out that there is log files, install files and build files in the Github repository, you can recorrect it by pulling it , delete them then pushing back again.
 
 ## PROTOCOLS FOR GIT PUSHING AND GIT PULLING FOR ALL REPOSITORY
- Please refer to this link: https://docs.google.com/document/d/1Pfw7eHWmMhLx0jqc95NdSMOaUkW31QaqW7IGphx6vds/edit?usp=sharing
+ Please refer to this link: https://docs.google.com/document/d/1Pfw7eHWmMhLx0jqc95NdSMOaUkW31QaqW7IGphx6vds/edit?usp=sharing and search for this section "Protocols for Git Pushing changes to the Github repository when working as a team"
