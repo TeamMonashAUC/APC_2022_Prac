@@ -29,6 +29,11 @@ If you have Nvidia GPU, install CUDA ( this version below is for Ubuntu 18.04):
     $ cd && rm -rf 3.3.7.tar.gz && rm -rf eigen #Remove downloaded and temporary files
 
 ### Git cloning for the first time and Git pulling every single time:
+
+   ##### If you have build, log and install files 
+     a. Remove your build, log and install files and place them temporarily in other directories before you pull.
+     b. Move them back after you pulled and proceed to the next section.
+     
    ##### 1. Install dependencies using rosdep:
       a. $ cd ~/APC_2022_Prac/airsimversion/autoware.ai
       b. $ rosdep update
@@ -41,6 +46,8 @@ If you have Nvidia GPU, install CUDA ( this version below is for Ubuntu 18.04):
 
     b. Without CUDA Support
       $ colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release
+   
+
 
 
 ### GIT PUSHING EVERY SINGLE TIME:
