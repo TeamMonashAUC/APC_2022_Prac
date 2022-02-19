@@ -1,0 +1,160 @@
+[0.022s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher -- -j6 -l6
+[0.149s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher -- -j6 -l6
+[0.386s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher --target tests -- -j6 -l6
+[0.576s] Built target tests
+[0.598s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher --target tests -- -j6 -l6
+[0.710s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher --target install -- -j6 -l6
+[0.783s] [36mInstall the project...[0m
+[0.794s] -- Install configuration: "Release"
+[0.800s] + cd /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/utilities/autoware_launcher
+[0.800s] + mkdir -p /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages
+[0.800s] + /usr/bin/env PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages CATKIN_BINARY_DIR=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher /usr/bin/python2 /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/utilities/autoware_launcher/setup.py build --build-base /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher install --root=/ --install-layout=deb --prefix=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher --install-scripts=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/bin
+[0.844s] running build
+[0.845s] running build_py
+[0.849s] running install
+[0.849s] running install_lib
+[0.850s] running install_egg_info
+[0.851s] Removing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher-1.12.0.egg-info
+[0.851s] Writing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/lib/python2.7/dist-packages/autoware_launcher-1.12.0.egg-info
+[0.858s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/lib/pkgconfig/autoware_launcher.pc
+[0.858s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/cmake/autoware_launcherConfig.cmake
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/cmake/autoware_launcherConfig-version.cmake
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/package.xml
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/lib/autoware_launcher/main
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/lib/autoware_launcher/tool
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/lgsvl.yaml
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/rosbagplay.xml
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/dummy.yaml
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/skins
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/skins/qt.css
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/skins/autoware.css
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/resources/autoware_logo.png
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins
+[0.859s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/root
+[0.860s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/root/default.yaml
+[0.860s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver
+[0.860s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/lidar
+[0.860s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/lidar/vlp16.xml
+[0.860s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/lidar/vlp32c.xml
+[0.860s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/lidar/vlp32c.yaml
+[0.860s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/lidar/vlp16.yaml
+[0.860s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/camera
+[0.860s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/camera/usb.xml
+[0.860s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/driver/camera/usb.yaml
+[0.861s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node
+[0.861s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/detection.yaml
+[0.861s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/camera_node.yaml
+[0.862s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/lidar_multi.yaml
+[0.862s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/lidar_single.yaml
+[0.862s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/decision.yaml
+[0.862s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/lidar_merge.yaml
+[0.863s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/prediction.yaml
+[0.863s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/sensing.yaml
+[0.863s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/camera_group.yaml
+[0.863s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/detect_tl.yaml
+[0.863s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/lidar_group.yaml
+[0.863s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/detect_obj.yaml
+[0.863s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/localization.yaml
+[0.864s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/mission.yaml
+[0.864s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/motion.yaml
+[0.864s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/node/lidar_node.yaml
+[0.864s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf
+[0.864s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/map.yaml
+[0.864s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/map.xml
+[0.864s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/voxel_grid_filter.xml
+[0.866s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/transform_v2v.xml
+[0.867s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/lane_rule.xml
+[0.867s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/waypoint_loader.yaml
+[0.867s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/waypoint_loader.xml
+[0.867s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/pure_pursuit.yaml
+[0.867s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/calibration.xml
+[0.867s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/calibration.yaml
+[0.867s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/concat.xml
+[0.867s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/voxel_grid_filter.yaml
+[0.867s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/lane_stop.xml
+[0.867s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/pure_pursuit.xml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/transform_v2b.yaml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/vehicle.yaml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/rviz.yaml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/transform_v2v.yaml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/concat.yaml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/lane_stop.yaml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/vehicle.xml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/rviz.xml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/lane_rule.yaml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/leaf/transform_v2b.xml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/imm_ukf_pda_track.yaml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/velocity_set.yaml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/euclidean_cluster.yaml
+[0.868s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/lane_select.yaml
+[0.869s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/twist_filter.yaml
+[0.869s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/yolov3.yaml
+[0.869s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/nmea2tfpose.yaml
+[0.869s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/ndt_matching.yaml
+[0.869s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/range_vision_fusion.yaml
+[0.869s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/native_motion_predict.yaml
+[0.869s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/tl_recognition.yaml
+[0.869s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/astar_avoid.yaml
+[0.869s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/ray_ground_filter.yaml
+[0.869s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/tl_mxnet.yaml
+[0.869s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/vel_pose_connect.yaml
+[0.869s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/plugins/refs/tl_projection.yaml
+[0.870s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles
+[0.870s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart
+[0.870s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root
+[0.870s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection.yaml
+[0.870s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/map.yaml
+[0.870s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/decision.yaml
+[0.870s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/prediction
+[0.870s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/prediction/native_motion_predict.yaml
+[0.870s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection
+[0.870s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/traffic_lights
+[0.870s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/traffic_lights/recognition.yaml
+[0.870s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/traffic_lights/projection.yaml
+[0.870s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object
+[0.871s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object/points_preproc.yaml
+[0.871s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object/tracking.yaml
+[0.871s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object/images_detect.yaml
+[0.871s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object/fusion.yaml
+[0.871s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object/points_detect.yaml
+[0.871s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/traffic_lights.yaml
+[0.871s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/detection/object.yaml
+[0.871s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/prediction.yaml
+[0.872s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing.yaml
+[0.872s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion
+[0.872s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion/velocity_set.yaml
+[0.872s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion/waypoint_loader.yaml
+[0.872s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion/pure_pursuit.yaml
+[0.872s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion/twist_filter.yaml
+[0.873s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion/astar_avoid.yaml
+[0.873s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/visualization.yaml
+[0.873s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/localization
+[0.873s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/localization/downsampler.yaml
+[0.873s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/localization/vel_pose_connect.yaml
+[0.873s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/localization/localizer.yaml
+[0.873s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/mission
+[0.873s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/mission/lane_select.yaml
+[0.873s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/mission/lane_stop.yaml
+[0.873s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/mission/lane_rule.yaml
+[0.874s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/vehicle.yaml
+[0.874s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/localization.yaml
+[0.874s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/mission.yaml
+[0.874s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing
+[0.874s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/camera.yaml
+[0.874s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/lidar.yaml
+[0.876s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/lidar
+[0.877s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/lidar/transform.yaml
+[0.877s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/gnss.yaml
+[0.877s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/camera
+[0.877s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/camera/camera0.yaml
+[0.877s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/camera/camera0
+[0.877s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/sensing/camera/camera0/calibration.yaml
+[0.877s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root/motion.yaml
+[0.877s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/root.yaml
+[0.877s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/files
+[0.877s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart/files/default.rviz
+[0.877s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/.gitignore
+[0.877s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_launcher/share/autoware_launcher/profiles/quickstart.launch
+[0.878s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_launcher --target install -- -j6 -l6

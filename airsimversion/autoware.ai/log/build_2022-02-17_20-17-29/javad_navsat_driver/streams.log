@@ -1,0 +1,90 @@
+[0.012s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver': /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/drivers/awf_drivers/javad_navsat_driver -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver
+[0.084s] -- The C compiler identification is GNU 7.5.0
+[0.146s] -- The CXX compiler identification is GNU 7.5.0
+[0.151s] -- Check for working C compiler: /usr/bin/cc
+[0.224s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.224s] -- Detecting C compiler ABI info
+[0.302s] -- Detecting C compiler ABI info - done
+[0.311s] -- Detecting C compile features
+[0.520s] -- Detecting C compile features - done
+[0.523s] -- Check for working CXX compiler: /usr/bin/c++
+[0.604s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.605s] -- Detecting CXX compiler ABI info
+[0.702s] -- Detecting CXX compiler ABI info - done
+[0.708s] -- Detecting CXX compile features
+[1.071s] -- Detecting CXX compile features - done
+[1.073s] -- Using CATKIN_DEVEL_PREFIX: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver/devel
+[1.074s] -- Using CMAKE_PREFIX_PATH: /opt/ros/melodic
+[1.074s] -- This workspace overlays: /opt/ros/melodic
+[1.089s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[1.090s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[1.090s] -- Using Debian Python package layout
+[1.090s] -- Using empy: /usr/bin/empy
+[1.256s] -- Using CATKIN_ENABLE_TESTING: ON
+[1.256s] -- Call enable_testing()
+[1.262s] -- Using CATKIN_TEST_RESULTS_DIR: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver/test_results
+[1.281s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[1.281s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[1.296s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[1.297s] -- Looking for pthread.h
+[1.375s] -- Looking for pthread.h - found
+[1.381s] -- Looking for pthread_create
+[1.466s] -- Looking for pthread_create - not found
+[1.467s] -- Looking for pthread_create in pthreads
+[1.529s] -- Looking for pthread_create in pthreads - not found
+[1.529s] -- Looking for pthread_create in pthread
+[1.602s] -- Looking for pthread_create in pthread - found
+[1.604s] -- Found Threads: TRUE  
+[1.609s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[1.659s] -- catkin 0.7.29
+[1.660s] -- BUILD_SHARED_LIBS is on
+[2.536s] -- Configuring done
+[2.565s] -- Generating done
+[2.570s] -- Build files have been written to: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver
+[2.577s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver' returned '0': /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/drivers/awf_drivers/javad_navsat_driver -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver
+[2.579s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver -- -j6 -l6
+[2.641s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver -- -j6 -l6
+[2.793s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver --target tests -- -j6 -l6
+[2.864s] [35m[1mScanning dependencies of target tests[0m
+[2.883s] Built target tests
+[2.898s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver --target tests -- -j6 -l6
+[2.947s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver --target install -- -j6 -l6
+[3.005s] [36mInstall the project...[0m
+[3.016s] -- Install configuration: "Release"
+[3.018s] + cd /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/drivers/awf_drivers/javad_navsat_driver
+[3.018s] + mkdir -p /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages
+[3.020s] + /usr/bin/env PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages CATKIN_BINARY_DIR=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver /usr/bin/python2 /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/drivers/awf_drivers/javad_navsat_driver/setup.py build --build-base /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver install --root=/ --install-layout=deb --prefix=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver --install-scripts=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/bin
+[3.063s] running build
+[3.063s] running build_py
+[3.064s] creating /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver/lib.linux-x86_64-2.7
+[3.064s] creating /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver/lib.linux-x86_64-2.7/libjavad_navsat_driver
+[3.064s] copying lib/libjavad_navsat_driver/parser.py -> /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver/lib.linux-x86_64-2.7/libjavad_navsat_driver
+[3.065s] copying lib/libjavad_navsat_driver/__init__.py -> /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver/lib.linux-x86_64-2.7/libjavad_navsat_driver
+[3.065s] copying lib/libjavad_navsat_driver/checksum_utils.py -> /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver/lib.linux-x86_64-2.7/libjavad_navsat_driver
+[3.065s] copying lib/libjavad_navsat_driver/driver.py -> /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver/lib.linux-x86_64-2.7/libjavad_navsat_driver
+[3.066s] running install
+[3.066s] running install_lib
+[3.067s] creating /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages/libjavad_navsat_driver
+[3.067s] copying /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver/lib.linux-x86_64-2.7/libjavad_navsat_driver/parser.py -> /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages/libjavad_navsat_driver
+[3.067s] copying /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver/lib.linux-x86_64-2.7/libjavad_navsat_driver/__init__.py -> /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages/libjavad_navsat_driver
+[3.068s] copying /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver/lib.linux-x86_64-2.7/libjavad_navsat_driver/checksum_utils.py -> /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages/libjavad_navsat_driver
+[3.068s] copying /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver/lib.linux-x86_64-2.7/libjavad_navsat_driver/driver.py -> /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages/libjavad_navsat_driver
+[3.068s] byte-compiling /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages/libjavad_navsat_driver/parser.py to parser.pyc
+[3.070s] byte-compiling /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages/libjavad_navsat_driver/__init__.py to __init__.pyc
+[3.071s] byte-compiling /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages/libjavad_navsat_driver/checksum_utils.py to checksum_utils.pyc
+[3.072s] byte-compiling /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages/libjavad_navsat_driver/driver.py to driver.pyc
+[3.073s] running install_egg_info
+[3.074s] Writing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/python2.7/dist-packages/javad_navsat_driver-1.12.0.egg-info
+[3.081s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/pkgconfig/javad_navsat_driver.pc
+[3.081s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/cmake/javad_navsat_driverConfig.cmake
+[3.082s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/cmake/javad_navsat_driverConfig-version.cmake
+[3.082s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/package.xml
+[3.082s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/javad_navsat_driver/javad_serial_driver
+[3.083s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/javad_navsat_driver/javad_topic_driver
+[3.083s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/lib/javad_navsat_driver/javad_topic_serial_reader
+[3.083s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/launch
+[3.083s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/launch/javad_navsat.launch
+[3.084s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/cfg
+[3.084s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/cfg/disable.cfg
+[3.084s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/javad_navsat_driver/share/javad_navsat_driver/cfg/enable.cfg
+[3.090s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/javad_navsat_driver --target install -- -j6 -l6

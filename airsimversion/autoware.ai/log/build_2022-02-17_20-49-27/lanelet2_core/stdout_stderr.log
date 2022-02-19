@@ -1,0 +1,92 @@
+[  0%] Built target _catkin_empty_exported_target
+[100%] Built target lanelet2_core
+[  0%] Built target _catkin_empty_exported_target
+[  5%] Built target gtest
+[ 31%] Built target lanelet2_core
+[ 37%] Built target gtest_main
+[ 42%] Built target lanelet2_core-test_polygon-test
+[ 48%] Built target lanelet2_core-test_lanelet-test
+[ 54%] Built target lanelet2_core-test_lanelet_map_geometry-test
+[ 60%] Built target lanelet2_core-test_area-test
+[ 65%] Built target lanelet2_core-test_point-test
+[ 71%] Built target lanelet2_core-test_lanelet_map-test
+[ 77%] Built target lanelet2_core-test_regulatory_element-test
+[ 82%] Built target lanelet2_core-test_attribute-test
+[ 88%] Built target lanelet2_core-test_lanelet_sequence-test
+[ 94%] Built target lanelet2_core-test_lanelet_or_area-test
+[100%] Built target lanelet2_core-test_linestring-test
+[100%] Built target tests
+[  0%] Built target _catkin_empty_exported_target
+[100%] Built target lanelet2_core
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/pkgconfig/lanelet2_core.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/cmake/lanelet2_coreConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/cmake/lanelet2_coreConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/liblanelet2_core.so
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/LaneletMap.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/GeometryHelper.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/Point.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/LaneletMap.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/Polygon.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/RegulatoryElement.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/BoundingBox.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/LineString.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/impl
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/impl/LaneletMap.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/impl/Polygon.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/impl/LineString.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/impl/Area.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/impl/Lanelet.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/Area.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/geometry/Lanelet.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/Exceptions.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/Attribute.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/Forward.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/Optional.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/HybridMap.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/Utilities.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/CompoundIterator.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/Units.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/TransformIterator.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/utility/ReverseAndForwardIterator.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/Point.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/Polygon.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/GPSPoint.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/LineStringOrPolygon.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/RegulatoryElement.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/LaneletOrArea.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/BoundingBox.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/LineString.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/CompoundPolygon.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/LaneletSequence.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/Area.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/Traits.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/Lanelet.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/BasicRegulatoryElements.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/Primitive.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/include/lanelet2_core/primitives/CompoundLineString.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/res
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/res/lanelet_gdb.py
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/res/qtcreator_debugging_helpers.py
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/RegulatoryElementTagging.md
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/LaneletPrimitives.md
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/LinestringTagging.md
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/Lanelet1Compability.md
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/GeometryPrimer.md
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/Architecture.md
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/lanelet.png
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/area.png
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/linestring.png
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/architecture.png
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/max_hose_problem_small.png
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/regulatory_element.png
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/images/lanelet2_example_image.png
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share/lanelet2_core/doc/LaneletAndAreaTagging.md

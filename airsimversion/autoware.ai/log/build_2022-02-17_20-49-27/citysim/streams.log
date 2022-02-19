@@ -1,0 +1,88 @@
+[0.025s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim -- -j6 -l6
+[0.108s] [  8%] [34m[1mAutomatic MOC for target TrafficLightsGUIPlugin[0m
+[0.110s] [ 16%] [34m[1mAutomatic MOC for target LensFlareVisualPlugin[0m
+[0.121s] [ 25%] [34m[1mAutomatic MOC for target BloomVisualPlugin[0m
+[0.140s] [ 25%] Built target TrafficLightsGUIPlugin_autogen
+[0.140s] [ 25%] Built target LensFlareVisualPlugin_autogen
+[0.149s] [ 25%] Built target BloomVisualPlugin_autogen
+[0.207s] [ 50%] Built target LensFlareVisualPlugin
+[0.208s] [ 75%] Built target BloomVisualPlugin
+[0.216s] [100%] Built target TrafficLightsGUIPlugin
+[0.230s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim -- -j6 -l6
+[0.302s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim --target install -- -j6 -l6
+[0.371s] [  8%] [34m[1mAutomatic MOC for target LensFlareVisualPlugin[0m
+[0.372s] [ 16%] [34m[1mAutomatic MOC for target TrafficLightsGUIPlugin[0m
+[0.380s] [ 25%] [34m[1mAutomatic MOC for target BloomVisualPlugin[0m
+[0.393s] [ 25%] Built target TrafficLightsGUIPlugin_autogen
+[0.398s] [ 25%] Built target LensFlareVisualPlugin_autogen
+[0.413s] [ 25%] Built target BloomVisualPlugin_autogen
+[0.448s] [ 50%] Built target LensFlareVisualPlugin
+[0.451s] [ 75%] Built target TrafficLightsGUIPlugin
+[0.457s] [100%] Built target BloomVisualPlugin
+[0.476s] [36mInstall the project...[0m
+[0.487s] -- Install configuration: "Release"
+[0.487s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/setup.sh
+[0.487s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim/setup.sh
+[0.488s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/lib/citysim-0/plugins/libLensFlareVisualPlugin.so
+[0.491s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/lib/citysim-0/plugins/libBloomVisualPlugin.so
+[0.491s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/lib/citysim-0/plugins/libTrafficLightsGUIPlugin.so
+[0.491s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor
+[0.491s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes
+[0.492s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/SKIN_man_red_shirt.dae
+[0.492s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/ANIMATION_talking_b.dae
+[0.493s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/SKIN_man_blue_shirt.dae
+[0.493s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/ANIMATION_talking_a.dae
+[0.493s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/ANIMATION_running.dae
+[0.493s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/SKIN_man_green_shirt.dae
+[0.494s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/ANIMATION_walking.dae
+[0.494s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/model.sdf
+[0.494s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/model.config
+[0.494s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain
+[0.495s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/model.sdf
+[0.495s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/model.config
+[0.495s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials
+[0.495s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials/textures
+[0.495s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials/textures/city_terrain.jpg
+[0.495s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials/textures/city_terrain (original).jpg
+[0.496s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials/textures/forest.jpg
+[0.496s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean
+[0.496s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/mesh_below.dae
+[0.496s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/model.sdf
+[0.496s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/mesh-simple.dae
+[0.496s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/model.config
+[0.496s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/mesh.dae
+[0.496s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/mesh.blend
+[0.496s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials
+[0.496s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/scripts
+[0.496s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/scripts/ocean.material
+[0.496s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/programs
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/programs/GLSL
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/programs/GLSL/Waves.vert
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/programs/GLSL/Waves.frag
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_dn.jpg
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_rt.jpg
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/soil_sand_0045_01.jpg
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_bk.jpg
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_fr.jpg
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/License and source soil_sand_0045_01.txt
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds.jpg
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_up.jpg
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_lf.jpg
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/normals.dds
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/worlds/citysim_gazebo7.world
+[0.497s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/worlds/citysim_gazebo9.world
+[0.498s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/worlds/rendering.world
+[0.498s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/worlds/simple_city.world
+[0.498s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/scripts/Bloom2.material
+[0.498s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/scripts/citysim.material
+[0.498s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/scripts/Bloom2.compositor
+[0.498s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/scripts/StdQuad_vp.program
+[0.498s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/Bloom2_ps20.glsl
+[0.498s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/BlurH_ps20.glsl
+[0.498s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/BlurV_ps20.glsl
+[0.498s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/Blur_vs.glsl
+[0.498s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/BrightBloom2_ps20.glsl
+[0.498s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/StdQuad_Tex2a_vp.glsl
+[0.498s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/StdQuad_vp.glsl
+[0.519s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim --target install -- -j6 -l6

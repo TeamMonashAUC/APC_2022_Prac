@@ -1,0 +1,18 @@
+Built target tests
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/lib/pkgconfig/kitti_launch.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/cmake/kitti_launchConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/cmake/kitti_launchConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/launch/launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/launch/launch/kittiplayer.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/launch/launch/xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/launch/launch/xml/camera_lidar.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/launch/launch/xml/points_raw.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/launch/xml/xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/launch/xml/xml/camera_lidar.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/launch/xml/xml/points_raw.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/calib/calib
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/calib/calib/kitti_cam02_sync_kitti_conv.yml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_launch/share/kitti_launch/calib/calib/kitti_cam02_sync.yml

@@ -1,0 +1,22 @@
+[  0%] Built target _catkin_empty_exported_target
+[100%] Built target lanelet2_projection
+[  0%] Built target _catkin_empty_exported_target
+[ 20%] Built target gtest
+[ 40%] Built target lanelet2_projection
+[ 60%] Built target gtest_main
+[ 80%] Built target lanelet2_projection-test_UTM-test
+[100%] Built target lanelet2_projection-test_Mercator-test
+[100%] Built target tests
+[  0%] Built target _catkin_empty_exported_target
+[100%] Built target lanelet2_projection
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/pkgconfig/lanelet2_projection.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/share/lanelet2_projection/cmake/lanelet2_projectionConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/share/lanelet2_projection/cmake/lanelet2_projectionConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/share/lanelet2_projection/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/liblanelet2_projection.so
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/include/lanelet2_projection
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/include/lanelet2_projection/Mercator.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/include/lanelet2_projection/internal
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/include/lanelet2_projection/UTM.h

@@ -1,0 +1,6 @@
+Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools -- -j6 -l6
+Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools -- -j6 -l6
+Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools --target tests -- -j6 -l6
+Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools --target tests -- -j6 -l6
+Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools --target install -- -j6 -l6
+Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools --target install -- -j6 -l6

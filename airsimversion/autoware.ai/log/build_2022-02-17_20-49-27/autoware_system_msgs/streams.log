@@ -1,0 +1,117 @@
+[0.040s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs -- -j6 -l6
+[0.194s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.198s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.204s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_HardwareStatus
+[0.217s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_SystemStatus
+[0.286s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.298s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_DiagnosticStatus
+[0.300s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.322s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_DiagnosticStatusArray
+[0.324s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_NodeStatus
+[0.338s] [  0%] Built target std_msgs_generate_messages_py
+[0.362s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.375s] [  0%] Built target std_msgs_generate_messages_eus
+[0.384s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.385s] [ 18%] Built target autoware_system_msgs_generate_messages_lisp
+[0.396s] [ 18%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.415s] [ 18%] Built target rosgraph_msgs_generate_messages_eus
+[0.440s] [ 37%] Built target autoware_system_msgs_generate_messages_cpp
+[0.450s] [ 59%] Built target autoware_system_msgs_generate_messages_py
+[0.461s] [ 77%] Built target autoware_system_msgs_generate_messages_nodejs
+[0.472s] [100%] Built target autoware_system_msgs_generate_messages_eus
+[0.494s] [100%] Built target autoware_system_msgs_generate_messages
+[0.510s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs -- -j6 -l6
+[0.627s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs --target tests -- -j6 -l6
+[0.715s] Built target tests
+[0.727s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs --target tests -- -j6 -l6
+[0.896s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs --target install -- -j6 -l6
+[0.990s] [  0%] Built target std_msgs_generate_messages_lisp
+[1.004s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[1.025s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_HardwareStatus
+[1.030s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_NodeStatus
+[1.031s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_SystemStatus
+[1.037s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_DiagnosticStatus
+[1.044s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[1.053s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.084s] [  0%] Built target _autoware_system_msgs_generate_messages_check_deps_DiagnosticStatusArray
+[1.092s] [  0%] Built target std_msgs_generate_messages_nodejs
+[1.094s] [  0%] Built target std_msgs_generate_messages_py
+[1.100s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[1.104s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[1.132s] [ 18%] Built target autoware_system_msgs_generate_messages_lisp
+[1.141s] [ 18%] Built target rosgraph_msgs_generate_messages_eus
+[1.142s] [ 40%] Built target autoware_system_msgs_generate_messages_py
+[1.146s] [ 59%] Built target autoware_system_msgs_generate_messages_cpp
+[1.151s] [ 77%] Built target autoware_system_msgs_generate_messages_nodejs
+[1.153s] [ 77%] Built target std_msgs_generate_messages_eus
+[1.184s] [100%] Built target autoware_system_msgs_generate_messages_eus
+[1.213s] [100%] Built target autoware_system_msgs_generate_messages
+[1.243s] [36mInstall the project...[0m
+[1.247s] -- Install configuration: "Release"
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/msg/DiagnosticStatus.msg
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/msg/DiagnosticStatusArray.msg
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/msg/HardwareStatus.msg
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/msg/NodeStatus.msg
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/msg/SystemStatus.msg
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/cmake/autoware_system_msgs-msg-paths.cmake
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/include/autoware_system_msgs
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/include/autoware_system_msgs/SystemStatus.h
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/include/autoware_system_msgs/DiagnosticStatus.h
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/include/autoware_system_msgs/NodeStatus.h
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/include/autoware_system_msgs/HardwareStatus.h
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/include/autoware_system_msgs/DiagnosticStatusArray.h
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs
+[1.248s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/msg
+[1.249s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/msg/NodeStatus.l
+[1.249s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/msg/DiagnosticStatus.l
+[1.249s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/msg/DiagnosticStatusArray.l
+[1.249s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/msg/SystemStatus.l
+[1.249s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/msg/HardwareStatus.l
+[1.249s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/roseus/ros/autoware_system_msgs/manifest.l
+[1.249s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs
+[1.249s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg
+[1.249s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/_package_DiagnosticStatusArray.lisp
+[1.249s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/SystemStatus.lisp
+[1.249s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/_package.lisp
+[1.249s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/DiagnosticStatusArray.lisp
+[1.249s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/_package_NodeStatus.lisp
+[1.250s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/_package_DiagnosticStatus.lisp
+[1.250s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/_package_HardwareStatus.lisp
+[1.250s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/NodeStatus.lisp
+[1.250s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/HardwareStatus.lisp
+[1.250s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/autoware_system_msgs-msg.asd
+[1.250s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/_package_SystemStatus.lisp
+[1.250s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/common-lisp/ros/autoware_system_msgs/msg/DiagnosticStatus.lisp
+[1.250s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs
+[1.251s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg
+[1.251s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg/DiagnosticStatus.js
+[1.251s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg/_index.js
+[1.251s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg/DiagnosticStatusArray.js
+[1.251s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg/HardwareStatus.js
+[1.251s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg/SystemStatus.js
+[1.251s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/msg/NodeStatus.js
+[1.251s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/gennodejs/ros/autoware_system_msgs/_index.js
+[1.272s] Listing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs/devel/lib/python2.7/dist-packages/autoware_system_msgs ...
+[1.273s] Listing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs/devel/lib/python2.7/dist-packages/autoware_system_msgs/msg ...
+[1.275s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs
+[1.275s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg
+[1.276s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_HardwareStatus.pyc
+[1.276s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_DiagnosticStatus.pyc
+[1.276s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/__init__.pyc
+[1.277s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_SystemStatus.pyc
+[1.277s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_HardwareStatus.py
+[1.277s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_DiagnosticStatusArray.pyc
+[1.277s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_SystemStatus.py
+[1.277s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_NodeStatus.py
+[1.277s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/__init__.py
+[1.277s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_DiagnosticStatusArray.py
+[1.277s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_NodeStatus.pyc
+[1.277s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/msg/_DiagnosticStatus.py
+[1.278s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/__init__.pyc
+[1.278s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages/autoware_system_msgs/__init__.py
+[1.281s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/pkgconfig/autoware_system_msgs.pc
+[1.282s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/cmake/autoware_system_msgs-msg-extras.cmake
+[1.282s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/cmake/autoware_system_msgsConfig.cmake
+[1.282s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/cmake/autoware_system_msgsConfig-version.cmake
+[1.282s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share/autoware_system_msgs/package.xml
+[1.284s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_system_msgs --target install -- -j6 -l6

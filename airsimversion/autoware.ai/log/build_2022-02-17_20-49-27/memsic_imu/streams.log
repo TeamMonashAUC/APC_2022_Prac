@@ -1,0 +1,18 @@
+[0.019s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/memsic_imu': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/memsic_imu -- -j6 -l6
+[0.131s] [100%] Built target vg440_node
+[0.145s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/memsic_imu' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/memsic_imu -- -j6 -l6
+[0.366s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/memsic_imu': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/memsic_imu --target tests -- -j6 -l6
+[0.463s] Built target tests
+[0.509s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/memsic_imu' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/memsic_imu --target tests -- -j6 -l6
+[0.620s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/memsic_imu': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/memsic_imu --target install -- -j6 -l6
+[0.677s] [100%] Built target vg440_node
+[0.695s] [36mInstall the project...[0m
+[0.704s] -- Install configuration: "Release"
+[0.704s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/lib/pkgconfig/memsic_imu.pc
+[0.704s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/share/memsic_imu/cmake/memsic_imuConfig.cmake
+[0.704s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/share/memsic_imu/cmake/memsic_imuConfig-version.cmake
+[0.704s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/share/memsic_imu/package.xml
+[0.705s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/lib/memsic_imu/vg440_node
+[0.705s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/share/memsic_imu/launch
+[0.707s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/share/memsic_imu/launch/vg440.launch
+[0.723s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/memsic_imu' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/memsic_imu --target install -- -j6 -l6

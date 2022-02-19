@@ -1,0 +1,219 @@
+[0.035s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/road_occupancy_processor': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/road_occupancy_processor -- -j6 -l6
+[0.097s] [  0%] Built target pcl_msgs_generate_messages_eus
+[0.119s] [  0%] Built target vector_map_msgs_generate_messages_nodejs
+[0.149s] [  0%] Built target bond_generate_messages_py
+[0.172s] [  0%] Built target bond_generate_messages_nodejs
+[0.193s] [  0%] Built target bond_generate_messages_lisp
+[0.218s] [  0%] Built target bond_generate_messages_eus
+[0.245s] [  0%] Built target bond_generate_messages_cpp
+[0.275s] [  0%] Built target nodelet_generate_messages_nodejs
+[0.301s] [  0%] Built target nodelet_generate_messages_lisp
+[0.324s] [  0%] Built target nodelet_generate_messages_eus
+[0.346s] [  0%] Built target nodelet_generate_messages_cpp
+[0.379s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[0.400s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[0.421s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[0.453s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[0.481s] [  0%] Built target pcl_ros_gencfg
+[0.505s] [  0%] Built target grid_map_msgs_generate_messages_nodejs
+[0.527s] [  0%] Built target grid_map_msgs_generate_messages_eus
+[0.554s] [  0%] Built target roscpp_generate_messages_py
+[0.582s] [  0%] Built target grid_map_msgs_generate_messages_cpp
+[0.615s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.642s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.668s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.692s] [  0%] Built target topic_tools_generate_messages_cpp
+[0.715s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.738s] [  0%] Built target std_msgs_generate_messages_py
+[0.761s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.790s] [  0%] Built target grid_map_msgs_generate_messages_lisp
+[0.814s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[0.835s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.861s] [  0%] Built target std_srvs_generate_messages_cpp
+[0.882s] [  0%] Built target nav_msgs_generate_messages_cpp
+[0.906s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[0.937s] [  0%] Built target std_srvs_generate_messages_eus
+[0.965s] [  0%] Built target roscpp_generate_messages_lisp
+[0.995s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.023s] [  0%] Built target std_msgs_generate_messages_eus
+[1.049s] [  0%] Built target visualization_msgs_generate_messages_lisp
+[1.075s] [  0%] Built target visualization_msgs_generate_messages_nodejs
+[1.101s] [  0%] Built target nav_msgs_generate_messages_nodejs
+[1.128s] [  0%] Built target roscpp_generate_messages_cpp
+[1.148s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[1.174s] [  0%] Built target actionlib_generate_messages_cpp
+[1.198s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[1.226s] [  0%] Built target nodelet_generate_messages_py
+[1.250s] [  0%] Built target sensor_msgs_generate_messages_py
+[1.273s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[1.294s] [  0%] Built target tf_generate_messages_py
+[1.320s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[1.343s] [  0%] Built target roscpp_generate_messages_nodejs
+[1.373s] [  0%] Built target std_msgs_generate_messages_lisp
+[1.401s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[1.426s] [  0%] Built target sensor_msgs_generate_messages_eus
+[1.447s] [  0%] Built target grid_map_msgs_generate_messages_py
+[1.470s] [  0%] Built target geometry_msgs_generate_messages_py
+[1.491s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[1.523s] [  0%] Built target nav_msgs_generate_messages_lisp
+[1.544s] [  0%] Built target roscpp_generate_messages_eus
+[1.568s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[1.590s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[1.614s] [  0%] Built target actionlib_msgs_generate_messages_py
+[1.635s] [  0%] Built target std_srvs_generate_messages_lisp
+[1.657s] [  0%] Built target topic_tools_generate_messages_lisp
+[1.683s] [  0%] Built target std_srvs_generate_messages_nodejs
+[1.712s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[1.743s] [  0%] Built target actionlib_generate_messages_lisp
+[1.767s] [  0%] Built target std_srvs_generate_messages_py
+[1.791s] [  0%] Built target topic_tools_generate_messages_eus
+[1.821s] [  0%] Built target topic_tools_generate_messages_nodejs
+[1.848s] [  0%] Built target nodelet_topic_tools_gencfg
+[1.872s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[1.899s] [  0%] Built target topic_tools_generate_messages_py
+[1.923s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[1.947s] [  0%] Built target tf_generate_messages_eus
+[1.977s] [  0%] Built target tf_generate_messages_lisp
+[2.003s] [  0%] Built target tf_generate_messages_nodejs
+[2.034s] [  0%] Built target pcl_msgs_generate_messages_py
+[2.068s] [  0%] Built target actionlib_generate_messages_eus
+[2.093s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[2.124s] [  0%] Built target tf_generate_messages_cpp
+[2.153s] [  0%] Built target actionlib_generate_messages_nodejs
+[2.176s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[2.200s] [  0%] Built target dynamic_reconfigure_gencfg
+[2.225s] [  0%] Built target nav_msgs_generate_messages_py
+[2.245s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[2.269s] [  0%] Built target actionlib_generate_messages_py
+[2.302s] [  0%] Built target tf2_msgs_generate_messages_py
+[2.329s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[2.354s] [  0%] Built target nav_msgs_generate_messages_eus
+[2.377s] [  0%] Built target tf2_msgs_generate_messages_eus
+[2.399s] [  0%] Built target visualization_msgs_generate_messages_cpp
+[2.424s] [  0%] Built target visualization_msgs_generate_messages_eus
+[2.457s] [  0%] Built target visualization_msgs_generate_messages_py
+[2.495s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[2.518s] [  0%] Built target vector_map_msgs_generate_messages_cpp
+[2.554s] [  0%] Built target vector_map_msgs_generate_messages_eus
+[2.572s] [  0%] Built target vector_map_msgs_generate_messages_lisp
+[2.600s] [  0%] Built target vector_map_msgs_generate_messages_py
+[2.651s] [ 50%] Built target road_occupancy_processor_lib
+[2.697s] [100%] Built target road_occupancy_processor
+[2.713s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/road_occupancy_processor' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/road_occupancy_processor -- -j6 -l6
+[2.861s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/road_occupancy_processor': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/road_occupancy_processor --target tests -- -j6 -l6
+[2.941s] Built target tests
+[2.959s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/road_occupancy_processor' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/road_occupancy_processor --target tests -- -j6 -l6
+[3.091s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/road_occupancy_processor': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/road_occupancy_processor --target install -- -j6 -l6
+[3.167s] [  0%] Built target pcl_msgs_generate_messages_eus
+[3.199s] [  0%] Built target vector_map_msgs_generate_messages_nodejs
+[3.222s] [  0%] Built target bond_generate_messages_py
+[3.242s] [  0%] Built target bond_generate_messages_nodejs
+[3.263s] [  0%] Built target bond_generate_messages_lisp
+[3.291s] [  0%] Built target bond_generate_messages_eus
+[3.312s] [  0%] Built target bond_generate_messages_cpp
+[3.334s] [  0%] Built target nodelet_generate_messages_nodejs
+[3.355s] [  0%] Built target nodelet_generate_messages_lisp
+[3.376s] [  0%] Built target nodelet_generate_messages_eus
+[3.401s] [  0%] Built target nodelet_generate_messages_cpp
+[3.425s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[3.446s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[3.467s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[3.494s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[3.516s] [  0%] Built target pcl_ros_gencfg
+[3.535s] [  0%] Built target grid_map_msgs_generate_messages_nodejs
+[3.557s] [  0%] Built target grid_map_msgs_generate_messages_eus
+[3.580s] [  0%] Built target roscpp_generate_messages_py
+[3.602s] [  0%] Built target grid_map_msgs_generate_messages_cpp
+[3.625s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[3.645s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[3.669s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[3.691s] [  0%] Built target topic_tools_generate_messages_cpp
+[3.715s] [  0%] Built target geometry_msgs_generate_messages_eus
+[3.735s] [  0%] Built target std_msgs_generate_messages_py
+[3.756s] [  0%] Built target std_msgs_generate_messages_nodejs
+[3.780s] [  0%] Built target grid_map_msgs_generate_messages_lisp
+[3.800s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[3.823s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[3.844s] [  0%] Built target std_srvs_generate_messages_cpp
+[3.869s] [  0%] Built target nav_msgs_generate_messages_cpp
+[3.898s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[3.924s] [  0%] Built target std_srvs_generate_messages_eus
+[3.945s] [  0%] Built target roscpp_generate_messages_lisp
+[3.966s] [  0%] Built target std_msgs_generate_messages_cpp
+[3.986s] [  0%] Built target std_msgs_generate_messages_eus
+[4.005s] [  0%] Built target visualization_msgs_generate_messages_lisp
+[4.030s] [  0%] Built target visualization_msgs_generate_messages_nodejs
+[4.058s] [  0%] Built target nav_msgs_generate_messages_nodejs
+[4.081s] [  0%] Built target roscpp_generate_messages_cpp
+[4.105s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[4.132s] [  0%] Built target actionlib_generate_messages_cpp
+[4.160s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[4.182s] [  0%] Built target nodelet_generate_messages_py
+[4.214s] [  0%] Built target sensor_msgs_generate_messages_py
+[4.238s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[4.256s] [  0%] Built target tf_generate_messages_py
+[4.278s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[4.299s] [  0%] Built target roscpp_generate_messages_nodejs
+[4.321s] [  0%] Built target std_msgs_generate_messages_lisp
+[4.343s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[4.367s] [  0%] Built target sensor_msgs_generate_messages_eus
+[4.389s] [  0%] Built target grid_map_msgs_generate_messages_py
+[4.412s] [  0%] Built target geometry_msgs_generate_messages_py
+[4.432s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[4.453s] [  0%] Built target nav_msgs_generate_messages_lisp
+[4.476s] [  0%] Built target roscpp_generate_messages_eus
+[4.497s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[4.517s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[4.541s] [  0%] Built target actionlib_msgs_generate_messages_py
+[4.572s] [  0%] Built target std_srvs_generate_messages_lisp
+[4.593s] [  0%] Built target topic_tools_generate_messages_lisp
+[4.613s] [  0%] Built target std_srvs_generate_messages_nodejs
+[4.634s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[4.654s] [  0%] Built target actionlib_generate_messages_lisp
+[4.674s] [  0%] Built target std_srvs_generate_messages_py
+[4.695s] [  0%] Built target topic_tools_generate_messages_eus
+[4.722s] [  0%] Built target topic_tools_generate_messages_nodejs
+[4.749s] [  0%] Built target nodelet_topic_tools_gencfg
+[4.780s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[4.800s] [  0%] Built target topic_tools_generate_messages_py
+[4.821s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[4.842s] [  0%] Built target tf_generate_messages_eus
+[4.864s] [  0%] Built target tf_generate_messages_lisp
+[4.886s] [  0%] Built target tf_generate_messages_nodejs
+[4.907s] [  0%] Built target pcl_msgs_generate_messages_py
+[4.929s] [  0%] Built target actionlib_generate_messages_eus
+[4.951s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[4.975s] [  0%] Built target tf_generate_messages_cpp
+[4.997s] [  0%] Built target actionlib_generate_messages_nodejs
+[5.018s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[5.044s] [  0%] Built target dynamic_reconfigure_gencfg
+[5.068s] [  0%] Built target nav_msgs_generate_messages_py
+[5.091s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[5.119s] [  0%] Built target actionlib_generate_messages_py
+[5.141s] [  0%] Built target tf2_msgs_generate_messages_py
+[5.167s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[5.197s] [  0%] Built target nav_msgs_generate_messages_eus
+[5.221s] [  0%] Built target tf2_msgs_generate_messages_eus
+[5.242s] [  0%] Built target visualization_msgs_generate_messages_cpp
+[5.264s] [  0%] Built target visualization_msgs_generate_messages_eus
+[5.284s] [  0%] Built target visualization_msgs_generate_messages_py
+[5.309s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[5.331s] [  0%] Built target vector_map_msgs_generate_messages_cpp
+[5.361s] [  0%] Built target vector_map_msgs_generate_messages_eus
+[5.383s] [  0%] Built target vector_map_msgs_generate_messages_lisp
+[5.406s] [  0%] Built target vector_map_msgs_generate_messages_py
+[5.453s] [ 50%] Built target road_occupancy_processor_lib
+[5.497s] [100%] Built target road_occupancy_processor
+[5.522s] [36mInstall the project...[0m
+[5.535s] -- Install configuration: "Release"
+[5.535s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/road_occupancy_processor/lib/pkgconfig/road_occupancy_processor.pc
+[5.535s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/road_occupancy_processor/share/road_occupancy_processor/cmake/road_occupancy_processorConfig.cmake
+[5.535s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/road_occupancy_processor/share/road_occupancy_processor/cmake/road_occupancy_processorConfig-version.cmake
+[5.536s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/road_occupancy_processor/share/road_occupancy_processor/package.xml
+[5.536s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/road_occupancy_processor/lib/road_occupancy_processor/road_occupancy_processor
+[5.536s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/road_occupancy_processor/lib/libroad_occupancy_processor_lib.so
+[5.536s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/road_occupancy_processor/include/road_occupancy_processor
+[5.536s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/road_occupancy_processor/include/road_occupancy_processor/road_occupancy_processor.h
+[5.536s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/road_occupancy_processor/share/road_occupancy_processor/launch
+[5.536s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/road_occupancy_processor/share/road_occupancy_processor/launch/road_occupancy_processor.launch
+[5.540s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/road_occupancy_processor' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/road_occupancy_processor --target install -- -j6 -l6

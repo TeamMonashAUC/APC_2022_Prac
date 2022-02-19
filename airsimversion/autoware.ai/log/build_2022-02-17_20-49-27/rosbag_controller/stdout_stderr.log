@@ -1,0 +1,11 @@
+[100%] Built target rosbag_controller
+Built target tests
+[100%] Built target rosbag_controller
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/rosbag_controller/lib/pkgconfig/rosbag_controller.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/rosbag_controller/share/rosbag_controller/cmake/rosbag_controllerConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/rosbag_controller/share/rosbag_controller/cmake/rosbag_controllerConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/rosbag_controller/share/rosbag_controller/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/rosbag_controller/lib/librosbag_controller.so
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/rosbag_controller/share/rosbag_controller/plugin_description.xml

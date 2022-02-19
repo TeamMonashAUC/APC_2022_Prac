@@ -1,0 +1,286 @@
+[0.031s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/core_perception/gnss_localizer -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss_localizer
+[0.108s] -- The C compiler identification is GNU 7.5.0
+[0.174s] -- The CXX compiler identification is GNU 7.5.0
+[0.180s] -- Check for working C compiler: /usr/bin/cc
+[0.252s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.253s] -- Detecting C compiler ABI info
+[0.330s] -- Detecting C compiler ABI info - done
+[0.339s] -- Detecting C compile features
+[0.575s] -- Detecting C compile features - done
+[0.577s] -- Check for working CXX compiler: /usr/bin/c++
+[0.665s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.665s] -- Detecting CXX compiler ABI info
+[0.757s] -- Detecting CXX compiler ABI info - done
+[0.765s] -- Detecting CXX compile features
+[1.134s] -- Detecting CXX compile features - done
+[1.136s] -- CUDA compilation status: .
+[1.138s] -- Using CATKIN_DEVEL_PREFIX: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer/devel
+[1.138s] -- Using CMAKE_PREFIX_PATH: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags;/opt/ros/melodic
+[1.139s] -- This workspace overlays: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags;/opt/ros/melodic
+[1.155s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[1.156s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[1.156s] -- Using Debian Python package layout
+[1.157s] -- Using empy: /usr/bin/empy
+[1.336s] -- Using CATKIN_ENABLE_TESTING: ON
+[1.336s] -- Call enable_testing()
+[1.339s] -- Using CATKIN_TEST_RESULTS_DIR: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer/test_results
+[1.369s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[1.370s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[1.388s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[1.390s] -- Looking for pthread.h
+[1.467s] -- Looking for pthread.h - found
+[1.468s] -- Looking for pthread_create
+[1.548s] -- Looking for pthread_create - not found
+[1.549s] -- Looking for pthread_create in pthreads
+[1.612s] -- Looking for pthread_create in pthreads - not found
+[1.612s] -- Looking for pthread_create in pthread
+[1.688s] -- Looking for pthread_create in pthread - found
+[1.690s] -- Found Threads: TRUE  
+[1.695s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[1.745s] -- catkin 0.7.29
+[1.745s] -- BUILD_SHARED_LIBS is on
+[1.966s] -- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[2.223s] -- Configuring done
+[2.264s] -- Generating done
+[2.275s] -- Build files have been written to: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer
+[2.287s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/core_perception/gnss_localizer -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss_localizer
+[2.288s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer -- -j6 -l6
+[2.341s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[2.354s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[2.365s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[2.378s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[2.390s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[2.403s] [  0%] Built target actionlib_msgs_generate_messages_py
+[2.415s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[2.428s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[2.440s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[2.452s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[2.464s] [35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[2.476s] [  0%] Built target actionlib_generate_messages_py
+[2.488s] [35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[2.500s] [  0%] Built target actionlib_generate_messages_nodejs
+[2.511s] [35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[2.523s] [  0%] Built target actionlib_generate_messages_lisp
+[2.534s] [35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[2.553s] [  0%] Built target actionlib_generate_messages_eus
+[2.565s] [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[2.577s] [  0%] Built target std_msgs_generate_messages_py
+[2.589s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[2.600s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[2.611s] [35m[1mScanning dependencies of target nmea_msgs_generate_messages_eus[0m
+[2.623s] [  0%] Built target nmea_msgs_generate_messages_eus
+[2.635s] [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[2.646s] [  0%] Built target std_msgs_generate_messages_lisp
+[2.658s] [35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[2.670s] [  0%] Built target tf_generate_messages_cpp
+[2.683s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[2.695s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[2.706s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[2.718s] [  0%] Built target geometry_msgs_generate_messages_py
+[2.730s] [35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[2.742s] [  0%] Built target actionlib_generate_messages_cpp
+[2.754s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[2.766s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[2.779s] [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[2.791s] [  0%] Built target roscpp_generate_messages_cpp
+[2.803s] [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[2.816s] [  0%] Built target std_msgs_generate_messages_eus
+[2.828s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[2.840s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[2.853s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[2.865s] [  0%] Built target sensor_msgs_generate_messages_py
+[2.880s] [35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[2.892s] [  0%] Built target tf_generate_messages_py
+[2.904s] [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[2.915s] [  0%] Built target roscpp_generate_messages_py
+[2.927s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[2.938s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[2.950s] [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[2.962s] [  0%] Built target std_msgs_generate_messages_cpp
+[2.973s] [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[2.986s] [  0%] Built target roscpp_generate_messages_lisp
+[2.998s] [35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[3.010s] [  0%] Built target tf_generate_messages_lisp
+[3.021s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[3.034s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[3.046s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[3.058s] [  0%] Built target sensor_msgs_generate_messages_eus
+[3.070s] [35m[1mScanning dependencies of target nmea_msgs_generate_messages_lisp[0m
+[3.091s] [  0%] Built target nmea_msgs_generate_messages_lisp
+[3.103s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[3.115s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[3.128s] [35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[3.140s] [  0%] Built target tf_generate_messages_nodejs
+[3.152s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[3.164s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[3.176s] [35m[1mScanning dependencies of target nmea_msgs_generate_messages_cpp[0m
+[3.189s] [  0%] Built target nmea_msgs_generate_messages_cpp
+[3.201s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[3.212s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[3.224s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[3.235s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[3.247s] [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[3.259s] [  0%] Built target std_msgs_generate_messages_nodejs
+[3.271s] [35m[1mScanning dependencies of target nmea_msgs_generate_messages_py[0m
+[3.284s] [  0%] Built target nmea_msgs_generate_messages_py
+[3.297s] [35m[1mScanning dependencies of target nmea_msgs_generate_messages_nodejs[0m
+[3.308s] [  0%] Built target nmea_msgs_generate_messages_nodejs
+[3.320s] [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[3.331s] [  0%] Built target roscpp_generate_messages_nodejs
+[3.345s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[3.357s] [  0%] Built target geometry_msgs_generate_messages_eus
+[3.368s] [35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[3.380s] [  0%] Built target roscpp_generate_messages_eus
+[3.395s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[3.407s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[3.418s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[3.429s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[3.442s] [35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[3.458s] [  0%] Built target tf_generate_messages_eus
+[3.479s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[3.490s] [  0%] Built target tf2_msgs_generate_messages_eus
+[3.504s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[3.515s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[3.539s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[3.551s] [  0%] Built target tf2_msgs_generate_messages_py
+[3.563s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[3.574s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[3.586s] [35m[1mScanning dependencies of target nmea2tfpose[0m
+[3.621s] [ 20%] [32mBuilding CXX object CMakeFiles/nmea2tfpose.dir/nodes/nmea2tfpose/nmea2tfpose_core.cpp.o[0m
+[8.010s] [ 40%] [32mBuilding CXX object CMakeFiles/nmea2tfpose.dir/nodes/nmea2tfpose/nmea2tfpose_node.cpp.o[0m
+[10.700s] [ 60%] [32m[1mLinking CXX executable devel/lib/gnss_localizer/nmea2tfpose[0m
+[10.920s] [ 60%] Built target nmea2tfpose
+[10.932s] [35m[1mScanning dependencies of target fix2tfpose[0m
+[10.957s] [ 80%] [32mBuilding CXX object CMakeFiles/fix2tfpose.dir/nodes/fix2tfpose/fix2tfpose.cpp.o[0m
+[15.183s] [100%] [32m[1mLinking CXX executable devel/lib/gnss_localizer/fix2tfpose[0m
+[15.397s] [100%] Built target fix2tfpose
+[15.416s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer -- -j6 -l6
+[15.497s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer --target tests -- -j6 -l6
+[15.566s] [35m[1mScanning dependencies of target gtest[0m
+[15.588s] [ 25%] [32mBuilding CXX object gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[20.788s] [ 50%] [32m[1mLinking CXX shared library libgtest.so[0m
+[20.909s] [ 50%] Built target gtest
+[20.931s] [ 50%] Built target tf2_msgs_generate_messages_cpp
+[20.954s] [ 50%] Built target actionlib_msgs_generate_messages_py
+[20.976s] [ 50%] Built target actionlib_msgs_generate_messages_lisp
+[21.007s] [ 50%] Built target actionlib_msgs_generate_messages_eus
+[21.038s] [ 50%] Built target actionlib_generate_messages_py
+[21.065s] [ 50%] Built target actionlib_generate_messages_nodejs
+[21.088s] [ 50%] Built target actionlib_generate_messages_lisp
+[21.111s] [ 50%] Built target actionlib_generate_messages_eus
+[21.131s] [ 50%] Built target std_msgs_generate_messages_py
+[21.154s] [ 50%] Built target actionlib_msgs_generate_messages_cpp
+[21.177s] [ 50%] Built target nmea_msgs_generate_messages_eus
+[21.202s] [ 50%] Built target std_msgs_generate_messages_lisp
+[21.226s] [ 50%] Built target tf_generate_messages_cpp
+[21.258s] [ 50%] Built target sensor_msgs_generate_messages_cpp
+[21.286s] [ 50%] Built target geometry_msgs_generate_messages_py
+[21.308s] [ 50%] Built target actionlib_generate_messages_cpp
+[21.333s] [ 50%] Built target sensor_msgs_generate_messages_nodejs
+[21.356s] [ 50%] Built target roscpp_generate_messages_cpp
+[21.378s] [ 50%] Built target std_msgs_generate_messages_eus
+[21.400s] [ 50%] Built target rosgraph_msgs_generate_messages_nodejs
+[21.423s] [ 50%] Built target sensor_msgs_generate_messages_py
+[21.445s] [ 50%] Built target tf_generate_messages_py
+[21.468s] [ 50%] Built target roscpp_generate_messages_py
+[21.491s] [ 50%] Built target actionlib_msgs_generate_messages_nodejs
+[21.514s] [ 50%] Built target std_msgs_generate_messages_cpp
+[21.537s] [ 50%] Built target roscpp_generate_messages_lisp
+[21.559s] [ 50%] Built target tf_generate_messages_lisp
+[21.582s] [ 50%] Built target geometry_msgs_generate_messages_nodejs
+[21.606s] [ 50%] Built target sensor_msgs_generate_messages_eus
+[21.629s] [ 50%] Built target nmea_msgs_generate_messages_lisp
+[21.652s] [ 50%] Built target sensor_msgs_generate_messages_lisp
+[21.676s] [ 50%] Built target tf_generate_messages_nodejs
+[21.699s] [ 50%] Built target rosgraph_msgs_generate_messages_py
+[21.722s] [ 50%] Built target nmea_msgs_generate_messages_cpp
+[21.745s] [ 50%] Built target geometry_msgs_generate_messages_lisp
+[21.767s] [ 50%] Built target geometry_msgs_generate_messages_cpp
+[21.791s] [ 50%] Built target std_msgs_generate_messages_nodejs
+[21.816s] [ 50%] Built target nmea_msgs_generate_messages_py
+[21.851s] [ 50%] Built target nmea_msgs_generate_messages_nodejs
+[21.872s] [ 50%] Built target roscpp_generate_messages_nodejs
+[21.895s] [ 50%] Built target geometry_msgs_generate_messages_eus
+[21.920s] [ 50%] Built target roscpp_generate_messages_eus
+[21.942s] [ 50%] Built target rosgraph_msgs_generate_messages_cpp
+[21.965s] [ 50%] Built target rosgraph_msgs_generate_messages_eus
+[21.992s] [ 50%] Built target tf_generate_messages_eus
+[22.015s] [ 50%] Built target rosgraph_msgs_generate_messages_lisp
+[22.042s] [ 50%] Built target tf2_msgs_generate_messages_eus
+[22.074s] [ 50%] Built target tf2_msgs_generate_messages_lisp
+[22.102s] [ 50%] Built target tf2_msgs_generate_messages_py
+[22.126s] [ 50%] Built target tf2_msgs_generate_messages_nodejs
+[22.137s] [35m[1mScanning dependencies of target nmea_test[0m
+[22.166s] [ 75%] [32mBuilding CXX object CMakeFiles/nmea_test.dir/test/nmea_test.cpp.o[0m
+[25.755s] [100%] [32m[1mLinking CXX executable devel/lib/gnss_localizer/nmea_test[0m
+[25.970s] [100%] Built target nmea_test
+[25.980s] [35m[1mScanning dependencies of target tests[0m
+[25.992s] [100%] Built target tests
+[26.007s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer --target tests -- -j6 -l6
+[26.148s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer --target install -- -j6 -l6
+[26.211s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[26.246s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[26.269s] [  0%] Built target actionlib_msgs_generate_messages_py
+[26.292s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[26.317s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[26.340s] [  0%] Built target actionlib_generate_messages_py
+[26.363s] [  0%] Built target actionlib_generate_messages_nodejs
+[26.385s] [  0%] Built target actionlib_generate_messages_lisp
+[26.408s] [  0%] Built target actionlib_generate_messages_eus
+[26.442s] [  0%] Built target std_msgs_generate_messages_py
+[26.465s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[26.490s] [  0%] Built target nmea_msgs_generate_messages_eus
+[26.512s] [  0%] Built target std_msgs_generate_messages_lisp
+[26.534s] [  0%] Built target tf_generate_messages_cpp
+[26.561s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[26.585s] [  0%] Built target geometry_msgs_generate_messages_py
+[26.608s] [  0%] Built target actionlib_generate_messages_cpp
+[26.631s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[26.653s] [  0%] Built target roscpp_generate_messages_cpp
+[26.674s] [  0%] Built target std_msgs_generate_messages_eus
+[26.696s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[26.719s] [  0%] Built target sensor_msgs_generate_messages_py
+[26.742s] [  0%] Built target tf_generate_messages_py
+[26.766s] [  0%] Built target roscpp_generate_messages_py
+[26.792s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[26.812s] [  0%] Built target std_msgs_generate_messages_cpp
+[26.835s] [  0%] Built target roscpp_generate_messages_lisp
+[26.859s] [  0%] Built target tf_generate_messages_lisp
+[26.886s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[26.909s] [  0%] Built target sensor_msgs_generate_messages_eus
+[26.939s] [  0%] Built target nmea_msgs_generate_messages_lisp
+[26.962s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[26.985s] [  0%] Built target tf_generate_messages_nodejs
+[27.009s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[27.032s] [  0%] Built target nmea_msgs_generate_messages_cpp
+[27.055s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[27.077s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[27.102s] [  0%] Built target std_msgs_generate_messages_nodejs
+[27.124s] [  0%] Built target nmea_msgs_generate_messages_py
+[27.147s] [  0%] Built target nmea_msgs_generate_messages_nodejs
+[27.170s] [  0%] Built target roscpp_generate_messages_nodejs
+[27.193s] [  0%] Built target geometry_msgs_generate_messages_eus
+[27.214s] [  0%] Built target roscpp_generate_messages_eus
+[27.243s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[27.266s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[27.288s] [  0%] Built target tf_generate_messages_eus
+[27.310s] [  0%] Built target tf2_msgs_generate_messages_eus
+[27.332s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[27.356s] [  0%] Built target tf2_msgs_generate_messages_py
+[27.379s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[27.409s] [ 60%] Built target nmea2tfpose
+[27.436s] [100%] Built target fix2tfpose
+[27.460s] [36mInstall the project...[0m
+[27.469s] -- Install configuration: "Release"
+[27.469s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss_localizer/lib/pkgconfig/gnss_localizer.pc
+[27.469s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss_localizer/share/gnss_localizer/cmake/gnss_localizerConfig.cmake
+[27.469s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss_localizer/share/gnss_localizer/cmake/gnss_localizerConfig-version.cmake
+[27.469s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss_localizer/share/gnss_localizer/package.xml
+[27.469s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss_localizer/lib/gnss_localizer/nmea2tfpose
+[27.472s] -- Set runtime path of "/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss_localizer/lib/gnss_localizer/nmea2tfpose" to ""
+[27.472s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss_localizer/lib/gnss_localizer/fix2tfpose
+[27.474s] -- Set runtime path of "/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss_localizer/lib/gnss_localizer/fix2tfpose" to ""
+[27.474s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss_localizer/share/gnss_localizer/launch
+[27.474s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss_localizer/share/gnss_localizer/launch/nmea2tfpose.launch
+[27.474s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss_localizer/share/gnss_localizer/launch/fix2tfpose.launch
+[27.482s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/gnss/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/gnss_localizer --target install -- -j6 -l6

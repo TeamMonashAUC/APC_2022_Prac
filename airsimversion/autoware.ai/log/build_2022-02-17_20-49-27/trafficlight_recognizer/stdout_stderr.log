@@ -1,0 +1,358 @@
+[  2%] [34m[1mAutomatic MOC, UIC and RCC for target label_maker[0m
+[  2%] Built target label_maker_autogen
+[  2%] Built target vector_map_msgs_generate_messages_lisp
+[  2%] Built target vector_map_msgs_generate_messages_eus
+[  2%] Built target vector_map_msgs_generate_messages_cpp
+[  2%] Built target visualization_msgs_generate_messages_py
+[  2%] Built target visualization_msgs_generate_messages_nodejs
+[  2%] Built target geometry_msgs_generate_messages_py
+[  2%] Built target sensor_msgs_generate_messages_nodejs
+[  2%] Built target vector_map_server_generate_messages_eus
+[  2%] Built target roscpp_generate_messages_cpp
+[  2%] Built target actionlib_generate_messages_cpp
+[  2%] Built target pcl_msgs_generate_messages_eus
+[  2%] Built target rosgraph_msgs_generate_messages_eus
+[  2%] Built target jsk_recognition_msgs_generate_messages_lisp
+[  2%] Built target jsk_recognition_msgs_generate_messages_eus
+[  2%] Built target tf2_msgs_generate_messages_cpp
+[  2%] Built target std_msgs_generate_messages_py
+[  2%] Built target autoware_msgs_generate_messages_py
+[  2%] Built target std_msgs_generate_messages_nodejs
+[  2%] Built target sensor_msgs_generate_messages_eus
+[  2%] Built target _catkin_empty_exported_target
+[  2%] Built target sensor_msgs_generate_messages_cpp
+[  2%] Built target autoware_msgs_generate_messages_cpp
+[  2%] Built target rosgraph_msgs_generate_messages_cpp
+[  2%] Built target pcl_msgs_generate_messages_nodejs
+[  2%] Built target jsk_recognition_msgs_generate_messages_py
+[  2%] Built target sensor_msgs_generate_messages_lisp
+[  2%] Built target sensor_msgs_generate_messages_py
+[  2%] Built target tf_generate_messages_py
+[  2%] Built target std_msgs_generate_messages_cpp
+[  2%] Built target jsk_footstep_msgs_generate_messages_py
+[  2%] Built target actionlib_msgs_generate_messages_nodejs
+[  2%] Built target geometry_msgs_generate_messages_eus
+[  2%] Built target std_msgs_generate_messages_lisp
+[  2%] Built target roscpp_generate_messages_nodejs
+[  2%] Built target geometry_msgs_generate_messages_nodejs
+[  2%] Built target geometry_msgs_generate_messages_lisp
+[  2%] Built target pcl_msgs_generate_messages_cpp
+[  2%] Built target jsk_recognition_msgs_generate_messages_cpp
+[  2%] Built target autoware_msgs_generate_messages_eus
+[  2%] Built target autoware_msgs_generate_messages_lisp
+[  2%] Built target visualization_msgs_generate_messages_lisp
+[  2%] Built target std_msgs_generate_messages_eus
+[  2%] Built target autoware_msgs_generate_messages_nodejs
+[  2%] Built target jsk_footstep_msgs_generate_messages_eus
+[  2%] Built target actionlib_msgs_generate_messages_py
+[  2%] Built target vector_map_server_generate_messages_lisp
+[  2%] Built target jsk_footstep_msgs_generate_messages_lisp
+[  2%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[  2%] Built target actionlib_msgs_generate_messages_lisp
+[  2%] Built target jsk_footstep_msgs_generate_messages_cpp
+[  2%] Built target actionlib_msgs_generate_messages_cpp
+[  2%] Built target tf_generate_messages_eus
+[  2%] Built target tf_generate_messages_lisp
+[  2%] Built target tf_generate_messages_nodejs
+[  2%] Built target autoware_lanelet2_msgs_generate_messages_cpp
+[  2%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[  2%] Built target autoware_lanelet2_msgs_generate_messages_py
+[  2%] Built target roscpp_generate_messages_lisp
+[  2%] Built target rosgraph_msgs_generate_messages_lisp
+[  2%] Built target rosgraph_msgs_generate_messages_nodejs
+[  2%] Built target vector_map_server_generate_messages_py
+[  2%] Built target roscpp_generate_messages_eus
+[  2%] Built target actionlib_msgs_generate_messages_eus
+[  2%] Built target rosgraph_msgs_generate_messages_py
+[  2%] Built target pcl_msgs_generate_messages_py
+[  2%] Built target actionlib_generate_messages_eus
+[  2%] Built target geometry_msgs_generate_messages_cpp
+[  2%] Built target actionlib_generate_messages_lisp
+[  2%] Built target pcl_msgs_generate_messages_lisp
+[  2%] Built target tf_generate_messages_cpp
+[  2%] Built target actionlib_generate_messages_nodejs
+[  2%] Built target tf2_msgs_generate_messages_lisp
+[  2%] Built target actionlib_generate_messages_py
+[  2%] Built target tf2_msgs_generate_messages_py
+[  2%] Built target autoware_lanelet2_msgs_generate_messages_eus
+[  2%] Built target tf2_msgs_generate_messages_nodejs
+[  2%] Built target autoware_lanelet2_msgs_generate_messages_lisp
+[  2%] Built target roscpp_generate_messages_py
+[  2%] Built target autoware_lanelet2_msgs_generate_messages_nodejs
+[  2%] Built target vector_map_server_generate_messages_cpp
+[  2%] Built target visualization_msgs_generate_messages_eus
+[  2%] Built target tf2_msgs_generate_messages_eus
+[ 19%] Built target label_maker
+[ 19%] Built target vector_map_msgs_generate_messages_nodejs
+[ 19%] Built target vector_map_msgs_generate_messages_py
+[ 19%] Built target vector_map_server_generate_messages_nodejs
+[ 19%] Built target visualization_msgs_generate_messages_cpp
+[ 21%] [34m[1mAutomatic MOC, UIC and RCC for target tlr_tuner[0m
+[ 21%] Built target tlr_tuner_autogen
+[ 24%] [34m[1mAutomatic MOC, UIC and RCC for target feat_proj[0m
+[ 24%] Built target feat_proj_autogen
+[ 39%] Built target tlr_tuner
+[ 46%] Built target feat_proj
+[ 48%] [34m[1mAutomatic MOC, UIC and RCC for target feat_proj_lanelet2[0m
+[ 48%] Built target feat_proj_lanelet2_autogen
+[ 51%] [34m[1mAutomatic MOC, UIC and RCC for target tl_switch[0m
+[ 51%] Built target tl_switch_autogen
+[ 60%] Built target feat_proj_lanelet2
+[ 68%] Built target tl_switch
+[ 70%] [34m[1mAutomatic MOC, UIC and RCC for target libcontext[0m
+[ 70%] Built target libcontext_autogen
+[ 78%] Built target libcontext
+[ 80%] [34m[1mAutomatic MOC, UIC and RCC for target region_tlr[0m
+[ 80%] Built target region_tlr_autogen
+[ 82%] [34m[1mAutomatic MOC, UIC and RCC for target roi_extractor[0m
+[ 82%] Built target roi_extractor_autogen
+[ 92%] Built target region_tlr
+[100%] Built target roi_extractor
+[ 28%] Built target gtest
+[ 28%] Built target vector_map_msgs_generate_messages_eus
+[ 28%] Built target vector_map_msgs_generate_messages_cpp
+[ 28%] Built target visualization_msgs_generate_messages_py
+[ 28%] Built target visualization_msgs_generate_messages_nodejs
+[ 28%] Built target geometry_msgs_generate_messages_py
+[ 28%] Built target sensor_msgs_generate_messages_nodejs
+[ 28%] Built target vector_map_server_generate_messages_eus
+[ 28%] Built target roscpp_generate_messages_cpp
+[ 28%] Built target actionlib_generate_messages_cpp
+[ 28%] Built target pcl_msgs_generate_messages_eus
+[ 28%] Built target rosgraph_msgs_generate_messages_eus
+[ 28%] Built target jsk_recognition_msgs_generate_messages_lisp
+[ 28%] Built target jsk_recognition_msgs_generate_messages_eus
+[ 28%] Built target tf2_msgs_generate_messages_cpp
+[ 28%] Built target std_msgs_generate_messages_py
+[ 28%] Built target autoware_msgs_generate_messages_py
+[ 28%] Built target std_msgs_generate_messages_nodejs
+[ 28%] Built target sensor_msgs_generate_messages_eus
+[ 28%] Built target _catkin_empty_exported_target
+[ 28%] Built target sensor_msgs_generate_messages_cpp
+[ 28%] Built target autoware_msgs_generate_messages_cpp
+[ 28%] Built target rosgraph_msgs_generate_messages_cpp
+[ 28%] Built target pcl_msgs_generate_messages_nodejs
+[ 28%] Built target jsk_recognition_msgs_generate_messages_py
+[ 28%] Built target sensor_msgs_generate_messages_lisp
+[ 28%] Built target sensor_msgs_generate_messages_py
+[ 28%] Built target tf_generate_messages_py
+[ 28%] Built target std_msgs_generate_messages_cpp
+[ 28%] Built target jsk_footstep_msgs_generate_messages_py
+[ 28%] Built target actionlib_msgs_generate_messages_nodejs
+[ 28%] Built target geometry_msgs_generate_messages_eus
+[ 28%] Built target std_msgs_generate_messages_lisp
+[ 28%] Built target roscpp_generate_messages_nodejs
+[ 28%] Built target geometry_msgs_generate_messages_nodejs
+[ 28%] Built target geometry_msgs_generate_messages_lisp
+[ 28%] Built target pcl_msgs_generate_messages_cpp
+[ 28%] Built target jsk_recognition_msgs_generate_messages_cpp
+[ 28%] Built target autoware_msgs_generate_messages_eus
+[ 28%] Built target autoware_msgs_generate_messages_lisp
+[ 28%] Built target visualization_msgs_generate_messages_lisp
+[ 28%] Built target std_msgs_generate_messages_eus
+[ 28%] Built target autoware_msgs_generate_messages_nodejs
+[ 28%] Built target jsk_footstep_msgs_generate_messages_eus
+[ 28%] Built target actionlib_msgs_generate_messages_py
+[ 28%] Built target vector_map_server_generate_messages_lisp
+[ 28%] Built target jsk_footstep_msgs_generate_messages_lisp
+[ 28%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[ 28%] Built target actionlib_msgs_generate_messages_lisp
+[ 28%] Built target jsk_footstep_msgs_generate_messages_cpp
+[ 28%] Built target actionlib_msgs_generate_messages_cpp
+[ 28%] Built target tf_generate_messages_eus
+[ 28%] Built target tf_generate_messages_lisp
+[ 28%] Built target tf_generate_messages_nodejs
+[ 28%] Built target autoware_lanelet2_msgs_generate_messages_cpp
+[ 28%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[ 28%] Built target autoware_lanelet2_msgs_generate_messages_py
+[ 28%] Built target roscpp_generate_messages_lisp
+[ 28%] Built target rosgraph_msgs_generate_messages_lisp
+[ 28%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 28%] Built target vector_map_server_generate_messages_py
+[ 28%] Built target roscpp_generate_messages_eus
+[ 28%] Built target actionlib_msgs_generate_messages_eus
+[ 28%] Built target rosgraph_msgs_generate_messages_py
+[ 28%] Built target pcl_msgs_generate_messages_py
+[ 28%] Built target actionlib_generate_messages_eus
+[ 28%] Built target geometry_msgs_generate_messages_cpp
+[ 28%] Built target actionlib_generate_messages_lisp
+[ 28%] Built target pcl_msgs_generate_messages_lisp
+[ 28%] Built target tf_generate_messages_cpp
+[ 28%] Built target actionlib_generate_messages_nodejs
+[ 28%] Built target tf2_msgs_generate_messages_lisp
+[ 28%] Built target actionlib_generate_messages_py
+[ 28%] Built target tf2_msgs_generate_messages_py
+[ 28%] Built target autoware_lanelet2_msgs_generate_messages_eus
+[ 28%] Built target tf2_msgs_generate_messages_nodejs
+[ 28%] Built target autoware_lanelet2_msgs_generate_messages_lisp
+[ 28%] Built target roscpp_generate_messages_py
+[ 28%] Built target autoware_lanelet2_msgs_generate_messages_nodejs
+[ 28%] Built target vector_map_server_generate_messages_cpp
+[ 28%] Built target visualization_msgs_generate_messages_eus
+[ 28%] Built target tf2_msgs_generate_messages_eus
+[ 28%] Built target visualization_msgs_generate_messages_cpp
+[ 28%] Built target vector_map_msgs_generate_messages_lisp
+[ 28%] Built target vector_map_msgs_generate_messages_nodejs
+[ 28%] Built target vector_map_msgs_generate_messages_py
+[ 28%] Built target vector_map_server_generate_messages_nodejs
+[ 42%] [34m[1mAutomatic MOC, UIC and RCC for target test-feat_proj_lanelet2[0m
+[ 42%] Built target test-feat_proj_lanelet2_autogen
+[100%] Built target test-feat_proj_lanelet2
+[100%] Built target tests
+[  2%] [34m[1mAutomatic MOC, UIC and RCC for target label_maker[0m
+[  2%] Built target label_maker_autogen
+[  2%] Built target vector_map_msgs_generate_messages_lisp
+[  2%] Built target vector_map_msgs_generate_messages_eus
+[  2%] Built target vector_map_msgs_generate_messages_cpp
+[  2%] Built target visualization_msgs_generate_messages_py
+[  2%] Built target visualization_msgs_generate_messages_nodejs
+[  2%] Built target geometry_msgs_generate_messages_py
+[  2%] Built target sensor_msgs_generate_messages_nodejs
+[  2%] Built target vector_map_server_generate_messages_eus
+[  2%] Built target roscpp_generate_messages_cpp
+[  2%] Built target actionlib_generate_messages_cpp
+[  2%] Built target pcl_msgs_generate_messages_eus
+[  2%] Built target rosgraph_msgs_generate_messages_eus
+[  2%] Built target jsk_recognition_msgs_generate_messages_lisp
+[  2%] Built target jsk_recognition_msgs_generate_messages_eus
+[  2%] Built target tf2_msgs_generate_messages_cpp
+[  2%] Built target std_msgs_generate_messages_py
+[  2%] Built target autoware_msgs_generate_messages_py
+[  2%] Built target std_msgs_generate_messages_nodejs
+[  2%] Built target sensor_msgs_generate_messages_eus
+[  2%] Built target _catkin_empty_exported_target
+[  2%] Built target sensor_msgs_generate_messages_cpp
+[  2%] Built target autoware_msgs_generate_messages_cpp
+[  2%] Built target rosgraph_msgs_generate_messages_cpp
+[  2%] Built target pcl_msgs_generate_messages_nodejs
+[  2%] Built target jsk_recognition_msgs_generate_messages_py
+[  2%] Built target sensor_msgs_generate_messages_lisp
+[  2%] Built target sensor_msgs_generate_messages_py
+[  2%] Built target tf_generate_messages_py
+[  2%] Built target std_msgs_generate_messages_cpp
+[  2%] Built target jsk_footstep_msgs_generate_messages_py
+[  2%] Built target actionlib_msgs_generate_messages_nodejs
+[  2%] Built target geometry_msgs_generate_messages_eus
+[  2%] Built target std_msgs_generate_messages_lisp
+[  2%] Built target roscpp_generate_messages_nodejs
+[  2%] Built target geometry_msgs_generate_messages_nodejs
+[  2%] Built target geometry_msgs_generate_messages_lisp
+[  2%] Built target pcl_msgs_generate_messages_cpp
+[  2%] Built target jsk_recognition_msgs_generate_messages_cpp
+[  2%] Built target autoware_msgs_generate_messages_eus
+[  2%] Built target autoware_msgs_generate_messages_lisp
+[  2%] Built target visualization_msgs_generate_messages_lisp
+[  2%] Built target std_msgs_generate_messages_eus
+[  2%] Built target autoware_msgs_generate_messages_nodejs
+[  2%] Built target jsk_footstep_msgs_generate_messages_eus
+[  2%] Built target actionlib_msgs_generate_messages_py
+[  2%] Built target vector_map_server_generate_messages_lisp
+[  2%] Built target jsk_footstep_msgs_generate_messages_lisp
+[  2%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[  2%] Built target actionlib_msgs_generate_messages_lisp
+[  2%] Built target jsk_footstep_msgs_generate_messages_cpp
+[  2%] Built target actionlib_msgs_generate_messages_cpp
+[  2%] Built target tf_generate_messages_eus
+[  2%] Built target tf_generate_messages_lisp
+[  2%] Built target tf_generate_messages_nodejs
+[  2%] Built target autoware_lanelet2_msgs_generate_messages_cpp
+[  2%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[  2%] Built target autoware_lanelet2_msgs_generate_messages_py
+[  2%] Built target roscpp_generate_messages_lisp
+[  2%] Built target rosgraph_msgs_generate_messages_lisp
+[  2%] Built target rosgraph_msgs_generate_messages_nodejs
+[  2%] Built target vector_map_server_generate_messages_py
+[  2%] Built target roscpp_generate_messages_eus
+[  2%] Built target actionlib_msgs_generate_messages_eus
+[  2%] Built target rosgraph_msgs_generate_messages_py
+[  2%] Built target pcl_msgs_generate_messages_py
+[  2%] Built target actionlib_generate_messages_eus
+[  2%] Built target geometry_msgs_generate_messages_cpp
+[  2%] Built target actionlib_generate_messages_lisp
+[  2%] Built target pcl_msgs_generate_messages_lisp
+[  2%] Built target tf_generate_messages_cpp
+[  2%] Built target actionlib_generate_messages_nodejs
+[  2%] Built target tf2_msgs_generate_messages_lisp
+[  2%] Built target actionlib_generate_messages_py
+[  2%] Built target tf2_msgs_generate_messages_py
+[  2%] Built target autoware_lanelet2_msgs_generate_messages_eus
+[  2%] Built target tf2_msgs_generate_messages_nodejs
+[  2%] Built target autoware_lanelet2_msgs_generate_messages_lisp
+[  2%] Built target roscpp_generate_messages_py
+[  2%] Built target autoware_lanelet2_msgs_generate_messages_nodejs
+[  2%] Built target vector_map_server_generate_messages_cpp
+[  2%] Built target visualization_msgs_generate_messages_eus
+[  2%] Built target tf2_msgs_generate_messages_eus
+[ 19%] Built target label_maker
+[ 19%] Built target vector_map_msgs_generate_messages_nodejs
+[ 19%] Built target vector_map_msgs_generate_messages_py
+[ 19%] Built target vector_map_server_generate_messages_nodejs
+[ 19%] Built target visualization_msgs_generate_messages_cpp
+[ 21%] [34m[1mAutomatic MOC, UIC and RCC for target tlr_tuner[0m
+[ 21%] Built target tlr_tuner_autogen
+[ 24%] [34m[1mAutomatic MOC, UIC and RCC for target feat_proj[0m
+[ 24%] Built target feat_proj_autogen
+[ 39%] Built target tlr_tuner
+[ 46%] Built target feat_proj
+[ 48%] [34m[1mAutomatic MOC, UIC and RCC for target feat_proj_lanelet2[0m
+[ 48%] Built target feat_proj_lanelet2_autogen
+[ 51%] [34m[1mAutomatic MOC, UIC and RCC for target tl_switch[0m
+[ 51%] Built target tl_switch_autogen
+[ 60%] Built target feat_proj_lanelet2
+[ 68%] Built target tl_switch
+[ 70%] [34m[1mAutomatic MOC, UIC and RCC for target libcontext[0m
+[ 70%] Built target libcontext_autogen
+[ 78%] Built target libcontext
+[ 80%] [34m[1mAutomatic MOC, UIC and RCC for target region_tlr[0m
+[ 80%] Built target region_tlr_autogen
+[ 82%] [34m[1mAutomatic MOC, UIC and RCC for target roi_extractor[0m
+[ 82%] Built target roi_extractor_autogen
+[ 92%] Built target region_tlr
+[100%] Built target roi_extractor
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/lib/pkgconfig/trafficlight_recognizer.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/share/trafficlight_recognizer/cmake/trafficlight_recognizerConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/share/trafficlight_recognizer/cmake/trafficlight_recognizerConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/share/trafficlight_recognizer/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/lib/trafficlight_recognizer/region_tlr
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/lib/trafficlight_recognizer/feat_proj
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/lib/trafficlight_recognizer/tlr_tuner
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/lib/trafficlight_recognizer/feat_proj_lanelet2
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/lib/trafficlight_recognizer/roi_extractor
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/lib/trafficlight_recognizer/label_maker
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/lib/liblibcontext.so
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/lib/trafficlight_recognizer/tl_switch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/region_tlr_mxnet
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/region_tlr_mxnet/region_tlr_mxnet.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/region_tlr_mxnet/mxnet_traffic_light_recognizer.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/rate.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/traffic_light.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/label_maker
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/label_maker/custom_graphics_view.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/label_maker/file_system_operator.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/label_maker/label_maker_gui.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/roi_extractor
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/roi_extractor/roi_extractor.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/region_tlr
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/region_tlr/traffic_light_detector.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/region_tlr/region_tlr.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/tlr_tuner
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/tlr_tuner/tuner_body.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/tlr_tuner/mainwindow.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/feat_proj_lanelet2
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/feat_proj_lanelet2/feat_proj_lanelet2_core.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/context.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/region_tlr_ssd
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/region_tlr_ssd/region_tlr_ssd.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/include/trafficlight_recognizer/include/trafficlight_recognizer/region_tlr_ssd/traffic_light_recognizer.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/share/trafficlight_recognizer/launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/share/trafficlight_recognizer/launch/feat_proj_option.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/share/trafficlight_recognizer/launch/traffic_light_recognition.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/share/trafficlight_recognizer/launch/traffic_light_recognition_ssd.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/share/trafficlight_recognizer/launch/feat_proj_lanelet2.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/share/trafficlight_recognizer/launch/feat_proj.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/share/trafficlight_recognizer/launch/traffic_light_recognition_mxnet.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/trafficlight_recognizer/share/trafficlight_recognizer/launch/roi_extractor.launch

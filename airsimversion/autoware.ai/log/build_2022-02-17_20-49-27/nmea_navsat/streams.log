@@ -1,0 +1,16 @@
+[0.024s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/nmea_navsat': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/nmea_navsat -- -j6 -l6
+[0.107s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/nmea_navsat' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/nmea_navsat -- -j6 -l6
+[0.163s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/nmea_navsat': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/nmea_navsat --target tests -- -j6 -l6
+[0.228s] Built target tests
+[0.246s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/nmea_navsat' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/nmea_navsat --target tests -- -j6 -l6
+[0.294s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/nmea_navsat': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/nmea_navsat --target install -- -j6 -l6
+[0.342s] [36mInstall the project...[0m
+[0.350s] -- Install configuration: "Release"
+[0.350s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/lib/pkgconfig/nmea_navsat.pc
+[0.351s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/share/nmea_navsat/cmake/nmea_navsatConfig.cmake
+[0.352s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/share/nmea_navsat/cmake/nmea_navsatConfig-version.cmake
+[0.352s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/share/nmea_navsat/package.xml
+[0.352s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/share/nmea_navsat/launch
+[0.354s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/share/nmea_navsat/launch/nmea_navsat.launch
+[0.354s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/share/nmea_navsat/launch/README.md
+[0.359s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/nmea_navsat' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/nmea_navsat --target install -- -j6 -l6

@@ -1,0 +1,20 @@
+[ 20%] [34m[1mAutomatic MOC for target autoware_rviz_plugins[0m
+[ 20%] Built target autoware_rviz_plugins_autogen
+[100%] Built target autoware_rviz_plugins
+Built target tests
+[ 20%] [34m[1mAutomatic MOC for target autoware_rviz_plugins[0m
+[ 20%] Built target autoware_rviz_plugins_autogen
+[100%] Built target autoware_rviz_plugins
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_rviz_plugins/lib/pkgconfig/autoware_rviz_plugins.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/cmake/autoware_rviz_pluginsConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/cmake/autoware_rviz_pluginsConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_rviz_plugins/lib/libautoware_rviz_plugins.so
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/media
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/media/flag.dae
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/icons
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/icons/classes
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/icons/classes/OpFlag.png
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_rviz_plugins/share/autoware_rviz_plugins/plugin_description.xml

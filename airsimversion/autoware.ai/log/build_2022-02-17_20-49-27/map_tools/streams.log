@@ -1,0 +1,34 @@
+[0.038s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_tools': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_tools -- -j6 -l6
+[0.173s] [ 14%] Built target pcd2csv
+[0.177s] [ 28%] Built target csv2pcd
+[0.180s] [ 42%] Built target map_extender
+[0.194s] [ 57%] Built target pcd_grid_divider
+[0.223s] [ 71%] Built target pcd_filter
+[0.223s] [ 85%] Built target pcd_arealist
+[0.223s] [100%] Built target pcd_binarizer
+[0.236s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_tools' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_tools -- -j6 -l6
+[0.421s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_tools': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_tools --target tests -- -j6 -l6
+[0.513s] Built target tests
+[0.557s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_tools' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_tools --target tests -- -j6 -l6
+[0.831s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_tools': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_tools --target install -- -j6 -l6
+[0.929s] [ 28%] Built target pcd_grid_divider
+[0.929s] [ 28%] Built target map_extender
+[0.968s] [ 42%] Built target pcd_binarizer
+[0.984s] [ 57%] Built target pcd_filter
+[1.046s] [ 71%] Built target pcd_arealist
+[1.055s] [ 85%] Built target csv2pcd
+[1.110s] [100%] Built target pcd2csv
+[1.137s] [36mInstall the project...[0m
+[1.149s] -- Install configuration: "Release"
+[1.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/pkgconfig/map_tools.pc
+[1.150s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/share/map_tools/cmake/map_toolsConfig.cmake
+[1.150s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/share/map_tools/cmake/map_toolsConfig-version.cmake
+[1.150s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/share/map_tools/package.xml
+[1.152s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/csv2pcd
+[1.152s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/map_extender
+[1.153s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/pcd2csv
+[1.153s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/pcd_arealist
+[1.154s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/pcd_binarizer
+[1.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/pcd_filter
+[1.156s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/pcd_grid_divider
+[1.163s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_tools' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_tools --target install -- -j6 -l6

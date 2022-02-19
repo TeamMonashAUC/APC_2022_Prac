@@ -1,0 +1,629 @@
+[0.063s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs -- -j6 -l6
+[0.147s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[0.190s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_TrafficLight
+[0.227s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ControlCommandStamped
+[0.280s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ColorSet
+[0.312s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_State
+[0.322s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ICPStat
+[0.333s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_SyncTimeMonitor
+[0.393s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageObj
+[0.480s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_Waypoint
+[0.483s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_WaypointState
+[0.489s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_BrakeCmd
+[0.499s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageLaneObjects
+[0.537s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_CloudClusterArray
+[0.575s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.599s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.612s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_PointsImage
+[0.625s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_VehicleLocation
+[0.626s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageRectRanged
+[0.665s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_LampCmd
+[0.692s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_Lane
+[0.707s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.788s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_NDTStat
+[0.805s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ScanImage
+[0.812s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_IndicatorCmd
+[0.818s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_TrafficLightResult
+[0.821s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_RemoteCmd
+[0.861s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_LaneArray
+[0.889s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_AccelCmd
+[0.907s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_AdjustXY
+[0.959s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ObjPose
+[0.959s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_Centroids
+[0.965s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ControlCommand
+[0.978s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ProjectionMatrix
+[1.035s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageRect
+[1.054s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_SteerCmd
+[1.083s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageObjects
+[1.087s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_StateCmd
+[1.094s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_SyncTimeDiff
+[1.116s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_VscanTracked
+[1.144s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_VehicleCmd
+[1.197s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_DTLane
+[1.201s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_GeometricRectangle
+[1.211s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_DetectedObjectArray
+[1.212s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ValueSet
+[1.246s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_CloudCluster
+[1.249s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ExtractedPosition
+[1.309s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_VehicleStatus
+[1.339s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_TunedResult
+[1.344s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_Signals
+[1.360s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_VscanTrackedArray
+[1.375s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageObjTracked
+[1.402s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageObjRanged
+[1.402s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_TrafficLightResultArray
+[1.445s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[1.485s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_RecognizeLightState
+[1.492s] [  0%] Built target std_msgs_generate_messages_eus
+[1.501s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_Gear
+[1.515s] [  0%] Built target geometry_msgs_generate_messages_eus
+[1.554s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_DetectedObject
+[1.564s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[1.565s] [  0%] Built target sensor_msgs_generate_messages_eus
+[1.569s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ObjLabel
+[1.602s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[1.614s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[1.624s] [  0%] Built target std_msgs_generate_messages_lisp
+[1.628s] [  0%] Built target std_msgs_generate_messages_py
+[1.646s] [  0%] Built target geometry_msgs_generate_messages_py
+[1.660s] [  0%] Built target sensor_msgs_generate_messages_py
+[1.672s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.686s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[1.693s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[1.707s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[1.709s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[1.729s] [ 20%] Built target autoware_msgs_generate_messages_eus
+[1.744s] [ 40%] Built target autoware_msgs_generate_messages_lisp
+[1.747s] [ 60%] Built target autoware_msgs_generate_messages_nodejs
+[1.754s] [ 79%] Built target autoware_msgs_generate_messages_cpp
+[1.755s] [100%] Built target autoware_msgs_generate_messages_py
+[1.782s] [100%] Built target autoware_msgs_generate_messages
+[1.791s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs -- -j6 -l6
+[2.044s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs --target tests -- -j6 -l6
+[2.155s] Built target tests
+[2.177s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs --target tests -- -j6 -l6
+[2.507s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs --target install -- -j6 -l6
+[2.628s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[2.630s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_TrafficLight
+[2.659s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ColorSet
+[2.663s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_State
+[2.668s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ICPStat
+[2.672s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ControlCommandStamped
+[2.711s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_SyncTimeMonitor
+[2.730s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageObj
+[2.744s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_WaypointState
+[2.760s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_BrakeCmd
+[2.769s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_CloudClusterArray
+[2.769s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[2.773s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_Waypoint
+[2.793s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_PointsImage
+[2.841s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[2.866s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageLaneObjects
+[2.873s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_VehicleLocation
+[2.880s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageRectRanged
+[2.915s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_Lane
+[2.915s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_LampCmd
+[2.919s] [  0%] Built target std_msgs_generate_messages_nodejs
+[3.006s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ScanImage
+[3.010s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_IndicatorCmd
+[3.013s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_LaneArray
+[3.013s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_NDTStat
+[3.033s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_RemoteCmd
+[3.049s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_TrafficLightResult
+[3.093s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ObjPose
+[3.104s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_AdjustXY
+[3.117s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_Centroids
+[3.118s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ControlCommand
+[3.131s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_AccelCmd
+[3.221s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ProjectionMatrix
+[3.234s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageRect
+[3.238s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_VscanTracked
+[3.252s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_SteerCmd
+[3.257s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageObjects
+[3.260s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_StateCmd
+[3.368s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_VehicleCmd
+[3.374s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ExtractedPosition
+[3.376s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_SyncTimeDiff
+[3.388s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_DetectedObjectArray
+[3.423s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ValueSet
+[3.428s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_DTLane
+[3.481s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_CloudCluster
+[3.481s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageObjTracked
+[3.488s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_GeometricRectangle
+[3.526s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_Signals
+[3.554s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ImageObjRanged
+[3.561s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_TunedResult
+[3.607s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_VehicleStatus
+[3.631s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_VscanTrackedArray
+[3.632s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_ObjLabel
+[3.677s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_TrafficLightResultArray
+[3.696s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_Gear
+[3.698s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[3.712s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_RecognizeLightState
+[3.722s] [  0%] Built target _autoware_msgs_generate_messages_check_deps_DetectedObject
+[3.752s] [  0%] Built target geometry_msgs_generate_messages_eus
+[3.760s] [  0%] Built target std_msgs_generate_messages_eus
+[3.763s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[3.781s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[3.782s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[3.786s] [  0%] Built target sensor_msgs_generate_messages_eus
+[3.809s] [  0%] Built target std_msgs_generate_messages_lisp
+[3.825s] [  0%] Built target std_msgs_generate_messages_py
+[3.862s] [  0%] Built target std_msgs_generate_messages_cpp
+[3.869s] [  0%] Built target sensor_msgs_generate_messages_py
+[3.872s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[3.895s] [  0%] Built target geometry_msgs_generate_messages_py
+[3.901s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[3.937s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[3.940s] [ 19%] Built target jsk_recognition_msgs_generate_messages_cpp
+[3.940s] [ 19%] Built target autoware_msgs_generate_messages_nodejs
+[3.961s] [ 40%] Built target autoware_msgs_generate_messages_eus
+[3.964s] [ 60%] Built target autoware_msgs_generate_messages_lisp
+[3.968s] [ 81%] Built target autoware_msgs_generate_messages_py
+[4.008s] [100%] Built target autoware_msgs_generate_messages_cpp
+[4.031s] [100%] Built target autoware_msgs_generate_messages
+[4.054s] [36mInstall the project...[0m
+[4.065s] -- Install configuration: "Release"
+[4.066s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/AccelCmd.msg
+[4.066s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/AdjustXY.msg
+[4.066s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/BrakeCmd.msg
+[4.066s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/Centroids.msg
+[4.066s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/CloudCluster.msg
+[4.066s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/CloudClusterArray.msg
+[4.066s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ColorSet.msg
+[4.066s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ControlCommand.msg
+[4.066s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ControlCommandStamped.msg
+[4.066s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/DTLane.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/DetectedObject.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/DetectedObjectArray.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ExtractedPosition.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/Gear.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/GeometricRectangle.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ICPStat.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ImageLaneObjects.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ImageObj.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ImageObjRanged.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ImageObjTracked.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ImageObjects.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ImageRect.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ImageRectRanged.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/IndicatorCmd.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/LampCmd.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/Lane.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/LaneArray.msg
+[4.067s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/NDTStat.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ObjLabel.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ObjPose.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/PointsImage.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ProjectionMatrix.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/RemoteCmd.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ScanImage.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/Signals.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/State.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/StateCmd.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/SteerCmd.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/SyncTimeDiff.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/SyncTimeMonitor.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/TrafficLight.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/TrafficLightResult.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/TrafficLightResultArray.msg
+[4.068s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/TunedResult.msg
+[4.069s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/ValueSet.msg
+[4.069s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/VehicleCmd.msg
+[4.069s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/VehicleLocation.msg
+[4.069s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/VehicleStatus.msg
+[4.069s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/VscanTracked.msg
+[4.069s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/VscanTrackedArray.msg
+[4.069s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/Waypoint.msg
+[4.069s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/msg/WaypointState.msg
+[4.069s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/srv/RecognizeLightState.srv
+[4.069s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/cmake/autoware_msgs-msg-paths.cmake
+[4.070s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs
+[4.070s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ControlCommandStamped.h
+[4.070s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/CloudClusterArray.h
+[4.070s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ImageLaneObjects.h
+[4.070s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/RecognizeLightStateResponse.h
+[4.070s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ColorSet.h
+[4.070s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/Gear.h
+[4.070s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/Centroids.h
+[4.070s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/DetectedObjectArray.h
+[4.070s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/AccelCmd.h
+[4.070s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/VehicleLocation.h
+[4.071s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ImageObjTracked.h
+[4.071s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ValueSet.h
+[4.071s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/State.h
+[4.071s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/TrafficLightResult.h
+[4.071s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/SyncTimeDiff.h
+[4.071s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/SyncTimeMonitor.h
+[4.071s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/LampCmd.h
+[4.071s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/DTLane.h
+[4.071s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/NDTStat.h
+[4.071s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/RecognizeLightState.h
+[4.072s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ImageObjects.h
+[4.072s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ExtractedPosition.h
+[4.072s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/VehicleCmd.h
+[4.072s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/Lane.h
+[4.072s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/DetectedObject.h
+[4.072s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ImageRect.h
+[4.072s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/CloudCluster.h
+[4.072s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/BrakeCmd.h
+[4.072s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/TunedResult.h
+[4.073s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ImageObjRanged.h
+[4.073s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ImageObj.h
+[4.073s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/Waypoint.h
+[4.073s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/IndicatorCmd.h
+[4.073s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ObjLabel.h
+[4.073s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/VehicleStatus.h
+[4.073s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/SteerCmd.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/VscanTrackedArray.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/RemoteCmd.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ICPStat.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/RecognizeLightStateRequest.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/AdjustXY.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/Signals.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ImageRectRanged.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ScanImage.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/VscanTracked.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/TrafficLightResultArray.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/StateCmd.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ObjPose.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/PointsImage.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/WaypointState.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/LaneArray.h
+[4.074s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ProjectionMatrix.h
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/GeometricRectangle.h
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/ControlCommand.h
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/include/autoware_msgs/TrafficLight.h
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/TrafficLightResult.l
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/State.l
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/AccelCmd.l
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/Lane.l
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/Signals.l
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/CloudClusterArray.l
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/Gear.l
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/VscanTracked.l
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/TunedResult.l
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/SyncTimeDiff.l
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/GeometricRectangle.l
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/AdjustXY.l
+[4.075s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/LaneArray.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ControlCommand.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/PointsImage.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/DTLane.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/TrafficLightResultArray.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/BrakeCmd.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/SyncTimeMonitor.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ColorSet.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/SteerCmd.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/DetectedObject.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/Waypoint.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ObjLabel.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/DetectedObjectArray.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ImageObj.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/StateCmd.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ImageRect.l
+[4.076s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ImageObjRanged.l
+[4.077s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/VscanTrackedArray.l
+[4.077s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/RemoteCmd.l
+[4.079s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ProjectionMatrix.l
+[4.080s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ICPStat.l
+[4.080s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/VehicleCmd.l
+[4.080s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/VehicleLocation.l
+[4.080s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ValueSet.l
+[4.080s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/VehicleStatus.l
+[4.080s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ScanImage.l
+[4.080s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/NDTStat.l
+[4.080s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ControlCommandStamped.l
+[4.080s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ImageObjects.l
+[4.080s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ExtractedPosition.l
+[4.080s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/IndicatorCmd.l
+[4.081s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ObjPose.l
+[4.081s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/WaypointState.l
+[4.081s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/TrafficLight.l
+[4.081s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ImageObjTracked.l
+[4.081s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ImageRectRanged.l
+[4.081s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/Centroids.l
+[4.081s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/CloudCluster.l
+[4.081s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/LampCmd.l
+[4.082s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/msg/ImageLaneObjects.l
+[4.082s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/manifest.l
+[4.082s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/srv
+[4.084s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/roseus/ros/autoware_msgs/srv/RecognizeLightState.l
+[4.085s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs
+[4.085s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg
+[4.085s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ControlCommandStamped.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_LaneArray.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_TrafficLightResult.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ImageLaneObjects.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_VehicleStatus.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/BrakeCmd.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ImageObjTracked.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/DetectedObjectArray.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/VehicleCmd.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_SyncTimeMonitor.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/LaneArray.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ImageObjects.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/DetectedObject.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/Lane.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_VehicleLocation.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/VehicleLocation.lisp
+[4.086s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ImageLaneObjects.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_WaypointState.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ImageObj.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/autoware_msgs-msg.asd
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ICPStat.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_PointsImage.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/IndicatorCmd.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_Waypoint.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/StateCmd.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/DTLane.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/TunedResult.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ImageObjects.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ObjPose.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_SyncTimeDiff.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ScanImage.lisp
+[4.087s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_Signals.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_SteerCmd.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ICPStat.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ColorSet.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/Gear.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_GeometricRectangle.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ImageRectRanged.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/CloudCluster.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ImageObj.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/VehicleStatus.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/VscanTrackedArray.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ObjLabel.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ObjPose.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_Gear.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ImageObjTracked.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ScanImage.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ControlCommandStamped.lisp
+[4.088s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ImageRect.lisp
+[4.089s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_TrafficLight.lisp
+[4.089s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_DTLane.lisp
+[4.089s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/State.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/GeometricRectangle.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_AccelCmd.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_CloudCluster.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_State.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_TunedResult.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/AdjustXY.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_AdjustXY.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/Waypoint.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/TrafficLight.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/Centroids.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_StateCmd.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_DetectedObject.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ControlCommand.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/LampCmd.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ControlCommand.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ObjLabel.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_VehicleCmd.lisp
+[4.090s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ValueSet.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_CloudClusterArray.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ImageObjRanged.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_BrakeCmd.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ExtractedPosition.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_Lane.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_NDTStat.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ImageObjRanged.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/TrafficLightResult.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_DetectedObjectArray.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_LampCmd.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_Centroids.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_VscanTrackedArray.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/SyncTimeMonitor.lisp
+[4.091s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ValueSet.lisp
+[4.092s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/SyncTimeDiff.lisp
+[4.092s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_IndicatorCmd.lisp
+[4.092s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/NDTStat.lisp
+[4.092s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/TrafficLightResultArray.lisp
+[4.092s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/AccelCmd.lisp
+[4.092s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ImageRect.lisp
+[4.092s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/SteerCmd.lisp
+[4.092s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_VscanTracked.lisp
+[4.093s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_TrafficLightResultArray.lisp
+[4.093s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/CloudClusterArray.lisp
+[4.093s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ProjectionMatrix.lisp
+[4.093s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_RemoteCmd.lisp
+[4.093s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ProjectionMatrix.lisp
+[4.093s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ImageRectRanged.lisp
+[4.093s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/ColorSet.lisp
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/PointsImage.lisp
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/_package_ExtractedPosition.lisp
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/VscanTracked.lisp
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/WaypointState.lisp
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/RemoteCmd.lisp
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/msg/Signals.lisp
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/srv
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/srv/RecognizeLightState.lisp
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/srv/_package.lisp
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/srv/autoware_msgs-srv.asd
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/common-lisp/ros/autoware_msgs/srv/_package_RecognizeLightState.lisp
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ImageObjRanged.js
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/StateCmd.js
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/CloudCluster.js
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/RemoteCmd.js
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/Signals.js
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/DetectedObject.js
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/VehicleLocation.js
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/TrafficLight.js
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ImageLaneObjects.js
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/_index.js
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/LampCmd.js
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/DTLane.js
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/VehicleCmd.js
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ImageObj.js
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ImageRectRanged.js
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ICPStat.js
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/State.js
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/SteerCmd.js
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ControlCommand.js
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/NDTStat.js
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/PointsImage.js
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/TunedResult.js
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/AccelCmd.js
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/SyncTimeDiff.js
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ControlCommandStamped.js
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/AdjustXY.js
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/TrafficLightResult.js
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/LaneArray.js
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ScanImage.js
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/BrakeCmd.js
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/VscanTracked.js
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/Gear.js
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/SyncTimeMonitor.js
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ExtractedPosition.js
+[4.099s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/Waypoint.js
+[4.099s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/Centroids.js
+[4.099s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ImageObjects.js
+[4.099s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ProjectionMatrix.js
+[4.099s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/Lane.js
+[4.099s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ColorSet.js
+[4.099s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/IndicatorCmd.js
+[4.099s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/TrafficLightResultArray.js
+[4.099s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ValueSet.js
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/VehicleStatus.js
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/CloudClusterArray.js
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/VscanTrackedArray.js
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/DetectedObjectArray.js
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ObjLabel.js
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ObjPose.js
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ImageRect.js
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/ImageObjTracked.js
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/WaypointState.js
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/msg/GeometricRectangle.js
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/_index.js
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/srv
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/srv/_index.js
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/gennodejs/ros/autoware_msgs/srv/RecognizeLightState.js
+[4.138s] Listing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs/devel/lib/python2.7/dist-packages/autoware_msgs ...
+[4.138s] Listing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs/devel/lib/python2.7/dist-packages/autoware_msgs/msg ...
+[4.138s] Listing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs/devel/lib/python2.7/dist-packages/autoware_msgs/srv ...
+[4.138s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageObjTracked.pyc
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageLaneObjects.pyc
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_GeometricRectangle.py
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageLaneObjects.py
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_Signals.py
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ControlCommand.pyc
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_TrafficLightResult.py
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageObjects.py
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ProjectionMatrix.py
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_DetectedObject.py
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_WaypointState.pyc
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_NDTStat.pyc
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_VscanTrackedArray.pyc
+[4.139s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_LampCmd.pyc
+[4.140s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_State.pyc
+[4.140s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/__init__.pyc
+[4.140s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageObj.py
+[4.140s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ColorSet.py
+[4.140s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_AdjustXY.pyc
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_CloudCluster.pyc
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageObjects.pyc
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_SyncTimeDiff.pyc
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_VscanTracked.pyc
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ProjectionMatrix.pyc
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_GeometricRectangle.pyc
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_DTLane.py
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_PointsImage.py
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_DetectedObject.pyc
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_DetectedObjectArray.py
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageRectRanged.pyc
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageRectRanged.py
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_VscanTrackedArray.py
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ColorSet.pyc
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_LampCmd.py
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ICPStat.pyc
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_CloudClusterArray.pyc
+[4.141s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageObjTracked.py
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_Signals.pyc
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_TrafficLight.py
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_VehicleStatus.pyc
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_TrafficLight.pyc
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ControlCommandStamped.pyc
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_NDTStat.py
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_VehicleCmd.py
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_IndicatorCmd.pyc
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_Gear.py
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageObj.pyc
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ScanImage.py
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_SyncTimeDiff.py
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_TunedResult.pyc
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_Lane.pyc
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_Lane.py
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_DTLane.pyc
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_Waypoint.py
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ObjPose.pyc
+[4.142s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_RemoteCmd.py
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_VehicleLocation.pyc
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_VehicleStatus.py
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_Centroids.pyc
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ExtractedPosition.pyc
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ScanImage.pyc
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_StateCmd.py
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_SteerCmd.pyc
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ObjPose.py
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_BrakeCmd.py
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_State.py
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_BrakeCmd.pyc
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ObjLabel.pyc
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_DetectedObjectArray.pyc
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ICPStat.py
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/__init__.py
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ValueSet.pyc
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_AccelCmd.pyc
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_LaneArray.pyc
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_CloudCluster.py
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_PointsImage.pyc
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_AdjustXY.py
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_VehicleCmd.pyc
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_CloudClusterArray.py
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_StateCmd.pyc
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ObjLabel.py
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ControlCommandStamped.py
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_LaneArray.py
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_SyncTimeMonitor.py
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_TrafficLightResultArray.py
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageObjRanged.py
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_TunedResult.py
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageObjRanged.pyc
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ValueSet.py
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageRect.pyc
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ExtractedPosition.py
+[4.145s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_AccelCmd.py
+[4.145s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_SteerCmd.py
+[4.148s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_SyncTimeMonitor.pyc
+[4.148s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_VehicleLocation.py
+[4.148s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_Waypoint.pyc
+[4.148s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ControlCommand.py
+[4.148s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_RemoteCmd.pyc
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_IndicatorCmd.py
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_TrafficLightResultArray.pyc
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_Gear.pyc
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_VscanTracked.py
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_Centroids.py
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_TrafficLightResult.pyc
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_WaypointState.py
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/msg/_ImageRect.py
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/__init__.pyc
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/__init__.py
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/srv
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/srv/__init__.pyc
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/srv/_RecognizeLightState.py
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/srv/_RecognizeLightState.pyc
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages/autoware_msgs/srv/__init__.py
+[4.149s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig/autoware_msgs.pc
+[4.150s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/cmake/autoware_msgs-msg-extras.cmake
+[4.150s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/cmake/autoware_msgsConfig.cmake
+[4.150s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/cmake/autoware_msgsConfig-version.cmake
+[4.150s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share/autoware_msgs/package.xml
+[4.150s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_msgs --target install -- -j6 -l6

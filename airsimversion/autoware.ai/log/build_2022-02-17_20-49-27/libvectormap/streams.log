@@ -1,0 +1,131 @@
+[0.075s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/libvectormap': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/libvectormap -- -j6 -l6
+[0.204s] [  0%] Built target visualization_msgs_generate_messages_eus
+[0.206s] [  0%] Built target visualization_msgs_generate_messages_py
+[0.215s] [  0%] Built target visualization_msgs_generate_messages_cpp
+[0.229s] [  0%] Built target vector_map_msgs_generate_messages_cpp
+[0.230s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.241s] [  0%] Built target vector_map_msgs_generate_messages_eus
+[0.250s] [  0%] Built target tf2_msgs_generate_messages_py
+[0.284s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[0.299s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[0.301s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[0.315s] [  0%] Built target tf2_msgs_generate_messages_eus
+[0.320s] [  0%] Built target actionlib_msgs_generate_messages_py
+[0.327s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[0.369s] [  0%] Built target actionlib_generate_messages_py
+[0.374s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[0.377s] [  0%] Built target vector_map_msgs_generate_messages_lisp
+[0.391s] [  0%] Built target actionlib_generate_messages_nodejs
+[0.398s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[0.426s] [  0%] Built target actionlib_generate_messages_lisp
+[0.430s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.435s] [  0%] Built target actionlib_generate_messages_eus
+[0.443s] [  0%] Built target vector_map_msgs_generate_messages_py
+[0.459s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.495s] [  0%] Built target tf_generate_messages_lisp
+[0.509s] [  0%] Built target std_msgs_generate_messages_eus
+[0.513s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.530s] [  0%] Built target roscpp_generate_messages_lisp
+[0.531s] [  0%] Built target tf_generate_messages_nodejs
+[0.541s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[0.557s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.575s] [  0%] Built target roscpp_generate_messages_py
+[0.586s] [  0%] Built target tf_generate_messages_eus
+[0.593s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[0.608s] [  0%] Built target vector_map_msgs_generate_messages_nodejs
+[0.612s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.620s] [  0%] Built target visualization_msgs_generate_messages_lisp
+[0.631s] [  0%] Built target visualization_msgs_generate_messages_nodejs
+[0.637s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.666s] [  0%] Built target _catkin_empty_exported_target
+[0.672s] [  0%] Built target tf_generate_messages_cpp
+[0.690s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.701s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.719s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.726s] [  0%] Built target sensor_msgs_generate_messages_py
+[0.726s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.731s] [  0%] Built target tf_generate_messages_py
+[0.769s] [  0%] Built target roscpp_generate_messages_nodejs
+[0.776s] [  0%] Built target std_msgs_generate_messages_py
+[0.787s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.788s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.789s] [  0%] Built target roscpp_generate_messages_eus
+[0.812s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.829s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[0.848s] [  0%] Built target roscpp_generate_messages_cpp
+[0.848s] [  0%] Built target actionlib_generate_messages_cpp
+[0.855s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.951s] [100%] Built target libvectormap
+[0.978s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/libvectormap' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/libvectormap -- -j6 -l6
+[1.339s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/libvectormap': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/libvectormap --target tests -- -j6 -l6
+[1.434s] Built target tests
+[1.447s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/libvectormap' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/libvectormap --target tests -- -j6 -l6
+[1.675s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/libvectormap': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/libvectormap --target install -- -j6 -l6
+[1.753s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[1.763s] [  0%] Built target visualization_msgs_generate_messages_cpp
+[1.763s] [  0%] Built target visualization_msgs_generate_messages_eus
+[1.767s] [  0%] Built target vector_map_msgs_generate_messages_eus
+[1.768s] [  0%] Built target visualization_msgs_generate_messages_py
+[1.788s] [  0%] Built target vector_map_msgs_generate_messages_cpp
+[1.791s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[1.828s] [  0%] Built target tf2_msgs_generate_messages_eus
+[1.832s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[1.837s] [  0%] Built target actionlib_msgs_generate_messages_py
+[1.845s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[1.849s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[1.850s] [  0%] Built target tf2_msgs_generate_messages_py
+[1.875s] [  0%] Built target vector_map_msgs_generate_messages_lisp
+[1.882s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[1.890s] [  0%] Built target actionlib_generate_messages_nodejs
+[1.891s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[1.904s] [  0%] Built target actionlib_generate_messages_py
+[1.906s] [  0%] Built target actionlib_generate_messages_lisp
+[1.923s] [  0%] Built target geometry_msgs_generate_messages_py
+[1.932s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[1.932s] [  0%] Built target actionlib_generate_messages_eus
+[1.932s] [  0%] Built target vector_map_msgs_generate_messages_py
+[1.949s] [  0%] Built target std_msgs_generate_messages_eus
+[1.956s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[1.964s] [  0%] Built target tf_generate_messages_nodejs
+[1.967s] [  0%] Built target tf_generate_messages_lisp
+[1.977s] [  0%] Built target roscpp_generate_messages_lisp
+[1.977s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[1.990s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[2.000s] [  0%] Built target roscpp_generate_messages_py
+[2.009s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[2.012s] [  0%] Built target tf_generate_messages_eus
+[2.021s] [  0%] Built target vector_map_msgs_generate_messages_nodejs
+[2.025s] [  0%] Built target visualization_msgs_generate_messages_nodejs
+[2.027s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[2.045s] [  0%] Built target visualization_msgs_generate_messages_lisp
+[2.050s] [  0%] Built target std_msgs_generate_messages_cpp
+[2.062s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[2.067s] [  0%] Built target tf_generate_messages_cpp
+[2.070s] [  0%] Built target std_msgs_generate_messages_lisp
+[2.075s] [  0%] Built target _catkin_empty_exported_target
+[2.079s] [  0%] Built target sensor_msgs_generate_messages_eus
+[2.089s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[2.095s] [  0%] Built target tf_generate_messages_py
+[2.101s] [  0%] Built target std_msgs_generate_messages_nodejs
+[2.120s] [  0%] Built target geometry_msgs_generate_messages_eus
+[2.120s] [  0%] Built target sensor_msgs_generate_messages_py
+[2.133s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[2.137s] [  0%] Built target std_msgs_generate_messages_py
+[2.147s] [  0%] Built target roscpp_generate_messages_eus
+[2.156s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[2.161s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[2.163s] [  0%] Built target roscpp_generate_messages_cpp
+[2.165s] [  0%] Built target roscpp_generate_messages_nodejs
+[2.201s] [  0%] Built target actionlib_generate_messages_cpp
+[2.234s] [100%] Built target libvectormap
+[2.266s] [36mInstall the project...[0m
+[2.285s] -- Install configuration: "Release"
+[2.286s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/libvectormap/lib/pkgconfig/libvectormap.pc
+[2.286s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/libvectormap/share/libvectormap/cmake/libvectormapConfig.cmake
+[2.286s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/libvectormap/share/libvectormap/cmake/libvectormapConfig-version.cmake
+[2.286s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/libvectormap/share/libvectormap/package.xml
+[2.286s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/libvectormap/lib/liblibvectormap.a
+[2.286s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/libvectormap/include/libvectormap
+[2.287s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/libvectormap/include/libvectormap/Math.h
+[2.287s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/libvectormap/include/libvectormap/vector_map.h
+[2.304s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/libvectormap' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/libvectormap --target install -- -j6 -l6

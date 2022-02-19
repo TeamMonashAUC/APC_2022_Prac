@@ -1,0 +1,81 @@
+[  0%] Built target std_msgs_generate_messages_nodejs
+[ 33%] Built target obj_db
+[ 33%] Built target geometry_msgs_generate_messages_py
+[ 33%] Built target visualization_msgs_generate_messages_py
+[ 33%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 33%] Built target std_msgs_generate_messages_eus
+[ 33%] Built target autoware_can_msgs_generate_messages_eus
+[ 33%] Built target rosgraph_msgs_generate_messages_py
+[ 33%] Built target roscpp_generate_messages_lisp
+[ 33%] Built target geometry_msgs_generate_messages_nodejs
+[ 33%] Built target autoware_can_msgs_generate_messages_nodejs
+[ 33%] Built target autoware_can_msgs_generate_messages_lisp
+[ 33%] Built target rosgraph_msgs_generate_messages_cpp
+[ 33%] Built target autoware_can_msgs_generate_messages_cpp
+[ 33%] Built target roscpp_generate_messages_nodejs
+[ 33%] Built target roscpp_generate_messages_py
+[ 33%] Built target roscpp_generate_messages_eus
+[ 33%] Built target geometry_msgs_generate_messages_eus
+[ 33%] Built target rosgraph_msgs_generate_messages_eus
+[ 33%] Built target rosgraph_msgs_generate_messages_lisp
+[ 33%] Built target visualization_msgs_generate_messages_cpp
+[ 33%] Built target visualization_msgs_generate_messages_eus
+[ 33%] Built target std_msgs_generate_messages_cpp
+[ 33%] Built target visualization_msgs_generate_messages_nodejs
+[ 33%] Built target visualization_msgs_generate_messages_lisp
+[ 33%] Built target geometry_msgs_generate_messages_lisp
+[ 33%] Built target geometry_msgs_generate_messages_cpp
+[ 33%] Built target std_msgs_generate_messages_py
+[ 55%] Built target obj_uploader
+[ 77%] Built target obj_downloader
+[ 77%] Built target autoware_can_msgs_generate_messages_py
+[ 77%] Built target roscpp_generate_messages_cpp
+[ 77%] Built target std_msgs_generate_messages_lisp
+[100%] Built target can_uploader
+Built target tests
+[  0%] Built target std_msgs_generate_messages_nodejs
+[ 33%] Built target obj_db
+[ 33%] Built target visualization_msgs_generate_messages_py
+[ 33%] Built target geometry_msgs_generate_messages_py
+[ 33%] Built target std_msgs_generate_messages_eus
+[ 33%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 33%] Built target rosgraph_msgs_generate_messages_py
+[ 33%] Built target autoware_can_msgs_generate_messages_eus
+[ 33%] Built target roscpp_generate_messages_lisp
+[ 33%] Built target geometry_msgs_generate_messages_nodejs
+[ 33%] Built target autoware_can_msgs_generate_messages_nodejs
+[ 33%] Built target autoware_can_msgs_generate_messages_lisp
+[ 33%] Built target autoware_can_msgs_generate_messages_cpp
+[ 33%] Built target rosgraph_msgs_generate_messages_cpp
+[ 33%] Built target roscpp_generate_messages_nodejs
+[ 33%] Built target roscpp_generate_messages_py
+[ 33%] Built target roscpp_generate_messages_eus
+[ 33%] Built target geometry_msgs_generate_messages_eus
+[ 33%] Built target rosgraph_msgs_generate_messages_lisp
+[ 33%] Built target rosgraph_msgs_generate_messages_eus
+[ 33%] Built target visualization_msgs_generate_messages_cpp
+[ 33%] Built target autoware_can_msgs_generate_messages_py
+[ 33%] Built target std_msgs_generate_messages_cpp
+[ 33%] Built target visualization_msgs_generate_messages_lisp
+[ 33%] Built target visualization_msgs_generate_messages_nodejs
+[ 33%] Built target geometry_msgs_generate_messages_cpp
+[ 33%] Built target geometry_msgs_generate_messages_lisp
+[ 33%] Built target std_msgs_generate_messages_py
+[ 55%] Built target obj_downloader
+[ 77%] Built target obj_uploader
+[ 77%] Built target visualization_msgs_generate_messages_eus
+[ 77%] Built target roscpp_generate_messages_cpp
+[ 77%] Built target std_msgs_generate_messages_lisp
+[100%] Built target can_uploader
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/obj_db/lib/pkgconfig/obj_db.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/obj_db/share/obj_db/cmake/obj_dbConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/obj_db/share/obj_db/cmake/obj_dbConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/obj_db/share/obj_db/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/obj_db/lib/obj_db/can_uploader
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/obj_db/lib/obj_db/obj_uploader
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/obj_db/lib/libobj_db.so
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/obj_db/lib/obj_db/obj_downloader
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/obj_db/include/obj_db/include
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/obj_db/include/obj_db/include/obj_db.h

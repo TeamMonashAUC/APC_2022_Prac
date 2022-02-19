@@ -1,0 +1,23 @@
+[0.024s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_cpu': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_cpu -- -j6 -l6
+[0.164s] [100%] Built target ndt_cpu
+[0.206s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_cpu' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_cpu -- -j6 -l6
+[0.416s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_cpu': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_cpu --target tests -- -j6 -l6
+[0.502s] Built target tests
+[0.518s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_cpu' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_cpu --target tests -- -j6 -l6
+[0.601s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_cpu': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_cpu --target install -- -j6 -l6
+[0.720s] [100%] Built target ndt_cpu
+[0.758s] [36mInstall the project...[0m
+[0.768s] -- Install configuration: "Release"
+[0.768s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_cpu/lib/pkgconfig/ndt_cpu.pc
+[0.768s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_cpu/share/ndt_cpu/cmake/ndt_cpuConfig.cmake
+[0.769s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_cpu/share/ndt_cpu/cmake/ndt_cpuConfig-version.cmake
+[0.769s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_cpu/share/ndt_cpu/package.xml
+[0.769s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_cpu/include/ndt_cpu
+[0.769s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_cpu/include/ndt_cpu/debug.h
+[0.769s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_cpu/include/ndt_cpu/Octree.h
+[0.769s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_cpu/include/ndt_cpu/VoxelGrid.h
+[0.769s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_cpu/include/ndt_cpu/SymmetricEigenSolver.h
+[0.769s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_cpu/include/ndt_cpu/Registration.h
+[0.769s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_cpu/include/ndt_cpu/NormalDistributionsTransform.h
+[0.769s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_cpu/lib/libndt_cpu.so
+[0.780s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_cpu' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_cpu --target install -- -j6 -l6

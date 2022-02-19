@@ -1,0 +1,217 @@
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_eus
+[  0%] Built target topic_tools_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target topic_tools_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target pcl_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target bond_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target autoware_msgs_generate_messages_cpp
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target jsk_recognition_msgs_generate_messages_py
+[  0%] Built target nodelet_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target nodelet_generate_messages_py
+[  0%] Built target jsk_footstep_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_lisp
+[  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[  0%] Built target autoware_msgs_generate_messages_lisp
+[  0%] Built target autoware_msgs_generate_messages_eus
+[  0%] Built target autoware_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target nodelet_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target autoware_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target bond_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target pcl_ros_gencfg
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target nodelet_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target nodelet_generate_messages_eus
+[  0%] Built target bond_generate_messages_py
+[  0%] Built target bond_generate_messages_cpp
+[  0%] Built target bond_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_py
+[  0%] Built target nodelet_topic_tools_gencfg
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[100%] Built target autoware_camera_lidar_calibration_node
+Built target tests
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target pcl_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target autoware_msgs_generate_messages_cpp
+[  0%] Built target bond_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+[  0%] Built target jsk_recognition_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target nodelet_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target nodelet_generate_messages_py
+[  0%] Built target jsk_footstep_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_lisp
+[  0%] Built target autoware_msgs_generate_messages_eus
+[  0%] Built target autoware_msgs_generate_messages_lisp
+[  0%] Built target autoware_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target nodelet_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target autoware_msgs_generate_messages_nodejs
+[  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target bond_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target pcl_ros_gencfg
+[  0%] Built target nodelet_generate_messages_cpp
+[  0%] Built target bond_generate_messages_py
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target bond_generate_messages_nodejs
+[  0%] Built target nodelet_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_py
+[  0%] Built target bond_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target _catkin_empty_exported_target
+[  0%] Built target nodelet_topic_tools_gencfg
+[100%] Built target autoware_camera_lidar_calibration_node
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/lib/pkgconfig/autoware_camera_lidar_calibrator.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/share/autoware_camera_lidar_calibrator/cmake/autoware_camera_lidar_calibratorConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/share/autoware_camera_lidar_calibrator/cmake/autoware_camera_lidar_calibratorConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/share/autoware_camera_lidar_calibrator/package.xml
++ cd /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/utilities/autoware_camera_lidar_calibrator
++ mkdir -p /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/lib/python2.7/dist-packages
++ /usr/bin/env PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_camera_lidar_calibrator/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages CATKIN_BINARY_DIR=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_camera_lidar_calibrator /usr/bin/python2 /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/utilities/autoware_camera_lidar_calibrator/setup.py build --build-base /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_camera_lidar_calibrator install --root=/ --install-layout=deb --prefix=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator --install-scripts=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/bin
+running build
+running build_py
+running install
+running install_lib
+running install_egg_info
+Removing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/lib/python2.7/dist-packages/autoware_camera_lidar_calibrator-1.12.0.egg-info
+Writing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/lib/python2.7/dist-packages/autoware_camera_lidar_calibrator-1.12.0.egg-info
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/lib/autoware_camera_lidar_calibrator/cameracalibrator.py
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/lib/autoware_camera_lidar_calibrator/cameracheck.py
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/lib/autoware_camera_lidar_calibrator/tarfile_calibration.py
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/lib/autoware_camera_lidar_calibrator/autoware_camera_lidar_calibration_node
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/share/autoware_camera_lidar_calibrator/launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/share/autoware_camera_lidar_calibrator/launch/camera_lidar_calibration.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/share/autoware_camera_lidar_calibrator/docs
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/share/autoware_camera_lidar_calibrator/docs/camera_calibration.jpg
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/share/autoware_camera_lidar_calibrator/docs/camera_lidar_calibration.jpg
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_camera_lidar_calibrator/share/autoware_camera_lidar_calibrator/docs/autoware_logo.jpg

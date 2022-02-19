@@ -1,0 +1,64 @@
+[0.032s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/drivers/awf_drivers/xsens_driver -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/xsens_driver
+[0.106s] -- The C compiler identification is GNU 7.5.0
+[0.171s] -- The CXX compiler identification is GNU 7.5.0
+[0.176s] -- Check for working C compiler: /usr/bin/cc
+[0.261s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.262s] -- Detecting C compiler ABI info
+[0.348s] -- Detecting C compiler ABI info - done
+[0.358s] -- Detecting C compile features
+[0.576s] -- Detecting C compile features - done
+[0.580s] -- Check for working CXX compiler: /usr/bin/c++
+[0.668s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.669s] -- Detecting CXX compiler ABI info
+[0.758s] -- Detecting CXX compiler ABI info - done
+[0.768s] -- Detecting CXX compile features
+[1.157s] -- Detecting CXX compile features - done
+[1.160s] -- Using CATKIN_DEVEL_PREFIX: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver/devel
+[1.160s] -- Using CMAKE_PREFIX_PATH: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs;/opt/ros/melodic
+[1.161s] -- This workspace overlays: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs;/opt/ros/melodic
+[1.176s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[1.177s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[1.177s] -- Using Debian Python package layout
+[1.177s] -- Using empy: /usr/bin/empy
+[1.356s] -- Using CATKIN_ENABLE_TESTING: ON
+[1.356s] -- Call enable_testing()
+[1.356s] -- Using CATKIN_TEST_RESULTS_DIR: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver/test_results
+[1.383s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[1.383s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[1.398s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[1.400s] -- Looking for pthread.h
+[1.481s] -- Looking for pthread.h - found
+[1.483s] -- Looking for pthread_create
+[1.562s] -- Looking for pthread_create - not found
+[1.563s] -- Looking for pthread_create in pthreads
+[1.625s] -- Looking for pthread_create in pthreads - not found
+[1.626s] -- Looking for pthread_create in pthread
+[1.714s] -- Looking for pthread_create in pthread - found
+[1.715s] -- Found Threads: TRUE  
+[1.720s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[1.775s] -- catkin 0.7.29
+[1.776s] -- BUILD_SHARED_LIBS is on
+[1.976s] -- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[2.277s] -- Configuring done
+[2.310s] -- Generating done
+[2.320s] -- Build files have been written to: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver
+[2.327s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/drivers/awf_drivers/xsens_driver -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/xsens_driver
+[2.331s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver -- -j6 -l6
+[2.380s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver -- -j6 -l6
+[2.476s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver --target tests -- -j6 -l6
+[2.535s] [35m[1mScanning dependencies of target tests[0m
+[2.547s] Built target tests
+[2.562s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver --target tests -- -j6 -l6
+[2.648s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver --target install -- -j6 -l6
+[2.707s] [36mInstall the project...[0m
+[2.717s] -- Install configuration: "Release"
+[2.717s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/xsens_driver/lib/pkgconfig/xsens_driver.pc
+[2.718s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/xsens_driver/share/xsens_driver/cmake/xsens_driverConfig.cmake
+[2.718s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/xsens_driver/share/xsens_driver/cmake/xsens_driverConfig-version.cmake
+[2.718s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/xsens_driver/share/xsens_driver/package.xml
+[2.718s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/xsens_driver/lib/xsens_driver/mtnode.py
+[2.718s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/xsens_driver/lib/xsens_driver/mtdef.py
+[2.719s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/xsens_driver/lib/xsens_driver/mtdevice.py
+[2.719s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/xsens_driver/share/xsens_driver/launch
+[2.720s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/xsens_driver/share/xsens_driver/launch/mti300.launch
+[2.724s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/custom_msgs/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/xsens_driver --target install -- -j6 -l6

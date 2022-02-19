@@ -1,0 +1,139 @@
+[0.035s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vehicle_socket': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vehicle_socket -- -j6 -l6
+[0.109s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.114s] [  0%] Built target tablet_socket_msgs_generate_messages_py
+[0.142s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.150s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.176s] [  0%] Built target roscpp_generate_messages_py
+[0.180s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.206s] [  0%] Built target roscpp_generate_messages_lisp
+[0.221s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[0.260s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[0.290s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[0.327s] [  0%] Built target actionlib_msgs_generate_messages_py
+[0.353s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[0.383s] [  0%] Built target pcl_msgs_generate_messages_py
+[0.419s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[0.463s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[0.498s] [  0%] Built target pcl_msgs_generate_messages_eus
+[0.525s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.557s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[0.609s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.649s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.682s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.714s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.757s] [  0%] Built target tablet_socket_msgs_generate_messages_cpp
+[0.793s] [  0%] Built target autoware_can_msgs_generate_messages_py
+[0.819s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[0.843s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.871s] [  0%] Built target std_msgs_generate_messages_eus
+[0.896s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[0.933s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[0.957s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.978s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[1.011s] [  0%] Built target std_msgs_generate_messages_py
+[1.043s] [  0%] Built target autoware_msgs_generate_messages_py
+[1.073s] [  0%] Built target autoware_can_msgs_generate_messages_eus
+[1.113s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[1.142s] [  0%] Built target sensor_msgs_generate_messages_py
+[1.168s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[1.198s] [  0%] Built target autoware_can_msgs_generate_messages_nodejs
+[1.226s] [  0%] Built target autoware_can_msgs_generate_messages_lisp
+[1.252s] [  0%] Built target autoware_can_msgs_generate_messages_cpp
+[1.286s] [  0%] Built target autoware_msgs_generate_messages_eus
+[1.318s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[1.344s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[1.368s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[1.399s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[1.421s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[1.455s] [  0%] Built target roscpp_generate_messages_nodejs
+[1.490s] [  0%] Built target roscpp_generate_messages_eus
+[1.529s] [  0%] Built target geometry_msgs_generate_messages_eus
+[1.553s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[1.578s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[1.613s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[1.648s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[1.684s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[1.716s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[1.740s] [  0%] Built target roscpp_generate_messages_cpp
+[1.770s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[1.798s] [  0%] Built target tablet_socket_msgs_generate_messages_eus
+[1.819s] [  0%] Built target tablet_socket_msgs_generate_messages_lisp
+[1.839s] [  0%] Built target tablet_socket_msgs_generate_messages_nodejs
+[1.872s] [ 50%] Built target vehicle_sender
+[1.899s] [100%] Built target vehicle_receiver
+[1.917s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vehicle_socket' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vehicle_socket -- -j6 -l6
+[2.010s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vehicle_socket': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vehicle_socket --target tests -- -j6 -l6
+[2.093s] Built target tests
+[2.110s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vehicle_socket' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vehicle_socket --target tests -- -j6 -l6
+[2.226s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vehicle_socket': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vehicle_socket --target install -- -j6 -l6
+[2.282s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[2.311s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[2.331s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[2.357s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[2.393s] [  0%] Built target roscpp_generate_messages_py
+[2.415s] [  0%] Built target roscpp_generate_messages_lisp
+[2.436s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[2.456s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[2.485s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[2.505s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[2.532s] [  0%] Built target actionlib_msgs_generate_messages_py
+[2.552s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[2.573s] [  0%] Built target pcl_msgs_generate_messages_py
+[2.594s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[2.614s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[2.636s] [  0%] Built target pcl_msgs_generate_messages_eus
+[2.657s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[2.680s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[2.710s] [  0%] Built target std_msgs_generate_messages_nodejs
+[2.736s] [  0%] Built target std_msgs_generate_messages_lisp
+[2.766s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[2.794s] [  0%] Built target sensor_msgs_generate_messages_eus
+[2.817s] [  0%] Built target tablet_socket_msgs_generate_messages_cpp
+[2.839s] [  0%] Built target autoware_can_msgs_generate_messages_py
+[2.863s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[2.886s] [  0%] Built target geometry_msgs_generate_messages_py
+[2.907s] [  0%] Built target std_msgs_generate_messages_eus
+[2.933s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[2.951s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[2.976s] [  0%] Built target std_msgs_generate_messages_cpp
+[2.997s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[3.023s] [  0%] Built target std_msgs_generate_messages_py
+[3.043s] [  0%] Built target autoware_msgs_generate_messages_py
+[3.070s] [  0%] Built target autoware_can_msgs_generate_messages_eus
+[3.099s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[3.122s] [  0%] Built target sensor_msgs_generate_messages_py
+[3.146s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[3.170s] [  0%] Built target autoware_can_msgs_generate_messages_nodejs
+[3.204s] [  0%] Built target autoware_can_msgs_generate_messages_lisp
+[3.229s] [  0%] Built target autoware_can_msgs_generate_messages_cpp
+[3.252s] [  0%] Built target autoware_msgs_generate_messages_eus
+[3.271s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[3.294s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[3.317s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[3.340s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[3.371s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[3.392s] [  0%] Built target roscpp_generate_messages_nodejs
+[3.412s] [  0%] Built target roscpp_generate_messages_eus
+[3.438s] [  0%] Built target geometry_msgs_generate_messages_eus
+[3.459s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[3.480s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[3.505s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[3.526s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[3.553s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[3.579s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[3.600s] [  0%] Built target roscpp_generate_messages_cpp
+[3.620s] [  0%] Built target tablet_socket_msgs_generate_messages_eus
+[3.644s] [  0%] Built target tablet_socket_msgs_generate_messages_lisp
+[3.670s] [  0%] Built target tablet_socket_msgs_generate_messages_nodejs
+[3.698s] [  0%] Built target tablet_socket_msgs_generate_messages_py
+[3.736s] [ 50%] Built target vehicle_sender
+[3.763s] [100%] Built target vehicle_receiver
+[3.788s] [36mInstall the project...[0m
+[3.797s] -- Install configuration: "Release"
+[3.798s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_socket/lib/pkgconfig/vehicle_socket.pc
+[3.798s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_socket/share/vehicle_socket/cmake/vehicle_socketConfig.cmake
+[3.798s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_socket/share/vehicle_socket/cmake/vehicle_socketConfig-version.cmake
+[3.798s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_socket/share/vehicle_socket/package.xml
+[3.798s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_socket/lib/vehicle_socket/vehicle_sender
+[3.799s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_socket/lib/vehicle_socket/vehicle_receiver
+[3.803s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vehicle_socket' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/tablet_socket_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_can_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vehicle_socket --target install -- -j6 -l6

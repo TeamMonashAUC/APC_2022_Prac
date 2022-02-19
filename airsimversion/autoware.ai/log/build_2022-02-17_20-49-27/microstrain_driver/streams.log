@@ -1,0 +1,25 @@
+[0.020s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/microstrain_driver': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/microstrain_driver -- -j6 -l6
+[0.136s] [ 76%] Built target microstrain_driver
+[0.171s] [ 88%] Built target 3dm_gx5_15_node
+[0.200s] [100%] Built target 3dm_gx5_45_node
+[0.225s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/microstrain_driver' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/microstrain_driver -- -j6 -l6
+[0.367s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/microstrain_driver': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/microstrain_driver --target tests -- -j6 -l6
+[0.436s] Built target tests
+[0.453s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/microstrain_driver' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/microstrain_driver --target tests -- -j6 -l6
+[0.598s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/microstrain_driver': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/microstrain_driver --target install -- -j6 -l6
+[0.681s] [ 76%] Built target microstrain_driver
+[0.712s] [ 88%] Built target 3dm_gx5_45_node
+[0.716s] [100%] Built target 3dm_gx5_15_node
+[0.738s] [36mInstall the project...[0m
+[0.755s] -- Install configuration: "Release"
+[0.755s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/lib/pkgconfig/microstrain_driver.pc
+[0.756s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/share/microstrain_driver/cmake/microstrain_driverConfig.cmake
+[0.756s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/share/microstrain_driver/cmake/microstrain_driverConfig-version.cmake
+[0.756s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/share/microstrain_driver/package.xml
+[0.757s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/lib/libmicrostrain_driver.so
+[0.758s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/lib/microstrain_driver/3dm_gx5_15_node
+[0.759s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/lib/microstrain_driver/3dm_gx5_45_node
+[0.759s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/share/microstrain_driver/launch
+[0.761s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/share/microstrain_driver/launch/microstrain.launch
+[0.761s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/share/microstrain_driver/launch/3dm_gx5_15.launch
+[0.769s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/microstrain_driver' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/microstrain_driver --target install -- -j6 -l6

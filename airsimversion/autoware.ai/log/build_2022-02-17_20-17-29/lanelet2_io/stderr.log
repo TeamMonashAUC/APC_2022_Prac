@@ -1,0 +1,5 @@
+CMakeFiles/lanelet2_io-TestOsmHandler-test.dir/test/TestOsmHandler.cpp.o:TestOsmHandler.cpp:function OsmHandler_writeMapWithLaneletAndAreaToFile_Test::TestBody(): warning: the use of `tmpnam' is dangerous, better use `mkstemp'
+CMakeFiles/lanelet2_io-TestSimpleUsage-test.dir/test/TestSimpleUsage.cpp.o:TestSimpleUsage.cpp:function lanelet2_io_exampleUsage_Test::TestBody(): warning: the use of `tmpnam' is dangerous, better use `mkstemp'
+CMakeFiles/lanelet2_io-TestLanelet2Io-test.dir/test/TestLanelet2Io.cpp.o:TestLanelet2Io.cpp:function lanelet2_io_exceptionTest_Test::TestBody(): warning: the use of `tmpnam' is dangerous, better use `mkstemp'
+CMakeFiles/lanelet2_io-TestBinHandler-test.dir/test/TestBinHandler.cpp.o:TestBinHandler.cpp:function BinHandler_explicitIO_Test::TestBody(): warning: the use of `tmpnam' is dangerous, better use `mkstemp'
+CMakeFiles/lanelet2_io-TestBinHandler-test.dir/test/TestBinHandler.cpp.o:TestBinHandler.cpp:function BinHandler_extension_Test::TestBody(): warning: the use of `tmpnam' is dangerous, better use `mkstemp'

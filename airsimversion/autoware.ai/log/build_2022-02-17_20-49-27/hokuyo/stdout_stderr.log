@@ -1,0 +1,13 @@
+[100%] Built target hokuyo_3d
+Built target tests
+[100%] Built target hokuyo_3d
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/hokuyo/lib/pkgconfig/hokuyo.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/hokuyo/share/hokuyo/cmake/hokuyoConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/hokuyo/share/hokuyo/cmake/hokuyoConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/hokuyo/share/hokuyo/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/hokuyo/lib/hokuyo/hokuyo_3d
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/hokuyo/share/hokuyo/launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/hokuyo/share/hokuyo/launch/top_urg.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/hokuyo/share/hokuyo/launch/hokuyo_3d.launch

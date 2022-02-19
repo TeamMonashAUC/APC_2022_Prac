@@ -1,0 +1,12 @@
+[100%] Built target vg440_node
+Built target tests
+[100%] Built target vg440_node
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/lib/pkgconfig/memsic_imu.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/share/memsic_imu/cmake/memsic_imuConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/share/memsic_imu/cmake/memsic_imuConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/share/memsic_imu/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/lib/memsic_imu/vg440_node
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/share/memsic_imu/launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/memsic_imu/share/memsic_imu/launch/vg440.launch

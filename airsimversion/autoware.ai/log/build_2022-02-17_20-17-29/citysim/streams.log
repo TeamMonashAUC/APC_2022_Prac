@@ -1,0 +1,281 @@
+[0.012s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim': /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim
+[0.082s] -- The C compiler identification is GNU 7.5.0
+[0.148s] -- The CXX compiler identification is GNU 7.5.0
+[0.153s] -- Check for working C compiler: /usr/bin/cc
+[0.227s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.228s] -- Detecting C compiler ABI info
+[0.312s] -- Detecting C compiler ABI info - done
+[0.323s] -- Detecting C compile features
+[0.546s] -- Detecting C compile features - done
+[0.549s] -- Check for working CXX compiler: /usr/bin/c++
+[0.634s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.634s] -- Detecting CXX compiler ABI info
+[0.716s] -- Detecting CXX compiler ABI info - done
+[0.726s] -- Detecting CXX compile features
+[1.103s] -- Detecting CXX compile features - done
+[1.124s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[1.130s] -- Checking for module 'bullet>=2.82'
+[1.149s] --   Found bullet, version 2.87
+[1.213s] -- Found Simbody: /usr/include/simbody  
+[1.265s] -- Looking for pthread.h
+[1.341s] -- Looking for pthread.h - found
+[1.341s] -- Looking for pthread_create
+[1.417s] -- Looking for pthread_create - not found
+[1.417s] -- Looking for pthread_create in pthreads
+[1.477s] -- Looking for pthread_create in pthreads - not found
+[1.477s] -- Looking for pthread_create in pthread
+[1.547s] -- Looking for pthread_create in pthread - found
+[1.548s] -- Found Threads: TRUE  
+[1.609s] -- Boost version: 1.65.1
+[1.609s] -- Found the following Boost libraries:
+[1.609s] --   thread
+[1.609s] --   signals
+[1.609s] --   system
+[1.609s] --   filesystem
+[1.610s] --   program_options
+[1.610s] --   regex
+[1.610s] --   iostreams
+[1.610s] --   date_time
+[1.610s] --   chrono
+[1.610s] --   atomic
+[1.643s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread (found version "3.0.0") 
+[1.675s] -- Boost version: 1.65.1
+[1.677s] -- Looking for OGRE...
+[1.678s] -- OGRE_PREFIX_WATCH changed.
+[1.691s] -- Checking for module 'OGRE'
+[1.710s] --   Found OGRE, version 1.9.0
+[1.761s] -- Found Ogre Ghadamon (1.9.0)
+[1.768s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[1.809s] CMake Warning (dev) at /usr/share/cmake-3.10/Modules/FindBoost.cmake:911 (if):
+[1.810s]   Policy CMP0054 is not set: Only interpret if() arguments as variables or
+[1.810s]   keywords when unquoted.  Run "cmake --help-policy CMP0054" for policy
+[1.810s]   details.  Use the cmake_policy command to set the policy and suppress this
+[1.810s]   warning.
+[1.810s] 
+[1.810s]   Quoted variables like "chrono" will no longer be dereferenced when the
+[1.810s]   policy is set to NEW.  Since the policy is not set the OLD behavior will be
+[1.810s]   used.
+[1.810s] Call Stack (most recent call first):
+[1.810s]   /usr/share/cmake-3.10/Modules/FindBoost.cmake:1558 (_Boost_MISSING_DEPENDENCIES)
+[1.811s]   /usr/share/OGRE/cmake/modules/FindOGRE.cmake:318 (find_package)
+[1.811s]   /usr/lib/x86_64-linux-gnu/cmake/gazebo/gazebo-config.cmake:175 (find_package)
+[1.811s]   CMakeLists.txt:27 (find_package)
+[1.811s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[1.811s] 
+[1.821s] -- Looking for OGRE_Paging...
+[1.825s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[1.825s] -- Looking for OGRE_Terrain...
+[1.831s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[1.831s] -- Looking for OGRE_Property...
+[1.837s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[1.837s] -- Looking for OGRE_RTShaderSystem...
+[1.843s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[1.843s] -- Looking for OGRE_Volume...
+[1.851s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[1.851s] -- Looking for OGRE_Overlay...
+[1.855s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[1.996s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so;-lpthread;-lpthread (found suitable version "3.0.0", minimum required is "2.3.0") 
+[2.013s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[2.022s] -- Checking for module 'libzmq >= 4'
+[2.042s] --   Found libzmq , version 4.2.5
+[2.090s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[2.097s] -- Checking for module 'uuid'
+[2.117s] --   Found uuid, version 2.31.1
+[2.167s] -- Found UUID: TRUE  
+[2.185s] -- Checking for module 'tinyxml2'
+[2.206s] --   Found tinyxml2, version 6.0.0
+[2.254s] -- Looking for dlfcn.h - found
+[2.256s] -- Looking for libdl - found
+[2.258s] -- Found DL: TRUE  
+[2.260s] -- FreeImage.pc not found, we will search for FreeImage_INCLUDE_DIRS and FreeImage_LIBRARIES
+[2.361s] -- Checking for module 'gts'
+[2.377s] --   Found gts, version 0.7.6
+[2.434s] -- Found GTS: TRUE  
+[2.439s] -- Checking for module 'libswscale'
+[2.460s] --   Found libswscale, version 4.8.100
+[2.510s] -- Found SWSCALE: TRUE  
+[2.516s] -- Checking for module 'libavdevice >= 56.4.100'
+[2.536s] --   Found libavdevice , version 57.10.100
+[2.594s] -- Found AVDEVICE: TRUE (Required is at least version "56.4.100") 
+[2.598s] -- Checking for module 'libavformat'
+[2.621s] --   Found libavformat, version 57.83.100
+[2.690s] -- Found AVFORMAT: TRUE  
+[2.696s] -- Checking for module 'libavcodec'
+[2.715s] --   Found libavcodec, version 57.107.100
+[2.778s] -- Found AVCODEC: TRUE  
+[2.789s] -- Checking for module 'libavutil'
+[2.800s] --   Found libavutil, version 55.78.100
+[2.861s] -- Found AVUTIL: TRUE  
+[2.869s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.58.0") 
+[2.877s] -- Checking for module 'jsoncpp'
+[2.895s] --   Found jsoncpp, version 1.7.4
+[2.949s] -- Found JSONCPP: TRUE  
+[2.954s] -- Checking for module 'yaml-0.1'
+[2.973s] --   Found yaml-0.1, version 0.1.7
+[3.029s] -- Found YAML: TRUE  
+[3.038s] -- Checking for module 'libzip'
+[3.056s] --   Found libzip, version 1.1.2
+[3.104s] -- Found ZIP: TRUE  
+[3.135s] -- Configuring done
+[3.197s] -- Generating done
+[3.200s] -- Build files have been written to: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim
+[3.212s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim' returned '0': /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim
+[3.213s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim -- -j6 -l6
+[3.259s] [35m[1mScanning dependencies of target BloomVisualPlugin_autogen[0m
+[3.270s] [  8%] [34m[1mAutomatic MOC for target BloomVisualPlugin[0m
+[3.302s] [  8%] Built target BloomVisualPlugin_autogen
+[3.321s] [35m[1mScanning dependencies of target TrafficLightsGUIPlugin_autogen[0m
+[3.333s] [ 16%] [34m[1mAutomatic MOC for target TrafficLightsGUIPlugin[0m
+[3.704s] [ 16%] Built target TrafficLightsGUIPlugin_autogen
+[3.716s] [35m[1mScanning dependencies of target BloomVisualPlugin[0m
+[3.853s] [ 25%] [32mBuilding CXX object plugins/CMakeFiles/BloomVisualPlugin.dir/BloomVisualPlugin.cc.o[0m
+[17.155s] [ 33%] [32mBuilding CXX object plugins/CMakeFiles/BloomVisualPlugin.dir/BloomVisualPlugin_autogen/mocs_compilation.cpp.o[0m
+[17.178s] [ 41%] [32m[1mLinking CXX shared library libBloomVisualPlugin.so[0m
+[17.846s] [ 41%] Built target BloomVisualPlugin
+[17.858s] [35m[1mScanning dependencies of target TrafficLightsGUIPlugin[0m
+[18.043s] [ 50%] [32mBuilding CXX object plugins/CMakeFiles/TrafficLightsGUIPlugin.dir/TrafficLightsGUIPlugin.cc.o[0m
+[29.275s] [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:[m[K In member function ‘[01m[Kvoid gazebo::TrafficLightsGUIPlugin::OnKeyPress(ConstAnyPtr&)[m[K’:
+[29.275s] [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:83:39:[m[K [01;35m[Kwarning: [m[K‘[01m[Kgazebo::common::Color::Color(const gazebo::common::Color&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[29.275s]    auto black = gazebo::common::Color::[01;35m[KBlack[m[K;
+[29.275s]                                        [01;35m[K^~~~~[m[K
+[29.275s] In file included from [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:38:0[m[K,
+[29.276s]                  from [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18[m[K:
+[29.276s] [01m[K/usr/include/gazebo-9/gazebo/common/Color.hh:95:15:[m[K [01;36m[Knote: [m[Kdeclared here
+[29.276s]        public: [01;36m[KColor[m[K(const Color &_clr) GAZEBO_DEPRECATED(9.0);
+[29.276s]                [01;36m[K^~~~~[m[K
+[29.276s] [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:83:39:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvirtual gazebo::common::Color::~Color()[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[29.276s]    auto black = gazebo::common::Color::[01;35m[KBlack[m[K;
+[29.276s]                                        [01;35m[K^~~~~[m[K
+[29.276s] In file included from [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:38:0[m[K,
+[29.276s]                  from [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18[m[K:
+[29.276s] [01m[K/usr/include/gazebo-9/gazebo/common/Color.hh:98:23:[m[K [01;36m[Knote: [m[Kdeclared here
+[29.276s]        public: virtual [01;36m[K~[m[KColor() GAZEBO_DEPRECATED(9.0);
+[29.276s]                        [01;36m[K^[m[K
+[29.276s] [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:83:39:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvirtual gazebo::common::Color::~Color()[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[29.277s]    auto black = gazebo::common::Color::[01;35m[KBlack[m[K;
+[29.277s]                                        [01;35m[K^~~~~[m[K
+[29.277s] In file included from [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:38:0[m[K,
+[29.277s]                  from [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18[m[K:
+[29.277s] [01m[K/usr/include/gazebo-9/gazebo/common/Color.hh:98:23:[m[K [01;36m[Knote: [m[Kdeclared here
+[29.277s]        public: virtual [01;36m[K~[m[KColor() GAZEBO_DEPRECATED(9.0);
+[29.277s]                        [01;36m[K^[m[K
+[29.282s] [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:105:66:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid gazebo::msgs::Set(gazebo::msgs::Color*, const gazebo::common::Color&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[29.282s]              gazebo::msgs::Set(matMsg->mutable_emissive(), c.first[01;35m[K)[m[K;
+[29.282s]                                                                   [01;35m[K^[m[K
+[29.282s] In file included from [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18:0[m[K:
+[29.282s] [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:328:10:[m[K [01;36m[Knote: [m[Kdeclared here
+[29.283s]      void [01;36m[KSet[m[K(msgs::Color *_c, const common::Color &_v) GAZEBO_DEPRECATED(9.0);
+[29.283s]           [01;36m[K^~~[m[K
+[29.283s] [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:106:65:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid gazebo::msgs::Set(gazebo::msgs::Color*, const gazebo::common::Color&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[29.283s]              gazebo::msgs::Set(matMsg->mutable_ambient(), c.first[01;35m[K)[m[K;
+[29.283s]                                                                  [01;35m[K^[m[K
+[29.283s] In file included from [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18:0[m[K:
+[29.283s] [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:328:10:[m[K [01;36m[Knote: [m[Kdeclared here
+[29.283s]      void [01;36m[KSet[m[K(msgs::Color *_c, const common::Color &_v) GAZEBO_DEPRECATED(9.0);
+[29.283s]           [01;36m[K^~~[m[K
+[29.283s] [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:110:64:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid gazebo::msgs::Set(gazebo::msgs::Color*, const gazebo::common::Color&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[29.284s]              gazebo::msgs::Set(matMsg->mutable_emissive(), black[01;35m[K)[m[K;
+[29.284s]                                                                 [01;35m[K^[m[K
+[29.284s] In file included from [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18:0[m[K:
+[29.284s] [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:328:10:[m[K [01;36m[Knote: [m[Kdeclared here
+[29.284s]      void [01;36m[KSet[m[K(msgs::Color *_c, const common::Color &_v) GAZEBO_DEPRECATED(9.0);
+[29.284s]           [01;36m[K^~~[m[K
+[29.284s] [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:111:63:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid gazebo::msgs::Set(gazebo::msgs::Color*, const gazebo::common::Color&)[m[K’ is deprecated [[01;35m[K-Wdeprecated-declarations[m[K]
+[29.284s]              gazebo::msgs::Set(matMsg->mutable_ambient(), black[01;35m[K)[m[K;
+[29.284s]                                                                [01;35m[K^[m[K
+[29.284s] In file included from [01m[K/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/citysim/plugins/TrafficLightsGUIPlugin.cc:18:0[m[K:
+[29.284s] [01m[K/usr/include/gazebo-9/gazebo/msgs/msgs.hh:328:10:[m[K [01;36m[Knote: [m[Kdeclared here
+[29.284s]      void [01;36m[KSet[m[K(msgs::Color *_c, const common::Color &_v) GAZEBO_DEPRECATED(9.0);
+[29.284s]           [01;36m[K^~~[m[K
+[33.425s] [ 58%] [32mBuilding CXX object plugins/CMakeFiles/TrafficLightsGUIPlugin.dir/TrafficLightsGUIPlugin_autogen/mocs_compilation.cpp.o[0m
+[41.936s] [ 66%] [32m[1mLinking CXX shared library libTrafficLightsGUIPlugin.so[0m
+[43.285s] [ 66%] Built target TrafficLightsGUIPlugin
+[43.296s] [35m[1mScanning dependencies of target LensFlareVisualPlugin_autogen[0m
+[43.308s] [ 75%] [34m[1mAutomatic MOC for target LensFlareVisualPlugin[0m
+[43.336s] [ 75%] Built target LensFlareVisualPlugin_autogen
+[43.349s] [35m[1mScanning dependencies of target LensFlareVisualPlugin[0m
+[43.428s] [ 83%] [32mBuilding CXX object plugins/CMakeFiles/LensFlareVisualPlugin.dir/LensFlareVisualPlugin.cc.o[0m
+[55.547s] [ 91%] [32mBuilding CXX object plugins/CMakeFiles/LensFlareVisualPlugin.dir/LensFlareVisualPlugin_autogen/mocs_compilation.cpp.o[0m
+[55.574s] [100%] [32m[1mLinking CXX shared library libLensFlareVisualPlugin.so[0m
+[55.902s] [100%] Built target LensFlareVisualPlugin
+[55.917s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim -- -j6 -l6
+[55.971s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim --target install -- -j6 -l6
+[56.031s] [  8%] [34m[1mAutomatic MOC for target BloomVisualPlugin[0m
+[56.051s] [  8%] Built target BloomVisualPlugin_autogen
+[56.074s] [ 16%] [34m[1mAutomatic MOC for target TrafficLightsGUIPlugin[0m
+[56.094s] [ 16%] Built target TrafficLightsGUIPlugin_autogen
+[56.129s] [ 41%] Built target BloomVisualPlugin
+[56.195s] [ 66%] Built target TrafficLightsGUIPlugin
+[56.226s] [ 75%] [34m[1mAutomatic MOC for target LensFlareVisualPlugin[0m
+[56.250s] [ 75%] Built target LensFlareVisualPlugin_autogen
+[56.288s] [100%] Built target LensFlareVisualPlugin
+[56.318s] [36mInstall the project...[0m
+[56.329s] -- Install configuration: "Release"
+[56.329s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/setup.sh
+[56.329s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim/setup.sh
+[56.330s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/lib/citysim-0/plugins/libLensFlareVisualPlugin.so
+[56.330s] -- Set runtime path of "/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/lib/citysim-0/plugins/libLensFlareVisualPlugin.so" to ""
+[56.331s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/lib/citysim-0/plugins/libBloomVisualPlugin.so
+[56.331s] -- Set runtime path of "/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/lib/citysim-0/plugins/libBloomVisualPlugin.so" to ""
+[56.332s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/lib/citysim-0/plugins/libTrafficLightsGUIPlugin.so
+[56.332s] -- Set runtime path of "/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/lib/citysim-0/plugins/libTrafficLightsGUIPlugin.so" to ""
+[56.333s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor
+[56.333s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes
+[56.333s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/SKIN_man_red_shirt.dae
+[56.336s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/ANIMATION_talking_b.dae
+[56.353s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/SKIN_man_blue_shirt.dae
+[56.354s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/ANIMATION_talking_a.dae
+[56.367s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/ANIMATION_running.dae
+[56.370s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/SKIN_man_green_shirt.dae
+[56.374s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/meshes/ANIMATION_walking.dae
+[56.377s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/model.sdf
+[56.378s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/actor/model.config
+[56.378s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain
+[56.378s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/model.sdf
+[56.379s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/model.config
+[56.379s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials
+[56.379s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials/textures
+[56.379s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials/textures/city_terrain.jpg
+[56.380s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials/textures/city_terrain (original).jpg
+[56.380s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/city_terrain/materials/textures/forest.jpg
+[56.386s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean
+[56.387s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/mesh_below.dae
+[56.387s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/model.sdf
+[56.387s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/mesh-simple.dae
+[56.387s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/model.config
+[56.388s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/mesh.dae
+[56.389s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/mesh.blend
+[56.390s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials
+[56.390s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/scripts
+[56.390s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/scripts/ocean.material
+[56.391s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/programs
+[56.391s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/programs/GLSL
+[56.391s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/programs/GLSL/Waves.vert
+[56.391s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/programs/GLSL/Waves.frag
+[56.391s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures
+[56.391s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_dn.jpg
+[56.392s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_rt.jpg
+[56.392s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/soil_sand_0045_01.jpg
+[56.396s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_bk.jpg
+[56.396s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_fr.jpg
+[56.396s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/License and source soil_sand_0045_01.txt
+[56.396s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds.jpg
+[56.396s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_up.jpg
+[56.397s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/clouds_lf.jpg
+[56.397s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/models/ocean/materials/textures/normals.dds
+[56.398s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/worlds/citysim_gazebo7.world
+[56.398s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/worlds/citysim_gazebo9.world
+[56.399s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/worlds/rendering.world
+[56.399s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/worlds/simple_city.world
+[56.400s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/scripts/Bloom2.material
+[56.400s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/scripts/citysim.material
+[56.400s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/scripts/Bloom2.compositor
+[56.401s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/scripts/StdQuad_vp.program
+[56.401s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/Bloom2_ps20.glsl
+[56.402s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/BlurH_ps20.glsl
+[56.402s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/BlurV_ps20.glsl
+[56.402s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/Blur_vs.glsl
+[56.402s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/BrightBloom2_ps20.glsl
+[56.402s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/StdQuad_Tex2a_vp.glsl
+[56.402s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/citysim/share/citysim-0/media/materials/programs/StdQuad_vp.glsl
+[56.408s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/citysim --target install -- -j6 -l6

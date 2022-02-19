@@ -1,0 +1,261 @@
+[0.054s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler -- -j6 -l6
+[0.139s] [  0%] Built target actionlib_generate_messages_nodejs
+[0.144s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.167s] [  0%] Built target velodyne_msgs_generate_messages_lisp
+[0.170s] [  0%] Built target velodyne_msgs_generate_messages_nodejs
+[0.191s] [  0%] Built target velodyne_msgs_generate_messages_eus
+[0.198s] [  0%] Built target velodyne_msgs_generate_messages_cpp
+[0.227s] [  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[0.228s] [  0%] Built target diagnostic_msgs_generate_messages_py
+[0.246s] [  0%] Built target diagnostic_msgs_generate_messages_lisp
+[0.256s] [  0%] Built target velodyne_msgs_generate_messages_py
+[0.265s] [  0%] Built target diagnostic_msgs_generate_messages_eus
+[0.288s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[0.288s] [  0%] Built target velodyne_pointcloud_gencfg
+[0.312s] [  0%] Built target tf2_msgs_generate_messages_eus
+[0.318s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[0.347s] [  0%] Built target actionlib_msgs_generate_messages_py
+[0.365s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[0.384s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.403s] [  0%] Built target topic_tools_generate_messages_cpp
+[0.417s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.430s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.447s] [  0%] Built target bond_generate_messages_eus
+[0.468s] [  0%] Built target roscpp_generate_messages_py
+[0.478s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.496s] [  0%] Built target roscpp_generate_messages_cpp
+[0.507s] [  0%] Built target actionlib_generate_messages_cpp
+[0.528s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.538s] [  0%] Built target pcl_msgs_generate_messages_eus
+[0.563s] [  0%] Built target nodelet_generate_messages_nodejs
+[0.566s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[0.591s] [  0%] Built target roscpp_generate_messages_lisp
+[0.593s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[0.630s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[0.634s] [  0%] Built target std_srvs_generate_messages_eus
+[0.667s] [  0%] Built target tf_generate_messages_py
+[0.677s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.704s] [  0%] Built target sensor_msgs_generate_messages_py
+[0.724s] [  0%] Built target nodelet_generate_messages_py
+[0.739s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[0.763s] [  0%] Built target roscpp_generate_messages_eus
+[0.780s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.809s] [  0%] Built target topic_tools_generate_messages_eus
+[0.820s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.857s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[0.871s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[0.894s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[0.925s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[0.943s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.963s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.976s] [  0%] Built target std_msgs_generate_messages_py
+[0.998s] [  0%] Built target roscpp_generate_messages_nodejs
+[1.026s] [  0%] Built target std_msgs_generate_messages_lisp
+[1.029s] [  0%] Built target bond_generate_messages_lisp
+[1.070s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[1.079s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[1.110s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[1.111s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[1.152s] [  0%] Built target topic_tools_generate_messages_nodejs
+[1.177s] [  0%] Built target pcl_ros_gencfg
+[1.189s] [  0%] Built target tf2_msgs_generate_messages_py
+[1.213s] [  0%] Built target actionlib_generate_messages_py
+[1.225s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[1.256s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[1.256s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[1.265s] [  0%] Built target velodyne_driver_gencfg
+[1.295s] [  0%] Built target dynamic_reconfigure_gencfg
+[1.298s] [  0%] Built target nodelet_generate_messages_cpp
+[1.313s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[1.330s] [  0%] Built target std_srvs_generate_messages_nodejs
+[1.336s] [  0%] Built target bond_generate_messages_py
+[1.355s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[1.367s] [  0%] Built target actionlib_generate_messages_lisp
+[1.374s] [  0%] Built target nodelet_generate_messages_eus
+[1.387s] [  0%] Built target nodelet_generate_messages_lisp
+[1.402s] [  0%] Built target bond_generate_messages_cpp
+[1.416s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[1.434s] [  0%] Built target tf_generate_messages_eus
+[1.438s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[1.454s] [  0%] Built target bond_generate_messages_nodejs
+[1.471s] [  0%] Built target topic_tools_generate_messages_py
+[1.481s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[1.493s] [  0%] Built target nodelet_topic_tools_gencfg
+[1.514s] [  0%] Built target std_srvs_generate_messages_lisp
+[1.522s] [  0%] Built target topic_tools_generate_messages_lisp
+[1.530s] [  0%] Built target std_srvs_generate_messages_cpp
+[1.552s] [  0%] Built target std_srvs_generate_messages_py
+[1.552s] [  0%] Built target tf_generate_messages_lisp
+[1.583s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[1.603s] [  0%] Built target tf_generate_messages_nodejs
+[1.610s] [  0%] Built target diagnostic_msgs_generate_messages_cpp
+[1.616s] [  0%] Built target pcl_msgs_generate_messages_py
+[1.649s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[1.650s] [  0%] Built target actionlib_generate_messages_eus
+[1.660s] [  0%] Built target tf_generate_messages_cpp
+[1.688s] [  0%] Built target std_msgs_generate_messages_eus
+[1.730s] [  0%] Built target _points_downsampler_generate_messages_check_deps_PointsDownsamplerInfo
+[1.758s] [  6%] Built target points_downsampler_generate_messages_nodejs
+[1.795s] [ 13%] Built target points_downsampler_generate_messages_cpp
+[1.833s] [ 20%] Built target points_downsampler_generate_messages_lisp
+[1.870s] [ 33%] Built target points_downsampler_generate_messages_py
+[1.905s] [ 46%] Built target points_downsampler_generate_messages_eus
+[1.972s] [ 60%] Built target random_filter
+[2.027s] [ 73%] Built target voxel_grid_filter
+[2.071s] [ 73%] Built target points_downsampler_generate_messages
+[2.130s] [ 86%] Built target ring_filter
+[2.179s] [100%] Built target distance_filter
+[2.193s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler -- -j6 -l6
+[2.615s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler --target tests -- -j6 -l6
+[2.725s] Built target tests
+[2.739s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler --target tests -- -j6 -l6
+[2.944s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler --target install -- -j6 -l6
+[3.010s] [  0%] Built target actionlib_generate_messages_nodejs
+[3.010s] [  0%] Built target std_msgs_generate_messages_nodejs
+[3.036s] [  0%] Built target velodyne_msgs_generate_messages_nodejs
+[3.038s] [  0%] Built target velodyne_msgs_generate_messages_py
+[3.060s] [  0%] Built target velodyne_msgs_generate_messages_eus
+[3.063s] [  0%] Built target velodyne_msgs_generate_messages_cpp
+[3.088s] [  0%] Built target diagnostic_msgs_generate_messages_py
+[3.088s] [  0%] Built target diagnostic_msgs_generate_messages_nodejs
+[3.110s] [  0%] Built target diagnostic_msgs_generate_messages_lisp
+[3.132s] [  0%] Built target velodyne_driver_gencfg
+[3.155s] [  0%] Built target velodyne_pointcloud_gencfg
+[3.176s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[3.208s] [  0%] Built target tf2_msgs_generate_messages_eus
+[3.241s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[3.276s] [  0%] Built target actionlib_msgs_generate_messages_py
+[3.297s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[3.322s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[3.342s] [  0%] Built target topic_tools_generate_messages_cpp
+[3.364s] [  0%] Built target geometry_msgs_generate_messages_eus
+[3.384s] [  0%] Built target geometry_msgs_generate_messages_py
+[3.408s] [  0%] Built target bond_generate_messages_eus
+[3.432s] [  0%] Built target roscpp_generate_messages_py
+[3.457s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[3.488s] [  0%] Built target roscpp_generate_messages_cpp
+[3.508s] [  0%] Built target actionlib_generate_messages_cpp
+[3.529s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[3.551s] [  0%] Built target pcl_msgs_generate_messages_eus
+[3.576s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[3.600s] [  0%] Built target nodelet_generate_messages_nodejs
+[3.625s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[3.658s] [  0%] Built target roscpp_generate_messages_lisp
+[3.703s] [  0%] Built target std_srvs_generate_messages_eus
+[3.734s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[3.772s] [  0%] Built target tf_generate_messages_py
+[3.801s] [  0%] Built target std_msgs_generate_messages_cpp
+[3.825s] [  0%] Built target sensor_msgs_generate_messages_py
+[3.853s] [  0%] Built target nodelet_generate_messages_py
+[3.880s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[3.905s] [  0%] Built target roscpp_generate_messages_eus
+[3.933s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[3.963s] [  0%] Built target topic_tools_generate_messages_eus
+[3.986s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[4.009s] [  0%] Built target autoware_config_msgs_generate_messages_eus
+[4.035s] [  0%] Built target autoware_config_msgs_generate_messages_lisp
+[4.061s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[4.087s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[4.107s] [  0%] Built target sensor_msgs_generate_messages_eus
+[4.134s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[4.163s] [  0%] Built target std_msgs_generate_messages_py
+[4.194s] [  0%] Built target roscpp_generate_messages_nodejs
+[4.218s] [  0%] Built target std_msgs_generate_messages_lisp
+[4.239s] [  0%] Built target bond_generate_messages_lisp
+[4.258s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[4.280s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[4.301s] [  0%] Built target autoware_config_msgs_generate_messages_cpp
+[4.326s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[4.344s] [  0%] Built target pcl_ros_gencfg
+[4.377s] [  0%] Built target topic_tools_generate_messages_nodejs
+[4.403s] [  0%] Built target tf2_msgs_generate_messages_py
+[4.428s] [  0%] Built target actionlib_generate_messages_py
+[4.454s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[4.475s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[4.498s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[4.533s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[4.553s] [  0%] Built target dynamic_reconfigure_gencfg
+[4.575s] [  0%] Built target nodelet_generate_messages_cpp
+[4.596s] [  0%] Built target bond_generate_messages_py
+[4.620s] [  0%] Built target std_srvs_generate_messages_nodejs
+[4.647s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[4.672s] [  0%] Built target actionlib_generate_messages_lisp
+[4.695s] [  0%] Built target nodelet_generate_messages_eus
+[4.716s] [  0%] Built target nodelet_generate_messages_lisp
+[4.746s] [  0%] Built target bond_generate_messages_cpp
+[4.774s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[4.804s] [  0%] Built target tf_generate_messages_eus
+[4.829s] [  0%] Built target autoware_config_msgs_generate_messages_py
+[4.849s] [  0%] Built target bond_generate_messages_nodejs
+[4.881s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[4.910s] [  0%] Built target topic_tools_generate_messages_py
+[4.942s] [  0%] Built target nodelet_topic_tools_gencfg
+[4.972s] [  0%] Built target std_srvs_generate_messages_lisp
+[5.006s] [  0%] Built target topic_tools_generate_messages_lisp
+[5.027s] [  0%] Built target std_srvs_generate_messages_cpp
+[5.050s] [  0%] Built target std_srvs_generate_messages_py
+[5.074s] [  0%] Built target tf_generate_messages_lisp
+[5.096s] [  0%] Built target autoware_config_msgs_generate_messages_nodejs
+[5.116s] [  0%] Built target tf_generate_messages_nodejs
+[5.140s] [  0%] Built target diagnostic_msgs_generate_messages_cpp
+[5.166s] [  0%] Built target pcl_msgs_generate_messages_py
+[5.192s] [  0%] Built target actionlib_generate_messages_eus
+[5.216s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[5.241s] [  0%] Built target tf_generate_messages_cpp
+[5.262s] [  0%] Built target diagnostic_msgs_generate_messages_eus
+[5.283s] [  0%] Built target velodyne_msgs_generate_messages_lisp
+[5.304s] [  0%] Built target std_msgs_generate_messages_eus
+[5.349s] [  0%] Built target _points_downsampler_generate_messages_check_deps_PointsDownsamplerInfo
+[5.372s] [  6%] Built target points_downsampler_generate_messages_nodejs
+[5.408s] [ 13%] Built target points_downsampler_generate_messages_cpp
+[5.428s] [ 20%] Built target points_downsampler_generate_messages_lisp
+[5.456s] [ 33%] Built target points_downsampler_generate_messages_py
+[5.480s] [ 46%] Built target points_downsampler_generate_messages_eus
+[5.522s] [ 60%] Built target random_filter
+[5.558s] [ 73%] Built target voxel_grid_filter
+[5.579s] [ 73%] Built target points_downsampler_generate_messages
+[5.618s] [ 86%] Built target ring_filter
+[5.660s] [100%] Built target distance_filter
+[5.687s] [36mInstall the project...[0m
+[5.703s] -- Install configuration: "Release"
+[5.703s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/points_downsampler/msg/PointsDownsamplerInfo.msg
+[5.704s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/points_downsampler/cmake/points_downsampler-msg-paths.cmake
+[5.704s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/include/points_downsampler
+[5.704s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/include/points_downsampler/PointsDownsamplerInfo.h
+[5.708s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/roseus/ros/points_downsampler
+[5.708s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/roseus/ros/points_downsampler/msg
+[5.708s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/roseus/ros/points_downsampler/msg/PointsDownsamplerInfo.l
+[5.708s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/roseus/ros/points_downsampler/manifest.l
+[5.708s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/common-lisp/ros/points_downsampler
+[5.708s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/common-lisp/ros/points_downsampler/msg
+[5.708s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/common-lisp/ros/points_downsampler/msg/_package_PointsDownsamplerInfo.lisp
+[5.708s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/common-lisp/ros/points_downsampler/msg/_package.lisp
+[5.709s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/common-lisp/ros/points_downsampler/msg/points_downsampler-msg.asd
+[5.709s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/common-lisp/ros/points_downsampler/msg/PointsDownsamplerInfo.lisp
+[5.709s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/gennodejs/ros/points_downsampler
+[5.709s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/gennodejs/ros/points_downsampler/msg
+[5.709s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/gennodejs/ros/points_downsampler/msg/_index.js
+[5.709s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/gennodejs/ros/points_downsampler/msg/PointsDownsamplerInfo.js
+[5.709s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/gennodejs/ros/points_downsampler/_index.js
+[5.726s] Listing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler/devel/lib/python2.7/dist-packages/points_downsampler ...
+[5.726s] Listing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler/devel/lib/python2.7/dist-packages/points_downsampler/msg ...
+[5.727s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/lib/python2.7/dist-packages/points_downsampler
+[5.727s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/lib/python2.7/dist-packages/points_downsampler/msg
+[5.727s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/lib/python2.7/dist-packages/points_downsampler/msg/_PointsDownsamplerInfo.pyc
+[5.727s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/lib/python2.7/dist-packages/points_downsampler/msg/__init__.pyc
+[5.728s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/lib/python2.7/dist-packages/points_downsampler/msg/__init__.py
+[5.728s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/lib/python2.7/dist-packages/points_downsampler/msg/_PointsDownsamplerInfo.py
+[5.728s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/lib/python2.7/dist-packages/points_downsampler/__init__.pyc
+[5.728s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/lib/python2.7/dist-packages/points_downsampler/__init__.py
+[5.729s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/lib/pkgconfig/points_downsampler.pc
+[5.729s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/points_downsampler/cmake/points_downsampler-msg-extras.cmake
+[5.729s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/points_downsampler/cmake/points_downsamplerConfig.cmake
+[5.729s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/points_downsampler/cmake/points_downsamplerConfig-version.cmake
+[5.729s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/points_downsampler/package.xml
+[5.731s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/lib/points_downsampler/voxel_grid_filter
+[5.732s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/lib/points_downsampler/ring_filter
+[5.738s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/lib/points_downsampler/distance_filter
+[5.738s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/lib/points_downsampler/random_filter
+[5.738s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/points_downsampler/launch
+[5.739s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/points_downsampler/share/points_downsampler/launch/points_downsample.launch
+[5.745s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_config_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/points_downsampler --target install -- -j6 -l6

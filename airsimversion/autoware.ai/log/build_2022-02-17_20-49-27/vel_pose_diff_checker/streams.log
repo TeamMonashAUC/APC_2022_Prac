@@ -1,0 +1,164 @@
+[0.041s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vel_pose_diff_checker': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vel_pose_diff_checker -- -j6 -l6
+[0.120s] [  0%] Built target autoware_system_msgs_generate_messages_py
+[0.143s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.172s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[0.198s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[0.226s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[0.250s] [  0%] Built target std_msgs_generate_messages_py
+[0.284s] [  0%] Built target autoware_msgs_generate_messages_py
+[0.312s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.335s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.369s] [  0%] Built target _catkin_empty_exported_target
+[0.394s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.427s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[0.454s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.477s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[0.511s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[0.539s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[0.568s] [  0%] Built target sensor_msgs_generate_messages_py
+[0.595s] [  0%] Built target tf_generate_messages_py
+[0.622s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.646s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[0.667s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[0.691s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.718s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.752s] [  0%] Built target roscpp_generate_messages_nodejs
+[0.781s] [  0%] Built target autoware_system_msgs_generate_messages_cpp
+[0.813s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.838s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.874s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[0.902s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[0.926s] [  0%] Built target autoware_msgs_generate_messages_eus
+[0.959s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[0.983s] [  0%] Built target std_msgs_generate_messages_eus
+[1.010s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[1.044s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[1.074s] [  0%] Built target actionlib_msgs_generate_messages_py
+[1.102s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[1.128s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[1.160s] [  0%] Built target autoware_system_msgs_generate_messages_nodejs
+[1.189s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[1.216s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[1.241s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[1.267s] [  0%] Built target tf_generate_messages_eus
+[1.295s] [  0%] Built target tf_generate_messages_lisp
+[1.318s] [  0%] Built target tf_generate_messages_nodejs
+[1.339s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[1.363s] [  0%] Built target roscpp_generate_messages_lisp
+[1.391s] [  0%] Built target roscpp_generate_messages_py
+[1.417s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[1.443s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[1.470s] [  0%] Built target roscpp_generate_messages_eus
+[1.497s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[1.526s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[1.556s] [  0%] Built target pcl_msgs_generate_messages_py
+[1.577s] [  0%] Built target actionlib_generate_messages_eus
+[1.604s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[1.626s] [  0%] Built target actionlib_generate_messages_lisp
+[1.648s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[1.678s] [  0%] Built target tf_generate_messages_cpp
+[1.703s] [  0%] Built target actionlib_generate_messages_nodejs
+[1.725s] [  0%] Built target autoware_system_msgs_generate_messages_eus
+[1.755s] [  0%] Built target tf2_msgs_generate_messages_eus
+[1.789s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[1.815s] [  0%] Built target actionlib_generate_messages_py
+[1.841s] [  0%] Built target tf2_msgs_generate_messages_py
+[1.866s] [  0%] Built target autoware_system_msgs_generate_messages_lisp
+[1.892s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[1.919s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[1.947s] [  0%] Built target pcl_msgs_generate_messages_eus
+[1.971s] [  0%] Built target actionlib_generate_messages_cpp
+[1.995s] [  0%] Built target roscpp_generate_messages_cpp
+[2.016s] [  0%] Built target geometry_msgs_generate_messages_py
+[2.050s] [100%] Built target vel_pose_diff_checker
+[2.064s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vel_pose_diff_checker' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vel_pose_diff_checker -- -j6 -l6
+[2.201s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vel_pose_diff_checker': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vel_pose_diff_checker --target tests -- -j6 -l6
+[2.286s] [ 33%] Built target gtest
+[2.325s] [100%] Built target vel_pose_diff_checker-test
+[2.357s] [100%] Built target tests
+[2.373s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vel_pose_diff_checker' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vel_pose_diff_checker --target tests -- -j6 -l6
+[2.507s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vel_pose_diff_checker': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vel_pose_diff_checker --target install -- -j6 -l6
+[2.565s] [  0%] Built target autoware_system_msgs_generate_messages_py
+[2.594s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[2.622s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[2.642s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[2.665s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[2.695s] [  0%] Built target std_msgs_generate_messages_py
+[2.713s] [  0%] Built target autoware_msgs_generate_messages_py
+[2.733s] [  0%] Built target std_msgs_generate_messages_nodejs
+[2.759s] [  0%] Built target sensor_msgs_generate_messages_eus
+[2.778s] [  0%] Built target _catkin_empty_exported_target
+[2.807s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[2.829s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[2.854s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[2.880s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[2.907s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[2.935s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[2.964s] [  0%] Built target sensor_msgs_generate_messages_py
+[2.994s] [  0%] Built target tf_generate_messages_py
+[3.019s] [  0%] Built target std_msgs_generate_messages_cpp
+[3.039s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[3.070s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[3.091s] [  0%] Built target geometry_msgs_generate_messages_eus
+[3.116s] [  0%] Built target std_msgs_generate_messages_lisp
+[3.139s] [  0%] Built target roscpp_generate_messages_nodejs
+[3.160s] [  0%] Built target autoware_system_msgs_generate_messages_cpp
+[3.185s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[3.206s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[3.230s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[3.253s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[3.276s] [  0%] Built target autoware_msgs_generate_messages_eus
+[3.300s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[3.321s] [  0%] Built target std_msgs_generate_messages_eus
+[3.343s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[3.365s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[3.396s] [  0%] Built target actionlib_msgs_generate_messages_py
+[3.419s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[3.441s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[3.468s] [  0%] Built target autoware_system_msgs_generate_messages_nodejs
+[3.496s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[3.518s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[3.542s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[3.565s] [  0%] Built target tf_generate_messages_eus
+[3.591s] [  0%] Built target tf_generate_messages_lisp
+[3.613s] [  0%] Built target tf_generate_messages_nodejs
+[3.636s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[3.662s] [  0%] Built target roscpp_generate_messages_lisp
+[3.687s] [  0%] Built target roscpp_generate_messages_py
+[3.711s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[3.731s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[3.753s] [  0%] Built target roscpp_generate_messages_eus
+[3.776s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[3.798s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[3.820s] [  0%] Built target pcl_msgs_generate_messages_py
+[3.840s] [  0%] Built target actionlib_generate_messages_eus
+[3.862s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[3.893s] [  0%] Built target actionlib_generate_messages_lisp
+[3.917s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[3.941s] [  0%] Built target tf_generate_messages_cpp
+[3.964s] [  0%] Built target actionlib_generate_messages_nodejs
+[3.986s] [  0%] Built target autoware_system_msgs_generate_messages_eus
+[4.011s] [  0%] Built target tf2_msgs_generate_messages_eus
+[4.032s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[4.057s] [  0%] Built target actionlib_generate_messages_py
+[4.077s] [  0%] Built target tf2_msgs_generate_messages_py
+[4.101s] [  0%] Built target autoware_system_msgs_generate_messages_lisp
+[4.123s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[4.153s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[4.177s] [  0%] Built target pcl_msgs_generate_messages_eus
+[4.201s] [  0%] Built target actionlib_generate_messages_cpp
+[4.225s] [  0%] Built target roscpp_generate_messages_cpp
+[4.250s] [  0%] Built target geometry_msgs_generate_messages_py
+[4.282s] [100%] Built target vel_pose_diff_checker
+[4.308s] [36mInstall the project...[0m
+[4.319s] -- Install configuration: "Release"
+[4.320s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vel_pose_diff_checker/lib/pkgconfig/vel_pose_diff_checker.pc
+[4.320s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vel_pose_diff_checker/share/vel_pose_diff_checker/cmake/vel_pose_diff_checkerConfig.cmake
+[4.320s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vel_pose_diff_checker/share/vel_pose_diff_checker/cmake/vel_pose_diff_checkerConfig-version.cmake
+[4.321s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vel_pose_diff_checker/share/vel_pose_diff_checker/package.xml
+[4.322s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vel_pose_diff_checker/lib/vel_pose_diff_checker/vel_pose_diff_checker
+[4.322s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vel_pose_diff_checker/share/vel_pose_diff_checker/launch
+[4.322s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vel_pose_diff_checker/share/vel_pose_diff_checker/launch/vel_pose_diff_checker.launch
+[4.322s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vel_pose_diff_checker/share/vel_pose_diff_checker/config
+[4.322s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vel_pose_diff_checker/share/vel_pose_diff_checker/config/health_checker.yaml
+[4.331s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vel_pose_diff_checker' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_health_checker/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ros_observer/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_system_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vel_pose_diff_checker --target install -- -j6 -l6

@@ -1,0 +1,10 @@
+Built target tests
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/lib/pkgconfig/ds4_driver.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/share/ds4_driver/cmake/ds4_driverConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/share/ds4_driver/cmake/ds4_driverConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/share/ds4_driver/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/lib/ds4_driver/ds4_driver
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/share/ds4_driver/launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/share/ds4_driver/launch/ds4_driver.launch

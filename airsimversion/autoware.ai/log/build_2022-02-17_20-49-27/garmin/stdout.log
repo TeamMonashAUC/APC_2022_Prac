@@ -1,0 +1,10 @@
+[100%] Built target garmin_gps_18x_lvc
+Built target tests
+[100%] Built target garmin_gps_18x_lvc
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/garmin/lib/pkgconfig/garmin.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/garmin/share/garmin/cmake/garminConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/garmin/share/garmin/cmake/garminConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/garmin/share/garmin/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/garmin/lib/garmin/garmin_gps_18x_lvc

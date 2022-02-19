@@ -1,0 +1,28 @@
+[ 14%] Built target pcd2csv
+[ 28%] Built target csv2pcd
+[ 42%] Built target map_extender
+[ 57%] Built target pcd_grid_divider
+[ 71%] Built target pcd_filter
+[ 85%] Built target pcd_arealist
+[100%] Built target pcd_binarizer
+Built target tests
+[ 28%] Built target pcd_grid_divider
+[ 28%] Built target map_extender
+[ 42%] Built target pcd_binarizer
+[ 57%] Built target pcd_filter
+[ 71%] Built target pcd_arealist
+[ 85%] Built target csv2pcd
+[100%] Built target pcd2csv
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/pkgconfig/map_tools.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/share/map_tools/cmake/map_toolsConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/share/map_tools/cmake/map_toolsConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/share/map_tools/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/csv2pcd
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/map_extender
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/pcd2csv
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/pcd_arealist
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/pcd_binarizer
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/pcd_filter
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_tools/lib/map_tools/pcd_grid_divider

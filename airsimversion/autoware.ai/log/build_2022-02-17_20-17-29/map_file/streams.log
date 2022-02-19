@@ -1,0 +1,498 @@
+[0.078s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/common/map_file -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file
+[0.162s] -- The C compiler identification is GNU 7.5.0
+[0.234s] -- The CXX compiler identification is GNU 7.5.0
+[0.239s] -- Check for working C compiler: /usr/bin/cc
+[0.320s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.320s] -- Detecting C compiler ABI info
+[0.402s] -- Detecting C compiler ABI info - done
+[0.412s] -- Detecting C compile features
+[0.659s] -- Detecting C compile features - done
+[0.662s] -- Check for working CXX compiler: /usr/bin/c++
+[0.750s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.750s] -- Detecting CXX compiler ABI info
+[0.847s] -- Detecting CXX compiler ABI info - done
+[0.857s] -- Detecting CXX compile features
+[1.254s] -- Detecting CXX compile features - done
+[1.257s] -- CUDA compilation status: .
+[1.260s] -- Using CATKIN_DEVEL_PREFIX: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file/devel
+[1.260s] -- Using CMAKE_PREFIX_PATH: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags;/opt/ros/melodic
+[1.261s] -- This workspace overlays: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags;/opt/ros/melodic
+[1.283s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[1.283s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[1.283s] -- Using Debian Python package layout
+[1.283s] -- Using empy: /usr/bin/empy
+[1.466s] -- Using CATKIN_ENABLE_TESTING: ON
+[1.467s] -- Call enable_testing()
+[1.469s] -- Using CATKIN_TEST_RESULTS_DIR: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file/test_results
+[1.496s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[1.497s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[1.513s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[1.515s] -- Looking for pthread.h
+[1.597s] -- Looking for pthread.h - found
+[1.598s] -- Looking for pthread_create
+[1.685s] -- Looking for pthread_create - not found
+[1.685s] -- Looking for pthread_create in pthreads
+[1.768s] -- Looking for pthread_create in pthreads - not found
+[1.769s] -- Looking for pthread_create in pthread
+[1.863s] -- Looking for pthread_create in pthread - found
+[1.865s] -- Found Threads: TRUE  
+[1.870s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[1.926s] -- catkin 0.7.29
+[1.926s] -- BUILD_SHARED_LIBS is on
+[2.111s] -- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[3.472s] -- Checking for module 'eigen3'
+[3.504s] --   Found eigen3, version 3.3.4
+[3.562s] -- Found eigen: /usr/include/eigen3  
+[3.703s] -- Boost version: 1.65.1
+[3.703s] -- Found the following Boost libraries:
+[3.703s] --   system
+[3.703s] --   filesystem
+[3.703s] --   thread
+[3.704s] --   date_time
+[3.704s] --   iostreams
+[3.704s] --   serialization
+[3.704s] --   chrono
+[3.704s] --   atomic
+[3.704s] --   regex
+[3.708s] -- Checking for module 'libopenni'
+[3.739s] --   Found libopenni, version 1.5.4.0
+[3.847s] -- Found openni: /usr/lib/libOpenNI.so  
+[3.848s] -- Checking for module 'libopenni2'
+[3.892s] --   Found libopenni2, version 2.2.0.3
+[3.994s] -- Found OpenNI2: /usr/lib/libOpenNI2.so  
+[4.000s] -- Could NOT find ensenso (missing: ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR) 
+[4.000s] ** WARNING ** io features related to ensenso will be disabled
+[4.006s] -- Could NOT find DAVIDSDK (missing: DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR) 
+[4.006s] ** WARNING ** io features related to davidSDK will be disabled
+[4.009s] -- Could NOT find DSSDK (missing: _DSSDK_LIBRARIES) 
+[4.009s] ** WARNING ** io features related to dssdk will be disabled
+[4.010s] ** WARNING ** io features related to pcap will be disabled
+[4.011s] ** WARNING ** io features related to png will be disabled
+[4.091s] -- The imported target "vtkRenderingPythonTkWidgets" references the file
+[4.091s]    "/usr/lib/x86_64-linux-gnu/libvtkRenderingPythonTkWidgets.so"
+[4.091s] but this file does not exist.  Possible reasons include:
+[4.091s] * The file was deleted, renamed, or moved to another location.
+[4.091s] * An install or uninstall procedure did not complete successfully.
+[4.091s] * The installation package was faulty and contained
+[4.091s]    "/usr/lib/cmake/vtk-6.3/VTKTargets.cmake"
+[4.091s] but not all the files it references.
+[4.091s] 
+[4.092s] -- The imported target "vtk" references the file
+[4.092s]    "/usr/bin/vtk"
+[4.092s] but this file does not exist.  Possible reasons include:
+[4.092s] * The file was deleted, renamed, or moved to another location.
+[4.092s] * An install or uninstall procedure did not complete successfully.
+[4.092s] * The installation package was faulty and contained
+[4.092s]    "/usr/lib/cmake/vtk-6.3/VTKTargets.cmake"
+[4.092s] but not all the files it references.
+[4.092s] 
+[4.169s] -- Found libusb-1.0: /usr/include  
+[4.169s] ** WARNING ** io features related to libusb-1.0 will be disabled
+[4.170s] -- looking for PCL_COMMON
+[4.171s] -- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  
+[4.172s] -- looking for PCL_OCTREE
+[4.174s] -- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  
+[4.175s] -- looking for PCL_IO
+[4.177s] -- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  
+[4.188s] -- Found PCL: /usr/lib/x86_64-linux-gnu/libboost_system.so;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;/usr/lib/x86_64-linux-gnu/libboost_thread.so;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;/usr/lib/x86_64-linux-gnu/libboost_iostreams.so;/usr/lib/x86_64-linux-gnu/libboost_serialization.so;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;/usr/lib/x86_64-linux-gnu/libboost_regex.so;/usr/lib/x86_64-linux-gnu/libpthread.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_common.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_common.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_octree.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_octree.so;/usr/lib/libOpenNI.so;/usr/lib/libOpenNI2.so;vtkChartsCore;vtkCommonColor;vtkCommonDataModel;vtkCommonMath;vtkCommonCore;vtksys;vtkCommonMisc;vtkCommonSystem;vtkCommonTransforms;vtkInfovisCore;vtkFiltersExtraction;vtkCommonExecutionModel;vtkFiltersCore;vtkFiltersGeneral;vtkCommonComputationalGeometry;vtkFiltersStatistics;vtkImagingFourier;vtkImagingCore;vtkalglib;vtkRenderingContext2D;vtkRenderingCore;vtkFiltersGeometry;vtkFiltersSources;vtkRenderingFreeType;/usr/lib/x86_64-linux-gnu/libfreetype.so;/usr/lib/x86_64-linux-gnu/libz.so;vtkftgl;vtkDICOMParser;vtkDomainsChemistry;vtkIOXML;vtkIOGeometry;vtkIOCore;vtkIOXMLParser;/usr/lib/x86_64-linux-gnu/libexpat.so;vtkFiltersAMR;vtkParallelCore;vtkIOLegacy;vtkFiltersFlowPaths;vtkFiltersGeneric;vtkFiltersHybrid;vtkImagingSources;vtkFiltersHyperTree;vtkFiltersImaging;vtkImagingGeneral;vtkFiltersModeling;vtkFiltersParallel;vtkFiltersParallelFlowPaths;vtkParallelMPI;vtkFiltersParallelGeometry;vtkFiltersParallelImaging;vtkFiltersParallelMPI;vtkFiltersParallelStatistics;vtkFiltersProgrammable;vtkFiltersPython;/usr/lib/x86_64-linux-gnu/libpython2.7.so;vtkWrappingPythonCore;vtkWrappingTools;vtkFiltersReebGraph;vtkFiltersSMP;vtkFiltersSelection;vtkFiltersTexture;vtkFiltersVerdict;verdict;vtkGUISupportQt;vtkInteractionStyle;vtkRenderingOpenGL;vtkImagingHybrid;vtkIOImage;vtkmetaio;/usr/lib/x86_64-linux-gnu/libjpeg.so;/usr/lib/x86_64-linux-gnu/libpng.so;/usr/lib/x86_64-linux-gnu/libtiff.so;vtkGUISupportQtOpenGL;vtkGUISupportQtSQL;vtkIOSQL;sqlite3;vtkGUISupportQtWebkit;vtkViewsQt;vtkViewsInfovis;vtkInfovisLayout;vtkInfovisBoostGraphAlgorithms;vtkRenderingLabel;vtkViewsCore;vtkInteractionWidgets;vtkRenderingAnnotation;vtkImagingColor;vtkRenderingVolume;vtkGeovisCore;/usr/lib/x86_64-linux-gnu/libproj.so;vtkIOAMR;/usr/lib/x86_64-linux-gnu/hdf5/openmpi/libhdf5.so;/usr/lib/x86_64-linux-gnu/libsz.so;/usr/lib/x86_64-linux-gnu/libdl.so;/usr/lib/x86_64-linux-gnu/libm.so;/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so;vtkIOEnSight;vtkIOExodus;vtkexoIIc;/usr/lib/x86_64-linux-gnu/libnetcdf_c++.so;/usr/lib/x86_64-linux-gnu/libnetcdf.so;vtkIOExport;vtkRenderingGL2PS;vtkRenderingContextOpenGL;/usr/lib/x86_64-linux-gnu/libgl2ps.so;vtkIOFFMPEG;vtkIOMovie;/usr/lib/x86_64-linux-gnu/libtheoraenc.so;/usr/lib/x86_64-linux-gnu/libtheoradec.so;/usr/lib/x86_64-linux-gnu/libogg.so;vtkIOGDAL;vtkIOGeoJSON;vtkIOImport;vtkIOInfovis;/usr/lib/x86_64-linux-gnu/libxml2.so;vtkIOLSDyna;vtkIOMINC;vtkIOMPIImage;vtkIOMPIParallel;vtkIOParallel;vtkIONetCDF;/usr/lib/x86_64-linux-gnu/libjsoncpp.so;vtkIOMySQL;vtkIOODBC;vtkIOPLY;vtkIOParallelExodus;vtkIOParallelLSDyna;vtkIOParallelNetCDF;vtkIOParallelXML;vtkIOPostgreSQL;vtkIOVPIC;VPIC;vtkIOVideo;vtkIOXdmf2;vtkxdmf2;vtkImagingMath;vtkImagingMorphological;vtkImagingStatistics;vtkImagingStencil;vtkInteractionImage;vtkLocalExample;vtkParallelMPI4Py;vtkPythonInterpreter;vtkRenderingExternal;vtkRenderingFreeTypeFontConfig;vtkRenderingImage;vtkRenderingLIC;vtkRenderingLOD;vtkRenderingMatplotlib;vtkRenderingParallel;vtkRenderingParallelLIC;vtkRenderingQt;vtkRenderingVolumeAMR;vtkRenderingVolumeOpenGL;vtkTestingGenericBridge;vtkTestingIOSQL;vtkTestingRendering;vtkViewsContext2D;vtkViewsGeovis;vtkWrappingJava;optimized;/usr/lib/x86_64-linux-gnu/libpcl_io.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_io.so;/usr/lib/x86_64-linux-gnu/libboost_system.so;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;/usr/lib/x86_64-linux-gnu/libboost_thread.so;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;/usr/lib/x86_64-linux-gnu/libboost_iostreams.so;/usr/lib/x86_64-linux-gnu/libboost_serialization.so;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;/usr/lib/x86_64-linux-gnu/libboost_regex.so;/usr/lib/x86_64-linux-gnu/libpthread.so;/usr/lib/libOpenNI.so;/usr/lib/libOpenNI2.so;vtkChartsCore;vtkCommonColor;vtkCommonDataModel;vtkCommonMath;vtkCommonCore;vtksys;vtkCommonMisc;vtkCommonSystem;vtkCommonTransforms;vtkInfovisCore;vtkFiltersExtraction;vtkCommonExecutionModel;vtkFiltersCore;vtkFiltersGeneral;vtkCommonComputationalGeometry;vtkFiltersStatistics;vtkImagingFourier;vtkImagingCore;vtkalglib;vtkRenderingContext2D;vtkRenderingCore;vtkFiltersGeometry;vtkFiltersSources;vtkRenderingFreeType;/usr/lib/x86_64-linux-gnu/libfreetype.so;/usr/lib/x86_64-linux-gnu/libz.so;vtkftgl;vtkDICOMParser;vtkDomainsChemistry;vtkIOXML;vtkIOGeometry;vtkIOCore;vtkIOXMLParser;/usr/lib/x86_64-linux-gnu/libexpat.so;vtkFiltersAMR;vtkParallelCore;vtkIOLegacy;vtkFiltersFlowPaths;vtkFiltersGeneric;vtkFiltersHybrid;vtkImagingSources;vtkFiltersHyperTree;vtkFiltersImaging;vtkImagingGeneral;vtkFiltersModeling;vtkFiltersParallel;vtkFiltersParallelFlowPaths;vtkParallelMPI;vtkFiltersParallelGeometry;vtkFiltersParallelImaging;vtkFiltersParallelMPI;vtkFiltersParallelStatistics;vtkFiltersProgrammable;vtkFiltersPython;/usr/lib/x86_64-linux-gnu/libpython2.7.so;vtkWrappingPythonCore;vtkWrappingTools;vtkFiltersReebGraph;vtkFiltersSMP;vtkFiltersSelection;vtkFiltersTexture;vtkFiltersVerdict;verdict;vtkGUISupportQt;vtkInteractionStyle;vtkRenderingOpenGL;vtkImagingHybrid;vtkIOImage;vtkmetaio;/usr/lib/x86_64-linux-gnu/libjpeg.so;/usr/lib/x86_64-linux-gnu/libpng.so;/usr/lib/x86_64-linux-gnu/libtiff.so;vtkGUISupportQtOpenGL;vtkGUISupportQtSQL;vtkIOSQL;sqlite3;vtkGUISupportQtWebkit;vtkViewsQt;vtkViewsInfovis;vtkInfovisLayout;vtkInfovisBoostGraphAlgorithms;vtkRenderingLabel;vtkViewsCore;vtkInteractionWidgets;vtkRenderingAnnotation;vtkImagingColor;vtkRenderingVolume;vtkGeovisCore;/usr/lib/x86_64-linux-gnu/libproj.so;vtkIOAMR;/usr/lib/x86_64-linux-gnu/hdf5/openmpi/libhdf5.so;/usr/lib/x86_64-linux-gnu/libsz.so;/usr/lib/x86_64-linux-gnu/libdl.so;/usr/lib/x86_64-linux-gnu/libm.so;/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so;vtkIOEnSight;vtkIOExodus;vtkexoIIc;/usr/lib/x86_64-linux-gnu/libnetcdf_c++.so;/usr/lib/x86_64-linux-gnu/libnetcdf.so;vtkIOExport;vtkRenderingGL2PS;vtkRenderingContextOpenGL;/usr/lib/x86_64-linux-gnu/libgl2ps.so;vtkIOFFMPEG;vtkIOMovie;/usr/lib/x86_64-linux-gnu/libtheoraenc.so;/usr/lib/x86_64-linux-gnu/libtheoradec.so;/usr/lib/x86_64-linux-gnu/libogg.so;vtkIOGDAL;vtkIOGeoJSON;vtkIOImport;vtkIOInfovis;/usr/lib/x86_64-linux-gnu/libxml2.so;vtkIOLSDyna;vtkIOMINC;vtkIOMPIImage;vtkIOMPIParallel;vtkIOParallel;vtkIONetCDF;/usr/lib/x86_64-linux-gnu/libjsoncpp.so;vtkIOMySQL;vtkIOODBC;vtkIOPLY;vtkIOParallelExodus;vtkIOParallelLSDyna;vtkIOParallelNetCDF;vtkIOParallelXML;vtkIOPostgreSQL;vtkIOVPIC;VPIC;vtkIOVideo;vtkIOXdmf2;vtkxdmf2;vtkImagingMath;vtkImagingMorphological;vtkImagingStatistics;vtkImagingStencil;vtkInteractionImage;vtkLocalExample;vtkParallelMPI4Py;vtkPythonInterpreter;vtkRenderingExternal;vtkRenderingFreeTypeFontConfig;vtkRenderingImage;vtkRenderingLIC;vtkRenderingLOD;vtkRenderingMatplotlib;vtkRenderingParallel;vtkRenderingParallelLIC;vtkRenderingQt;vtkRenderingVolumeAMR;vtkRenderingVolumeOpenGL;vtkTestingGenericBridge;vtkTestingIOSQL;vtkTestingRendering;vtkViewsContext2D;vtkViewsGeovis;vtkWrappingJava  
+[4.206s] -- Boost version: 1.65.1
+[4.206s] -- Found the following Boost libraries:
+[4.206s] --   filesystem
+[4.206s] --   system
+[4.213s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.58.0") 
+[4.397s] -- Configuring done
+[4.682s] -- Generating done
+[4.700s] -- Build files have been written to: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file
+[4.721s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/common/map_file -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file
+[4.722s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file -- -j6 -l6
+[4.786s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[4.802s] [  0%] Built target visualization_msgs_generate_messages_cpp
+[4.816s] [35m[1mScanning dependencies of target topic_tools_generate_messages_nodejs[0m
+[4.838s] [  0%] Built target topic_tools_generate_messages_nodejs
+[4.863s] [35m[1mScanning dependencies of target topic_tools_generate_messages_eus[0m
+[4.883s] [  0%] Built target topic_tools_generate_messages_eus
+[4.900s] [35m[1mScanning dependencies of target topic_tools_generate_messages_cpp[0m
+[4.920s] [  0%] Built target topic_tools_generate_messages_cpp
+[4.934s] [35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[4.953s] [  0%] Built target std_srvs_generate_messages_py
+[4.977s] [35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[4.990s] [  0%] Built target std_srvs_generate_messages_nodejs
+[5.007s] [35m[1mScanning dependencies of target vector_map_msgs_generate_messages_nodejs[0m
+[5.021s] [  0%] Built target vector_map_msgs_generate_messages_nodejs
+[5.037s] [35m[1mScanning dependencies of target bond_generate_messages_py[0m
+[5.062s] [  0%] Built target bond_generate_messages_py
+[5.085s] [35m[1mScanning dependencies of target bond_generate_messages_nodejs[0m
+[5.110s] [  0%] Built target bond_generate_messages_nodejs
+[5.125s] [35m[1mScanning dependencies of target bond_generate_messages_lisp[0m
+[5.149s] [  0%] Built target bond_generate_messages_lisp
+[5.173s] [35m[1mScanning dependencies of target bond_generate_messages_eus[0m
+[5.190s] [  0%] Built target bond_generate_messages_eus
+[5.218s] [35m[1mScanning dependencies of target bond_generate_messages_cpp[0m
+[5.237s] [  0%] Built target bond_generate_messages_cpp
+[5.250s] [35m[1mScanning dependencies of target nodelet_generate_messages_nodejs[0m
+[5.263s] [  0%] Built target nodelet_generate_messages_nodejs
+[5.289s] [35m[1mScanning dependencies of target nodelet_generate_messages_eus[0m
+[5.304s] [  0%] Built target nodelet_generate_messages_eus
+[5.323s] [35m[1mScanning dependencies of target nodelet_generate_messages_cpp[0m
+[5.347s] [  0%] Built target nodelet_generate_messages_cpp
+[5.364s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[5.377s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[5.391s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[5.404s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[5.429s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[5.443s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[5.464s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[5.480s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[5.494s] [35m[1mScanning dependencies of target pcl_ros_gencfg[0m
+[5.507s] [  0%] Built target pcl_ros_gencfg
+[5.520s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[5.533s] [  0%] Built target visualization_msgs_generate_messages_py
+[5.546s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[5.559s] [  0%] Built target visualization_msgs_generate_messages_nodejs
+[5.581s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[5.594s] [  0%] Built target geometry_msgs_generate_messages_py
+[5.605s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[5.617s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[5.637s] [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[5.650s] [  0%] Built target roscpp_generate_messages_cpp
+[5.661s] [35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[5.673s] [  0%] Built target actionlib_generate_messages_cpp
+[5.687s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_eus[0m
+[5.704s] [  0%] Built target pcl_msgs_generate_messages_eus
+[5.717s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[5.730s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[5.743s] [35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_lisp[0m
+[5.756s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[5.769s] [35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_eus[0m
+[5.783s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[5.796s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[5.809s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[5.822s] [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[5.835s] [  0%] Built target std_msgs_generate_messages_py
+[5.848s] [35m[1mScanning dependencies of target nodelet_generate_messages_lisp[0m
+[5.861s] [  0%] Built target nodelet_generate_messages_lisp
+[5.873s] [35m[1mScanning dependencies of target autoware_msgs_generate_messages_py[0m
+[5.886s] [  0%] Built target autoware_msgs_generate_messages_py
+[5.900s] [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[5.913s] [  0%] Built target std_msgs_generate_messages_nodejs
+[5.925s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[5.939s] [  0%] Built target sensor_msgs_generate_messages_eus
+[5.953s] [35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[5.976s] [  0%] Built target std_srvs_generate_messages_lisp
+[5.989s] [35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[6.003s] [  0%] Built target _catkin_empty_exported_target
+[6.016s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[6.028s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[6.042s] [35m[1mScanning dependencies of target autoware_msgs_generate_messages_cpp[0m
+[6.055s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[6.067s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[6.080s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[6.093s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_nodejs[0m
+[6.107s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[6.123s] [35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_py[0m
+[6.137s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[6.150s] [35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[6.163s] [  0%] Built target std_srvs_generate_messages_cpp
+[6.176s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[6.188s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[6.201s] [35m[1mScanning dependencies of target nodelet_generate_messages_py[0m
+[6.215s] [  0%] Built target nodelet_generate_messages_py
+[6.228s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[6.241s] [  0%] Built target sensor_msgs_generate_messages_py
+[6.254s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[6.275s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[6.286s] [35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[6.299s] [  0%] Built target tf_generate_messages_py
+[6.311s] [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[6.324s] [  0%] Built target std_msgs_generate_messages_cpp
+[6.337s] [35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_py[0m
+[6.350s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[6.365s] [35m[1mScanning dependencies of target topic_tools_generate_messages_py[0m
+[6.379s] [  0%] Built target topic_tools_generate_messages_py
+[6.392s] [35m[1mScanning dependencies of target nodelet_topic_tools_gencfg[0m
+[6.406s] [  0%] Built target nodelet_topic_tools_gencfg
+[6.419s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[6.432s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[6.444s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[6.455s] [  0%] Built target geometry_msgs_generate_messages_eus
+[6.468s] [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[6.480s] [  0%] Built target std_msgs_generate_messages_lisp
+[6.493s] [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[6.506s] [  0%] Built target roscpp_generate_messages_nodejs
+[6.527s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[6.540s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[6.552s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[6.578s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[6.590s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp[0m
+[6.606s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[6.620s] [35m[1mScanning dependencies of target topic_tools_generate_messages_lisp[0m
+[6.640s] [  0%] Built target topic_tools_generate_messages_lisp
+[6.662s] [35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_cpp[0m
+[6.690s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[6.712s] [35m[1mScanning dependencies of target autoware_msgs_generate_messages_eus[0m
+[6.726s] [  0%] Built target autoware_msgs_generate_messages_eus
+[6.739s] [35m[1mScanning dependencies of target autoware_msgs_generate_messages_lisp[0m
+[6.755s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[6.768s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[6.780s] [  0%] Built target visualization_msgs_generate_messages_lisp
+[6.793s] [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[6.808s] [  0%] Built target std_msgs_generate_messages_eus
+[6.821s] [35m[1mScanning dependencies of target autoware_msgs_generate_messages_nodejs[0m
+[6.834s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[6.848s] [35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_eus[0m
+[6.860s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[6.873s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[6.885s] [  0%] Built target actionlib_msgs_generate_messages_py
+[6.899s] [35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_lisp[0m
+[6.913s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[6.926s] [35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_nodejs[0m
+[6.939s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[6.952s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[6.965s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[6.989s] [35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_cpp[0m
+[7.002s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[7.017s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[7.030s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[7.051s] [35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[7.064s] [  0%] Built target tf_generate_messages_eus
+[7.078s] [35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[7.092s] [  0%] Built target tf_generate_messages_lisp
+[7.106s] [35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[7.120s] [  0%] Built target tf_generate_messages_nodejs
+[7.133s] [35m[1mScanning dependencies of target autoware_lanelet2_msgs_generate_messages_cpp[0m
+[7.146s] [  0%] Built target autoware_lanelet2_msgs_generate_messages_cpp
+[7.159s] [35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[7.172s] [  0%] Built target std_srvs_generate_messages_eus
+[7.186s] [35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_nodejs[0m
+[7.199s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[7.214s] [35m[1mScanning dependencies of target autoware_lanelet2_msgs_generate_messages_py[0m
+[7.228s] [  0%] Built target autoware_lanelet2_msgs_generate_messages_py
+[7.254s] [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[7.276s] [  0%] Built target roscpp_generate_messages_lisp
+[7.289s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[7.303s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[7.316s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[7.329s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[7.345s] [35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[7.358s] [  0%] Built target roscpp_generate_messages_eus
+[7.371s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[7.384s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[7.397s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[7.411s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[7.423s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_py[0m
+[7.436s] [  0%] Built target pcl_msgs_generate_messages_py
+[7.448s] [35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[7.461s] [  0%] Built target actionlib_generate_messages_eus
+[7.473s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[7.485s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[7.497s] [35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[7.511s] [  0%] Built target actionlib_generate_messages_lisp
+[7.523s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp[0m
+[7.536s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[7.548s] [35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[7.561s] [  0%] Built target tf_generate_messages_cpp
+[7.573s] [35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[7.585s] [  0%] Built target actionlib_generate_messages_nodejs
+[7.598s] [35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[7.612s] [  0%] Built target dynamic_reconfigure_gencfg
+[7.634s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[7.658s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[7.670s] [35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[7.683s] [  0%] Built target actionlib_generate_messages_py
+[7.695s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[7.710s] [  0%] Built target tf2_msgs_generate_messages_py
+[7.723s] [35m[1mScanning dependencies of target autoware_lanelet2_msgs_generate_messages_eus[0m
+[7.736s] [  0%] Built target autoware_lanelet2_msgs_generate_messages_eus
+[7.749s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[7.762s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[7.775s] [35m[1mScanning dependencies of target autoware_lanelet2_msgs_generate_messages_lisp[0m
+[7.788s] [  0%] Built target autoware_lanelet2_msgs_generate_messages_lisp
+[7.802s] [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[7.816s] [  0%] Built target roscpp_generate_messages_py
+[7.829s] [35m[1mScanning dependencies of target autoware_lanelet2_msgs_generate_messages_nodejs[0m
+[7.843s] [  0%] Built target autoware_lanelet2_msgs_generate_messages_nodejs
+[7.856s] [35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[7.869s] [  0%] Built target visualization_msgs_generate_messages_eus
+[7.882s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[7.895s] [  0%] Built target tf2_msgs_generate_messages_eus
+[7.910s] [35m[1mScanning dependencies of target get_file[0m
+[7.941s] [  7%] [32mBuilding CXX object CMakeFiles/get_file.dir/lib/map_file/get_file.cpp.o[0m
+[8.361s] [ 15%] [32m[1mLinking CXX shared library devel/lib/libget_file.so[0m
+[8.463s] [ 15%] Built target get_file
+[8.476s] [35m[1mScanning dependencies of target vector_map_msgs_generate_messages_cpp[0m
+[8.489s] [ 15%] Built target vector_map_msgs_generate_messages_cpp
+[8.502s] [35m[1mScanning dependencies of target vector_map_msgs_generate_messages_eus[0m
+[8.516s] [ 15%] Built target vector_map_msgs_generate_messages_eus
+[8.529s] [35m[1mScanning dependencies of target vector_map_msgs_generate_messages_lisp[0m
+[8.542s] [ 15%] Built target vector_map_msgs_generate_messages_lisp
+[8.555s] [35m[1mScanning dependencies of target vector_map_msgs_generate_messages_py[0m
+[8.568s] [ 15%] Built target vector_map_msgs_generate_messages_py
+[8.582s] [35m[1mScanning dependencies of target points_map_filter[0m
+[8.685s] [ 23%] [32mBuilding CXX object CMakeFiles/points_map_filter.dir/nodes/points_map_filter/points_map_filter_node.cpp.o[0m
+[15.993s] [ 30%] [32mBuilding CXX object CMakeFiles/points_map_filter.dir/nodes/points_map_filter/points_map_filter.cpp.o[0m
+[24.482s] [ 38%] [32m[1mLinking CXX executable devel/lib/map_file/points_map_filter[0m
+[28.737s] [ 38%] Built target points_map_filter
+[28.755s] [35m[1mScanning dependencies of target vector_map_loader[0m
+[28.799s] [ 46%] [32mBuilding CXX object CMakeFiles/vector_map_loader.dir/nodes/vector_map_loader/vector_map_loader.cpp.o[0m
+[40.053s] [ 53%] [32m[1mLinking CXX executable devel/lib/map_file/vector_map_loader[0m
+[40.980s] [ 53%] Built target vector_map_loader
+[40.995s] [35m[1mScanning dependencies of target points_map_loader[0m
+[41.085s] [ 61%] [32mBuilding CXX object CMakeFiles/points_map_loader.dir/nodes/points_map_loader/points_map_loader.cpp.o[0m
+[50.708s] [ 69%] [32m[1mLinking CXX executable devel/lib/map_file/points_map_loader[0m
+[54.023s] [ 69%] Built target points_map_loader
+[54.037s] [35m[1mScanning dependencies of target lanelet2_map_loader[0m
+[54.110s] [ 76%] [32mBuilding CXX object CMakeFiles/lanelet2_map_loader.dir/nodes/lanelet2_map_loader/lanelet2_map_loader.cpp.o[0m
+[59.666s] [ 84%] [32m[1mLinking CXX executable devel/lib/map_file/lanelet2_map_loader[0m
+[60.412s] [ 84%] Built target lanelet2_map_loader
+[60.429s] [35m[1mScanning dependencies of target lanelet2_map_visualization[0m
+[60.495s] [ 92%] [32mBuilding CXX object CMakeFiles/lanelet2_map_visualization.dir/nodes/lanelet2_map_loader/lanelet2_map_visualization.cpp.o[0m
+[67.143s] [100%] [32m[1mLinking CXX executable devel/lib/map_file/lanelet2_map_visualization[0m
+[67.826s] [100%] Built target lanelet2_map_visualization
+[67.842s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file -- -j6 -l6
+[67.961s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file --target tests -- -j6 -l6
+[68.042s] [35m[1mScanning dependencies of target tests[0m
+[68.057s] Built target tests
+[68.073s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file --target tests -- -j6 -l6
+[68.192s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file --target install -- -j6 -l6
+[68.268s] [  0%] Built target visualization_msgs_generate_messages_cpp
+[68.294s] [  0%] Built target topic_tools_generate_messages_nodejs
+[68.320s] [  0%] Built target topic_tools_generate_messages_eus
+[68.347s] [  0%] Built target topic_tools_generate_messages_cpp
+[68.374s] [  0%] Built target std_srvs_generate_messages_py
+[68.402s] [  0%] Built target std_srvs_generate_messages_nodejs
+[68.428s] [  0%] Built target vector_map_msgs_generate_messages_nodejs
+[68.455s] [  0%] Built target bond_generate_messages_py
+[68.481s] [  0%] Built target bond_generate_messages_nodejs
+[68.506s] [  0%] Built target bond_generate_messages_lisp
+[68.533s] [  0%] Built target bond_generate_messages_eus
+[68.559s] [  0%] Built target bond_generate_messages_cpp
+[68.585s] [  0%] Built target nodelet_generate_messages_nodejs
+[68.610s] [  0%] Built target nodelet_generate_messages_eus
+[68.637s] [  0%] Built target nodelet_generate_messages_cpp
+[68.663s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[68.690s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[68.717s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[68.748s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[68.776s] [  0%] Built target pcl_ros_gencfg
+[68.802s] [  0%] Built target visualization_msgs_generate_messages_py
+[68.828s] [  0%] Built target visualization_msgs_generate_messages_nodejs
+[68.855s] [  0%] Built target geometry_msgs_generate_messages_py
+[68.881s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[68.907s] [  0%] Built target roscpp_generate_messages_cpp
+[68.933s] [  0%] Built target actionlib_generate_messages_cpp
+[68.960s] [  0%] Built target pcl_msgs_generate_messages_eus
+[68.988s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[69.013s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[69.040s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[69.067s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[69.092s] [  0%] Built target std_msgs_generate_messages_py
+[69.119s] [  0%] Built target nodelet_generate_messages_lisp
+[69.144s] [  0%] Built target autoware_msgs_generate_messages_py
+[69.186s] [  0%] Built target std_msgs_generate_messages_nodejs
+[69.212s] [  0%] Built target sensor_msgs_generate_messages_eus
+[69.240s] [  0%] Built target std_srvs_generate_messages_lisp
+[69.269s] [  0%] Built target _catkin_empty_exported_target
+[69.295s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[69.321s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[69.349s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[69.375s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[69.401s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[69.427s] [  0%] Built target std_srvs_generate_messages_cpp
+[69.454s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[69.481s] [  0%] Built target nodelet_generate_messages_py
+[69.508s] [  0%] Built target sensor_msgs_generate_messages_py
+[69.536s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[69.564s] [  0%] Built target tf_generate_messages_py
+[69.591s] [  0%] Built target std_msgs_generate_messages_cpp
+[69.617s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[69.646s] [  0%] Built target topic_tools_generate_messages_py
+[69.673s] [  0%] Built target nodelet_topic_tools_gencfg
+[69.700s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[69.727s] [  0%] Built target geometry_msgs_generate_messages_eus
+[69.756s] [  0%] Built target std_msgs_generate_messages_lisp
+[69.782s] [  0%] Built target roscpp_generate_messages_nodejs
+[69.808s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[69.834s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[69.862s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[69.888s] [  0%] Built target topic_tools_generate_messages_lisp
+[69.913s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[69.940s] [  0%] Built target autoware_msgs_generate_messages_eus
+[69.966s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[69.993s] [  0%] Built target visualization_msgs_generate_messages_lisp
+[70.021s] [  0%] Built target std_msgs_generate_messages_eus
+[70.047s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[70.074s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[70.101s] [  0%] Built target actionlib_msgs_generate_messages_py
+[70.128s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[70.155s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[70.184s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[70.210s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[70.238s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[70.266s] [  0%] Built target tf_generate_messages_eus
+[70.295s] [  0%] Built target tf_generate_messages_lisp
+[70.324s] [  0%] Built target tf_generate_messages_nodejs
+[70.354s] [  0%] Built target autoware_lanelet2_msgs_generate_messages_cpp
+[70.382s] [  0%] Built target std_srvs_generate_messages_eus
+[70.409s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[70.438s] [  0%] Built target autoware_lanelet2_msgs_generate_messages_py
+[70.467s] [  0%] Built target roscpp_generate_messages_lisp
+[70.496s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[70.527s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[70.557s] [  0%] Built target roscpp_generate_messages_eus
+[70.587s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[70.615s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[70.644s] [  0%] Built target pcl_msgs_generate_messages_py
+[70.673s] [  0%] Built target actionlib_generate_messages_eus
+[70.700s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[70.729s] [  0%] Built target actionlib_generate_messages_lisp
+[70.758s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[70.786s] [  0%] Built target tf_generate_messages_cpp
+[70.814s] [  0%] Built target actionlib_generate_messages_nodejs
+[70.844s] [  0%] Built target dynamic_reconfigure_gencfg
+[70.874s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[70.903s] [  0%] Built target actionlib_generate_messages_py
+[70.933s] [  0%] Built target tf2_msgs_generate_messages_py
+[70.964s] [  0%] Built target autoware_lanelet2_msgs_generate_messages_eus
+[70.993s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[71.023s] [  0%] Built target autoware_lanelet2_msgs_generate_messages_lisp
+[71.054s] [  0%] Built target roscpp_generate_messages_py
+[71.082s] [  0%] Built target autoware_lanelet2_msgs_generate_messages_nodejs
+[71.110s] [  0%] Built target visualization_msgs_generate_messages_eus
+[71.140s] [  0%] Built target tf2_msgs_generate_messages_eus
+[71.175s] [ 15%] Built target get_file
+[71.205s] [ 15%] Built target vector_map_msgs_generate_messages_cpp
+[71.234s] [ 15%] Built target vector_map_msgs_generate_messages_eus
+[71.265s] [ 15%] Built target vector_map_msgs_generate_messages_lisp
+[71.293s] [ 15%] Built target vector_map_msgs_generate_messages_py
+[71.341s] [ 38%] Built target points_map_filter
+[71.382s] [ 53%] Built target vector_map_loader
+[71.429s] [ 69%] Built target points_map_loader
+[71.474s] [ 84%] Built target lanelet2_map_loader
+[71.516s] [100%] Built target lanelet2_map_visualization
+[71.546s] [36mInstall the project...[0m
+[71.560s] -- Install configuration: "Release"
+[71.560s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/lib/pkgconfig/map_file.pc
+[71.561s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/share/map_file/cmake/map_fileConfig.cmake
+[71.561s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/share/map_file/cmake/map_fileConfig-version.cmake
+[71.561s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/share/map_file/package.xml
+[71.562s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/lib/libget_file.so
+[71.562s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/lib/map_file/points_map_loader
+[71.563s] -- Set runtime path of "/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/lib/map_file/points_map_loader" to ""
+[71.563s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/lib/map_file/vector_map_loader
+[71.565s] -- Set runtime path of "/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/lib/map_file/vector_map_loader" to ""
+[71.565s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/lib/map_file/lanelet2_map_loader
+[71.566s] -- Set runtime path of "/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/lib/map_file/lanelet2_map_loader" to ""
+[71.566s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/lib/map_file/lanelet2_map_visualization
+[71.567s] -- Set runtime path of "/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/lib/map_file/lanelet2_map_visualization" to ""
+[71.567s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/lib/map_file/points_map_filter
+[71.568s] -- Set runtime path of "/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/lib/map_file/points_map_filter" to ""
+[71.568s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/include/map_file
+[71.568s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/include/map_file/get_file.h
+[71.568s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/include/map_file/points_map_filter.h
+[71.569s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/share/map_file/launch
+[71.569s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/share/map_file/launch/map_filter.launch
+[71.569s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/share/map_file/launch/vector_map_loader.launch
+[71.570s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/share/map_file/launch/points_map_loader.launch
+[71.572s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/share/map_file/launch/map_downloader.launch
+[71.572s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/map_file/share/map_file/launch/lanelet2_map_loader.launch
+[71.580s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_extension/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_routing/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_projection/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_io/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_core/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_lanelet2_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/map_file --target install -- -j6 -l6

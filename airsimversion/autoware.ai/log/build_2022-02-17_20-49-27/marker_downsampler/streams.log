@@ -1,0 +1,14 @@
+[0.029s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/marker_downsampler': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/marker_downsampler -- -j6 -l6
+[0.082s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/marker_downsampler' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/marker_downsampler -- -j6 -l6
+[0.213s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/marker_downsampler': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/marker_downsampler --target tests -- -j6 -l6
+[0.314s] Built target tests
+[0.346s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/marker_downsampler' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/marker_downsampler --target tests -- -j6 -l6
+[0.519s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/marker_downsampler': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/marker_downsampler --target install -- -j6 -l6
+[0.584s] [36mInstall the project...[0m
+[0.592s] -- Install configuration: "Release"
+[0.593s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/marker_downsampler/lib/pkgconfig/marker_downsampler.pc
+[0.598s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/marker_downsampler/share/marker_downsampler/cmake/marker_downsamplerConfig.cmake
+[0.598s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/marker_downsampler/share/marker_downsampler/cmake/marker_downsamplerConfig-version.cmake
+[0.603s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/marker_downsampler/share/marker_downsampler/package.xml
+[0.603s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/marker_downsampler/lib/marker_downsampler/app.py
+[0.603s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/marker_downsampler' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/marker_downsampler --target install -- -j6 -l6

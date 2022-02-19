@@ -1,0 +1,529 @@
+[0.071s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server -- -j6 -l6
+[0.195s] [  0%] Built target vector_map_msgs_generate_messages_eus
+[0.250s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetLane
+[0.258s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetRoadSign
+[0.258s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetCurb
+[0.282s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetDriveOnPortion
+[0.284s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetDTLane
+[0.341s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetGutter
+[0.367s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetStopLine
+[0.382s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetRoadPole
+[0.406s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetZebraZone
+[0.422s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetGuardRail
+[0.444s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetFence
+[0.484s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetUtilityPole
+[0.506s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetCrossWalk
+[0.530s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetWhiteLine
+[0.558s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetWall
+[0.570s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetSignal
+[0.576s] [  0%] Built target _vector_map_server_generate_messages_check_deps_PositionState
+[0.586s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetSideWalk
+[0.595s] [  0%] Built target vector_map_msgs_generate_messages_nodejs
+[0.670s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetCurveMirror
+[0.693s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.700s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetSideStrip
+[0.704s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetRoadEdge
+[0.732s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetWayArea
+[0.740s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetRailCrossing
+[0.750s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetRoadMark
+[0.764s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[0.792s] [  0%] Built target vector_map_msgs_generate_messages_lisp
+[0.822s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetCrossRoad
+[0.827s] [  0%] Built target vector_map_msgs_generate_messages_py
+[0.840s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.845s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetNode
+[0.858s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.876s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetStreetLight
+[0.878s] [  0%] Built target roscpp_generate_messages_cpp
+[0.884s] [  0%] Built target autoware_msgs_generate_messages_eus
+[0.884s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.911s] [  0%] Built target actionlib_generate_messages_cpp
+[0.915s] [  0%] Built target pcl_msgs_generate_messages_eus
+[0.921s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[0.927s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[0.930s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[0.943s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.955s] [  0%] Built target std_msgs_generate_messages_py
+[0.965s] [  0%] Built target autoware_msgs_generate_messages_py
+[0.966s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.974s] [  0%] Built target _catkin_empty_exported_target
+[0.974s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.977s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.998s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[1.000s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[1.008s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[1.008s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[1.012s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[1.015s] [  0%] Built target sensor_msgs_generate_messages_py
+[1.038s] [  0%] Built target std_msgs_generate_messages_lisp
+[1.038s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[1.039s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[1.042s] [  0%] Built target tf_generate_messages_py
+[1.049s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.053s] [  0%] Built target visualization_msgs_generate_messages_nodejs
+[1.074s] [  0%] Built target roscpp_generate_messages_nodejs
+[1.080s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[1.087s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[1.091s] [  0%] Built target visualization_msgs_generate_messages_lisp
+[1.092s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[1.105s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[1.115s] [  0%] Built target std_msgs_generate_messages_eus
+[1.121s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[1.138s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[1.146s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[1.151s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[1.151s] [  0%] Built target actionlib_msgs_generate_messages_py
+[1.176s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[1.181s] [  0%] Built target roscpp_generate_messages_lisp
+[1.183s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[1.197s] [  0%] Built target roscpp_generate_messages_py
+[1.208s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[1.211s] [  0%] Built target roscpp_generate_messages_eus
+[1.232s] [ 20%] Built target vector_map_server_generate_messages_py
+[1.239s] [ 20%] Built target actionlib_msgs_generate_messages_eus
+[1.244s] [ 20%] Built target rosgraph_msgs_generate_messages_py
+[1.252s] [ 20%] Built target actionlib_msgs_generate_messages_cpp
+[1.257s] [ 20%] Built target tf_generate_messages_eus
+[1.264s] [ 20%] Built target jsk_footstep_msgs_generate_messages_cpp
+[1.282s] [ 20%] Built target tf_generate_messages_lisp
+[1.292s] [ 20%] Built target pcl_msgs_generate_messages_py
+[1.298s] [ 20%] Built target tf_generate_messages_nodejs
+[1.306s] [ 20%] Built target actionlib_generate_messages_eus
+[1.323s] [ 20%] Built target geometry_msgs_generate_messages_cpp
+[1.324s] [ 20%] Built target pcl_msgs_generate_messages_lisp
+[1.330s] [ 20%] Built target actionlib_generate_messages_lisp
+[1.342s] [ 20%] Built target tf_generate_messages_cpp
+[1.345s] [ 20%] Built target tf2_msgs_generate_messages_lisp
+[1.358s] [ 20%] Built target actionlib_generate_messages_nodejs
+[1.375s] [ 20%] Built target visualization_msgs_generate_messages_cpp
+[1.376s] [ 20%] Built target tf2_msgs_generate_messages_nodejs
+[1.381s] [ 20%] Built target tf2_msgs_generate_messages_eus
+[1.400s] [ 20%] Built target actionlib_generate_messages_py
+[1.408s] [ 20%] Built target tf2_msgs_generate_messages_py
+[1.416s] [ 20%] Built target visualization_msgs_generate_messages_eus
+[1.426s] [ 20%] Built target visualization_msgs_generate_messages_py
+[1.428s] [ 20%] Built target vector_map_msgs_generate_messages_cpp
+[1.442s] [ 39%] Built target vector_map_server_generate_messages_nodejs
+[1.449s] [ 60%] Built target vector_map_server_generate_messages_eus
+[1.467s] [ 78%] Built target vector_map_server_generate_messages_lisp
+[1.477s] [ 97%] Built target vector_map_server_generate_messages_cpp
+[1.522s] [ 97%] Built target vector_map_server_generate_messages
+[1.536s] [ 98%] Built target vector_map_client
+[1.539s] [100%] Built target vector_map_server
+[1.558s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server -- -j6 -l6
+[2.073s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server --target tests -- -j6 -l6
+[2.143s] Built target tests
+[2.188s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server --target tests -- -j6 -l6
+[2.805s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server --target install -- -j6 -l6
+[3.001s] [  0%] Built target vector_map_msgs_generate_messages_eus
+[3.029s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetLane
+[3.029s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetRoadSign
+[3.031s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetDriveOnPortion
+[3.067s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetCurb
+[3.077s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetDTLane
+[3.096s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetGutter
+[3.129s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetGuardRail
+[3.150s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetStopLine
+[3.189s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetRoadPole
+[3.193s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetZebraZone
+[3.199s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetFence
+[3.218s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetWhiteLine
+[3.246s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetUtilityPole
+[3.269s] [  0%] Built target vector_map_msgs_generate_messages_nodejs
+[3.270s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetWall
+[3.271s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetCrossWalk
+[3.288s] [  0%] Built target _vector_map_server_generate_messages_check_deps_PositionState
+[3.309s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetSignal
+[3.316s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetSideWalk
+[3.334s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetSideStrip
+[3.343s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetCurveMirror
+[3.352s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[3.362s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetWayArea
+[3.373s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetRoadEdge
+[3.391s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetRailCrossing
+[3.394s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[3.397s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetRoadMark
+[3.415s] [  0%] Built target vector_map_msgs_generate_messages_py
+[3.421s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetNode
+[3.427s] [  0%] Built target geometry_msgs_generate_messages_py
+[3.431s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetStreetLight
+[3.438s] [  0%] Built target vector_map_msgs_generate_messages_lisp
+[3.449s] [  0%] Built target geometry_msgs_generate_messages_eus
+[3.456s] [  0%] Built target _vector_map_server_generate_messages_check_deps_GetCrossRoad
+[3.459s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[3.461s] [  0%] Built target autoware_msgs_generate_messages_eus
+[3.461s] [  0%] Built target roscpp_generate_messages_cpp
+[3.465s] [  0%] Built target actionlib_generate_messages_cpp
+[3.484s] [  0%] Built target pcl_msgs_generate_messages_eus
+[3.487s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[3.495s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[3.497s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[3.511s] [  0%] Built target std_msgs_generate_messages_py
+[3.511s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[3.536s] [  0%] Built target autoware_msgs_generate_messages_py
+[3.536s] [  0%] Built target _catkin_empty_exported_target
+[3.541s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[3.547s] [  0%] Built target sensor_msgs_generate_messages_eus
+[3.549s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[3.555s] [  0%] Built target std_msgs_generate_messages_nodejs
+[3.562s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[3.572s] [  0%] Built target sensor_msgs_generate_messages_py
+[3.573s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[3.574s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[3.579s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[3.588s] [  0%] Built target tf_generate_messages_py
+[3.592s] [  0%] Built target std_msgs_generate_messages_cpp
+[3.599s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[3.603s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[3.605s] [  0%] Built target visualization_msgs_generate_messages_nodejs
+[3.611s] [  0%] Built target std_msgs_generate_messages_lisp
+[3.628s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[3.628s] [  0%] Built target roscpp_generate_messages_nodejs
+[3.633s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[3.635s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[3.637s] [  0%] Built target visualization_msgs_generate_messages_lisp
+[3.637s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[3.660s] [  0%] Built target std_msgs_generate_messages_eus
+[3.660s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[3.664s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[3.666s] [  0%] Built target actionlib_msgs_generate_messages_py
+[3.669s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[3.669s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[3.688s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[3.696s] [  0%] Built target roscpp_generate_messages_lisp
+[3.698s] [  0%] Built target roscpp_generate_messages_py
+[3.704s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[3.706s] [ 20%] Built target vector_map_server_generate_messages_py
+[3.714s] [ 20%] Built target rosgraph_msgs_generate_messages_nodejs
+[3.725s] [ 20%] Built target roscpp_generate_messages_eus
+[3.726s] [ 20%] Built target jsk_footstep_msgs_generate_messages_cpp
+[3.731s] [ 20%] Built target actionlib_msgs_generate_messages_eus
+[3.733s] [ 20%] Built target tf_generate_messages_eus
+[3.736s] [ 20%] Built target actionlib_msgs_generate_messages_cpp
+[3.745s] [ 20%] Built target rosgraph_msgs_generate_messages_py
+[3.749s] [ 20%] Built target tf_generate_messages_nodejs
+[3.753s] [ 20%] Built target tf_generate_messages_lisp
+[3.758s] [ 20%] Built target actionlib_generate_messages_eus
+[3.760s] [ 20%] Built target pcl_msgs_generate_messages_py
+[3.780s] [ 20%] Built target actionlib_generate_messages_lisp
+[3.793s] [ 20%] Built target tf2_msgs_generate_messages_lisp
+[3.795s] [ 20%] Built target geometry_msgs_generate_messages_cpp
+[3.800s] [ 20%] Built target pcl_msgs_generate_messages_lisp
+[3.805s] [ 20%] Built target tf_generate_messages_cpp
+[3.808s] [ 20%] Built target actionlib_generate_messages_nodejs
+[3.813s] [ 20%] Built target actionlib_generate_messages_py
+[3.831s] [ 20%] Built target tf2_msgs_generate_messages_eus
+[3.833s] [ 20%] Built target tf2_msgs_generate_messages_py
+[3.845s] [ 20%] Built target visualization_msgs_generate_messages_cpp
+[3.847s] [ 20%] Built target vector_map_msgs_generate_messages_cpp
+[3.850s] [ 20%] Built target tf2_msgs_generate_messages_nodejs
+[3.859s] [ 20%] Built target visualization_msgs_generate_messages_eus
+[3.870s] [ 39%] Built target vector_map_server_generate_messages_nodejs
+[3.885s] [ 39%] Built target visualization_msgs_generate_messages_py
+[3.889s] [ 60%] Built target vector_map_server_generate_messages_eus
+[3.893s] [ 78%] Built target vector_map_server_generate_messages_lisp
+[3.896s] [ 97%] Built target vector_map_server_generate_messages_cpp
+[3.923s] [ 97%] Built target vector_map_server_generate_messages
+[3.929s] [ 98%] Built target vector_map_server
+[3.955s] [100%] Built target vector_map_client
+[4.000s] [36mInstall the project...[0m
+[4.016s] -- Install configuration: "Release"
+[4.021s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetCrossRoad.srv
+[4.021s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetCrossWalk.srv
+[4.021s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetCurb.srv
+[4.022s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetCurveMirror.srv
+[4.022s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetDTLane.srv
+[4.022s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetDriveOnPortion.srv
+[4.022s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetFence.srv
+[4.022s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetGuardRail.srv
+[4.022s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetGutter.srv
+[4.022s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetLane.srv
+[4.022s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetNode.srv
+[4.022s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetRailCrossing.srv
+[4.022s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetRoadEdge.srv
+[4.023s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetRoadMark.srv
+[4.023s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetRoadPole.srv
+[4.023s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetRoadSign.srv
+[4.023s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetSideStrip.srv
+[4.023s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetSideWalk.srv
+[4.023s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetSignal.srv
+[4.023s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetStopLine.srv
+[4.023s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetStreetLight.srv
+[4.023s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetUtilityPole.srv
+[4.023s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetWall.srv
+[4.023s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetWayArea.srv
+[4.023s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetWhiteLine.srv
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/GetZebraZone.srv
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/srv/PositionState.srv
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/cmake/vector_map_server-msg-paths.cmake
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetCrossWalkResponse.h
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetLaneRequest.h
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetNodeResponse.h
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetStreetLightResponse.h
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetGuardRailRequest.h
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetStopLineResponse.h
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetWhiteLineRequest.h
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetCrossWalk.h
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetCurveMirror.h
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetDTLaneResponse.h
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetSignal.h
+[4.024s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetSideStripResponse.h
+[4.025s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetStreetLight.h
+[4.025s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetCurveMirrorRequest.h
+[4.025s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRoadMarkResponse.h
+[4.025s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetStopLineRequest.h
+[4.025s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetStopLine.h
+[4.025s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetStreetLightRequest.h
+[4.025s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/PositionStateResponse.h
+[4.025s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetSideWalkResponse.h
+[4.025s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetCrossRoadRequest.h
+[4.025s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetWallResponse.h
+[4.025s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetGutterRequest.h
+[4.025s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetGutterResponse.h
+[4.026s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetWayAreaRequest.h
+[4.026s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetCrossWalkRequest.h
+[4.026s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRoadSign.h
+[4.026s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetCrossRoadResponse.h
+[4.026s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetDTLaneRequest.h
+[4.026s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetSideStrip.h
+[4.026s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetDriveOnPortionRequest.h
+[4.026s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetUtilityPoleResponse.h
+[4.026s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRoadSignResponse.h
+[4.026s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetSideWalkRequest.h
+[4.026s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetUtilityPoleRequest.h
+[4.026s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetDriveOnPortion.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetWayAreaResponse.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetZebraZoneRequest.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetWallRequest.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetFenceRequest.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetCurbResponse.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetNode.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetGutter.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetSideStripRequest.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetSignalRequest.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRoadEdge.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetWall.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRoadPoleRequest.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetZebraZone.h
+[4.027s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetWayArea.h
+[4.028s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetCurbRequest.h
+[4.028s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetFence.h
+[4.028s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetZebraZoneResponse.h
+[4.028s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetSignalResponse.h
+[4.028s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRoadMark.h
+[4.028s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetGuardRailResponse.h
+[4.028s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRoadPoleResponse.h
+[4.028s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetLane.h
+[4.028s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetCurb.h
+[4.028s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/PositionState.h
+[4.028s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetSideWalk.h
+[4.029s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRailCrossing.h
+[4.029s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetWhiteLine.h
+[4.029s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetGuardRail.h
+[4.029s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/PositionStateRequest.h
+[4.029s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetCrossRoad.h
+[4.029s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetDriveOnPortionResponse.h
+[4.029s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetLaneResponse.h
+[4.029s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRoadEdgeResponse.h
+[4.029s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRailCrossingResponse.h
+[4.029s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetCurveMirrorResponse.h
+[4.029s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRoadPole.h
+[4.030s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetUtilityPole.h
+[4.030s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRoadSignRequest.h
+[4.034s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetWhiteLineResponse.h
+[4.034s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRoadMarkRequest.h
+[4.034s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRailCrossingRequest.h
+[4.034s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetDTLane.h
+[4.034s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetNodeRequest.h
+[4.034s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetRoadEdgeRequest.h
+[4.034s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/include/vector_map_server/GetFenceResponse.h
+[4.034s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server
+[4.034s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/manifest.l
+[4.034s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv
+[4.034s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetSideWalk.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetRoadPole.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetStreetLight.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetNode.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetGuardRail.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetUtilityPole.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetDTLane.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetWhiteLine.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetDriveOnPortion.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetRoadMark.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetZebraZone.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetLane.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/PositionState.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetGutter.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetSideStrip.l
+[4.035s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetRailCrossing.l
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetCrossRoad.l
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetWall.l
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetRoadSign.l
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetRoadEdge.l
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetStopLine.l
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetCrossWalk.l
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetSignal.l
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetCurb.l
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetCurveMirror.l
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetFence.l
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/roseus/ros/vector_map_server/srv/GetWayArea.l
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv
+[4.036s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_PositionState.lisp
+[4.037s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetWall.lisp
+[4.037s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetDTLane.lisp
+[4.037s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetCurveMirror.lisp
+[4.037s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetDTLane.lisp
+[4.037s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetZebraZone.lisp
+[4.037s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetWayArea.lisp
+[4.037s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetCurveMirror.lisp
+[4.037s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package.lisp
+[4.037s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetLane.lisp
+[4.037s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetNode.lisp
+[4.037s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetCrossWalk.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetSignal.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetZebraZone.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetRailCrossing.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetGutter.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetFence.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetSignal.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetCrossWalk.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetWayArea.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetWhiteLine.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetLane.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetStreetLight.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetRoadPole.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetStopLine.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetStopLine.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetCurb.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetCrossRoad.lisp
+[4.038s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetCrossRoad.lisp
+[4.042s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetFence.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetWhiteLine.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetRoadEdge.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetRoadSign.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetGuardRail.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/vector_map_server-srv.asd
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetCurb.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetGutter.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetStreetLight.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetRoadEdge.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetSideStrip.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/PositionState.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetUtilityPole.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetDriveOnPortion.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetDriveOnPortion.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetSideStrip.lisp
+[4.043s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetSideWalk.lisp
+[4.044s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetGuardRail.lisp
+[4.044s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetRailCrossing.lisp
+[4.044s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetWall.lisp
+[4.044s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetRoadMark.lisp
+[4.044s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetUtilityPole.lisp
+[4.044s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetRoadMark.lisp
+[4.044s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetRoadSign.lisp
+[4.044s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/GetNode.lisp
+[4.044s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetSideWalk.lisp
+[4.044s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/common-lisp/ros/vector_map_server/srv/_package_GetRoadPole.lisp
+[4.044s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server
+[4.045s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/_index.js
+[4.045s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetRoadMark.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/_index.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetDTLane.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetCurb.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetGutter.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetCrossRoad.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetGuardRail.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetWall.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetLane.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetSideStrip.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetZebraZone.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetWayArea.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetDriveOnPortion.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetWhiteLine.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetRoadEdge.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetStreetLight.js
+[4.046s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetCurveMirror.js
+[4.047s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetRoadSign.js
+[4.047s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetSignal.js
+[4.047s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetCrossWalk.js
+[4.047s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetSideWalk.js
+[4.047s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetRoadPole.js
+[4.048s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/PositionState.js
+[4.048s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetRailCrossing.js
+[4.048s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetFence.js
+[4.048s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetUtilityPole.js
+[4.048s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetStopLine.js
+[4.048s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/gennodejs/ros/vector_map_server/srv/GetNode.js
+[4.056s] Listing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server/devel/lib/python2.7/dist-packages/vector_map_server ...
+[4.057s] Listing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server/devel/lib/python2.7/dist-packages/vector_map_server/srv ...
+[4.057s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server
+[4.057s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/__init__.pyc
+[4.057s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/__init__.py
+[4.057s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv
+[4.057s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetGutter.pyc
+[4.057s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetGuardRail.pyc
+[4.057s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_PositionState.pyc
+[4.058s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetSideStrip.pyc
+[4.058s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetNode.pyc
+[4.058s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_PositionState.py
+[4.058s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetSideWalk.py
+[4.058s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetWayArea.pyc
+[4.058s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetCrossWalk.pyc
+[4.058s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/__init__.pyc
+[4.058s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetStopLine.py
+[4.058s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetRoadPole.py
+[4.058s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetCurveMirror.pyc
+[4.058s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetCurb.pyc
+[4.058s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetDTLane.py
+[4.059s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetSignal.pyc
+[4.059s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetCrossRoad.pyc
+[4.059s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetGuardRail.py
+[4.059s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetWhiteLine.py
+[4.059s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetRoadEdge.pyc
+[4.059s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetUtilityPole.py
+[4.059s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetWall.py
+[4.059s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetCrossRoad.py
+[4.059s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetLane.pyc
+[4.059s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetFence.py
+[4.059s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetStreetLight.pyc
+[4.059s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetDTLane.pyc
+[4.059s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetRoadMark.pyc
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetNode.py
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetUtilityPole.pyc
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetCurveMirror.py
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetSideStrip.py
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetDriveOnPortion.py
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetZebraZone.pyc
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetRoadSign.pyc
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetRailCrossing.pyc
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetFence.pyc
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetRoadMark.py
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetCurb.py
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetZebraZone.py
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/__init__.py
+[4.060s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetWayArea.py
+[4.061s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetWall.pyc
+[4.061s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetDriveOnPortion.pyc
+[4.061s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetStopLine.pyc
+[4.061s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetCrossWalk.py
+[4.061s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetWhiteLine.pyc
+[4.061s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetLane.py
+[4.061s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetRailCrossing.py
+[4.061s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetRoadEdge.py
+[4.061s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetRoadSign.py
+[4.061s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetRoadPole.pyc
+[4.061s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetGutter.py
+[4.061s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetStreetLight.py
+[4.061s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetSignal.py
+[4.062s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/python2.7/dist-packages/vector_map_server/srv/_GetSideWalk.pyc
+[4.062s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/pkgconfig/vector_map_server.pc
+[4.062s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/cmake/vector_map_server-msg-extras.cmake
+[4.062s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/cmake/vector_map_serverConfig.cmake
+[4.062s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/cmake/vector_map_serverConfig-version.cmake
+[4.062s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/share/vector_map_server/package.xml
+[4.062s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/vector_map_server/vector_map_server
+[4.062s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_server/lib/vector_map_server/vector_map_client
+[4.065s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_server --target install -- -j6 -l6

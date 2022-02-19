@@ -1,0 +1,18 @@
+[ 50%] Built target image_rotator
+[100%] Built target image_rectifier
+Built target tests
+[ 50%] Built target image_rotator
+[100%] Built target image_rectifier
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/image_processor/lib/pkgconfig/image_processor.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/image_processor/share/image_processor/cmake/image_processorConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/image_processor/share/image_processor/cmake/image_processorConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/image_processor/share/image_processor/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/image_processor/lib/image_processor/image_rotator
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/image_processor/lib/image_processor/image_rectifier
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/image_processor/share/image_processor/launch/launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/image_processor/share/image_processor/launch/launch/image_rectifier_ladybug.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/image_processor/share/image_processor/launch/launch/image_rotator_ladybug.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/image_processor/share/image_processor/launch/launch/image_rectifier.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/image_processor/share/image_processor/launch/launch/image_rotator.launch

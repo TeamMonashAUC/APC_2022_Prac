@@ -1,0 +1,19 @@
+[0.037s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_tku': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_tku -- -j6 -l6
+[0.100s] [100%] Built target ndt_tku
+[0.111s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_tku' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_tku -- -j6 -l6
+[0.213s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_tku': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_tku --target tests -- -j6 -l6
+[0.308s] Built target tests
+[0.337s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_tku' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_tku --target tests -- -j6 -l6
+[0.454s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_tku': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_tku --target install -- -j6 -l6
+[0.531s] [100%] Built target ndt_tku
+[0.569s] [36mInstall the project...[0m
+[0.580s] -- Install configuration: "Release"
+[0.580s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_tku/lib/pkgconfig/ndt_tku.pc
+[0.580s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_tku/share/ndt_tku/cmake/ndt_tkuConfig.cmake
+[0.581s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_tku/share/ndt_tku/cmake/ndt_tkuConfig-version.cmake
+[0.581s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_tku/share/ndt_tku/package.xml
+[0.581s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_tku/lib/libndt_tku.so
+[0.581s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_tku/include
+[0.581s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_tku/include/ndt.h
+[0.582s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ndt_tku/include/algebra.h
+[0.588s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_tku' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ndt_tku --target install -- -j6 -l6

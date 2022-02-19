@@ -1,0 +1,22 @@
+[  0%] Built target _catkin_empty_exported_target
+[100%] Built target vehicle_sim_model
+[  0%] Built target _catkin_empty_exported_target
+[ 22%] Built target gtest
+[ 77%] Built target vehicle_sim_model
+[100%] Built target test-vehicle_sim_model
+[100%] Built target tests
+[  0%] Built target _catkin_empty_exported_target
+[100%] Built target vehicle_sim_model
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_sim_model/lib/pkgconfig/vehicle_sim_model.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_sim_model/share/vehicle_sim_model/cmake/vehicle_sim_modelConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_sim_model/share/vehicle_sim_model/cmake/vehicle_sim_modelConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_sim_model/share/vehicle_sim_model/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_sim_model/lib/libvehicle_sim_model.so
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_sim_model/include/vehicle_sim_model
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_sim_model/include/vehicle_sim_model/vehicle_model_interface.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_sim_model/include/vehicle_sim_model/vehicle_model_time_delay.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_sim_model/include/vehicle_sim_model/vehicle_model_ideal.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_sim_model/include/vehicle_sim_model/vehicle_model_constant_acceleration.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vehicle_sim_model/lib/vehicle_sim_model/fitParamDelayInputModel.py

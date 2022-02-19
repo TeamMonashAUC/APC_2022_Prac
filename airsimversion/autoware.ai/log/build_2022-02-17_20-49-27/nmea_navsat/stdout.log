@@ -1,0 +1,10 @@
+Built target tests
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/lib/pkgconfig/nmea_navsat.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/share/nmea_navsat/cmake/nmea_navsatConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/share/nmea_navsat/cmake/nmea_navsatConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/share/nmea_navsat/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/share/nmea_navsat/launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/share/nmea_navsat/launch/nmea_navsat.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/nmea_navsat/share/nmea_navsat/launch/README.md

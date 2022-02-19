@@ -1,0 +1,18 @@
+[0.024s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/oculus_socket': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/oculus_socket -- -j6 -l6
+[0.119s] [100%] Built target oculus_sender
+[0.146s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/oculus_socket' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/oculus_socket -- -j6 -l6
+[0.255s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/oculus_socket': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/oculus_socket --target tests -- -j6 -l6
+[0.324s] Built target tests
+[0.377s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/oculus_socket' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/oculus_socket --target tests -- -j6 -l6
+[0.603s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/oculus_socket': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/oculus_socket --target install -- -j6 -l6
+[0.693s] [100%] Built target oculus_sender
+[0.712s] [36mInstall the project...[0m
+[0.719s] -- Install configuration: "Release"
+[0.719s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/oculus_socket/lib/pkgconfig/oculus_socket.pc
+[0.720s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/oculus_socket/share/oculus_socket/cmake/oculus_socketConfig.cmake
+[0.720s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/oculus_socket/share/oculus_socket/cmake/oculus_socketConfig-version.cmake
+[0.720s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/oculus_socket/share/oculus_socket/package.xml
+[0.721s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/oculus_socket/lib/oculus_socket/oculus_sender
+[0.721s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/oculus_socket/share/oculus_socket/launch
+[0.722s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/oculus_socket/share/oculus_socket/launch/oculus_sender.launch
+[0.738s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/oculus_socket' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/oculus_socket --target install -- -j6 -l6

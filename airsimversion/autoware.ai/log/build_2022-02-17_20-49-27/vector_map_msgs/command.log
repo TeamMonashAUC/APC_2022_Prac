@@ -1,0 +1,6 @@
+Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs -- -j6 -l6
+Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs -- -j6 -l6
+Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs --target tests -- -j6 -l6
+Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs --target tests -- -j6 -l6
+Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs --target install -- -j6 -l6
+Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs --target install -- -j6 -l6

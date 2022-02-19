@@ -1,0 +1,19 @@
+[ 76%] Built target microstrain_driver
+[ 88%] Built target 3dm_gx5_15_node
+[100%] Built target 3dm_gx5_45_node
+Built target tests
+[ 76%] Built target microstrain_driver
+[ 88%] Built target 3dm_gx5_45_node
+[100%] Built target 3dm_gx5_15_node
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/lib/pkgconfig/microstrain_driver.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/share/microstrain_driver/cmake/microstrain_driverConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/share/microstrain_driver/cmake/microstrain_driverConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/share/microstrain_driver/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/lib/libmicrostrain_driver.so
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/lib/microstrain_driver/3dm_gx5_15_node
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/lib/microstrain_driver/3dm_gx5_45_node
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/share/microstrain_driver/launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/share/microstrain_driver/launch/microstrain.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/microstrain_driver/share/microstrain_driver/launch/3dm_gx5_15.launch

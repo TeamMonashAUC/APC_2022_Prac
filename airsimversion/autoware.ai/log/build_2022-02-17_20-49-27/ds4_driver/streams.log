@@ -1,0 +1,16 @@
+[0.026s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ds4_driver': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ds4_driver -- -j6 -l6
+[0.117s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ds4_driver' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ds4_driver -- -j6 -l6
+[0.213s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ds4_driver': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ds4_driver --target tests -- -j6 -l6
+[0.298s] Built target tests
+[0.312s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ds4_driver' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ds4_driver --target tests -- -j6 -l6
+[0.385s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ds4_driver': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ds4_driver --target install -- -j6 -l6
+[0.471s] [36mInstall the project...[0m
+[0.481s] -- Install configuration: "Release"
+[0.481s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/lib/pkgconfig/ds4_driver.pc
+[0.482s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/share/ds4_driver/cmake/ds4_driverConfig.cmake
+[0.482s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/share/ds4_driver/cmake/ds4_driverConfig-version.cmake
+[0.482s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/share/ds4_driver/package.xml
+[0.483s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/lib/ds4_driver/ds4_driver
+[0.483s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/share/ds4_driver/launch
+[0.483s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/ds4_driver/share/ds4_driver/launch/ds4_driver.launch
+[0.489s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ds4_driver' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/ds4_driver --target install -- -j6 -l6

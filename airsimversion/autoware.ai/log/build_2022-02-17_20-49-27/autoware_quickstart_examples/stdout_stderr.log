@@ -1,0 +1,18 @@
+Built target tests
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/lib/pkgconfig/autoware_quickstart_examples.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/cmake/autoware_quickstart_examplesConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/cmake/autoware_quickstart_examplesConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/my_detection.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/my_mission_planning.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/my_localization.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/my_map.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/README.md
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/my_motion_planning.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/default.rviz
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/my_sensing.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/tf_local.launch

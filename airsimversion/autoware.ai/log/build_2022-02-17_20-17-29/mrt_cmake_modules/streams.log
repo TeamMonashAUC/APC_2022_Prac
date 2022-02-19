@@ -1,0 +1,135 @@
+[0.026s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules': /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/vendor/mrt_cmake_modules -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules
+[0.251s] -- The C compiler identification is GNU 7.5.0
+[0.405s] -- The CXX compiler identification is GNU 7.5.0
+[0.410s] -- Check for working C compiler: /usr/bin/cc
+[0.625s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.625s] -- Detecting C compiler ABI info
+[0.746s] -- Detecting C compiler ABI info - done
+[0.753s] -- Detecting C compile features
+[1.218s] -- Detecting C compile features - done
+[1.221s] -- Check for working CXX compiler: /usr/bin/c++
+[1.363s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.363s] -- Detecting CXX compiler ABI info
+[1.491s] -- Detecting CXX compiler ABI info - done
+[1.495s] -- Detecting CXX compile features
+[2.220s] -- Detecting CXX compile features - done
+[2.222s] -- Using CATKIN_DEVEL_PREFIX: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules/devel
+[2.223s] -- Using CMAKE_PREFIX_PATH: /opt/ros/melodic
+[2.223s] -- This workspace overlays: /opt/ros/melodic
+[2.246s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[2.246s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[2.246s] -- Using Debian Python package layout
+[2.246s] -- Using empy: /usr/bin/empy
+[2.487s] -- Using CATKIN_ENABLE_TESTING: ON
+[2.487s] -- Call enable_testing()
+[2.508s] -- Using CATKIN_TEST_RESULTS_DIR: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules/test_results
+[2.536s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[2.536s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[2.551s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[2.552s] -- Looking for pthread.h
+[2.793s] -- Looking for pthread.h - found
+[2.793s] -- Looking for pthread_create
+[2.901s] -- Looking for pthread_create - not found
+[2.901s] -- Looking for pthread_create in pthreads
+[3.056s] -- Looking for pthread_create in pthreads - not found
+[3.056s] -- Looking for pthread_create in pthread
+[3.140s] -- Looking for pthread_create in pthread - found
+[3.142s] -- Found Threads: TRUE  
+[3.146s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[3.197s] -- catkin 0.7.29
+[3.197s] -- BUILD_SHARED_LIBS is on
+[4.240s] -- Configuring done
+[4.255s] -- Generating done
+[4.257s] -- Build files have been written to: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules
+[4.269s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules' returned '0': /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/vendor/mrt_cmake_modules -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules
+[4.270s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules -- -j6 -l6
+[4.328s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules -- -j6 -l6
+[4.484s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules --target tests -- -j6 -l6
+[4.549s] [35m[1mScanning dependencies of target tests[0m
+[4.559s] Built target tests
+[4.575s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules --target tests -- -j6 -l6
+[4.709s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules --target install -- -j6 -l6
+[4.764s] [36mInstall the project...[0m
+[4.774s] -- Install configuration: "Release"
+[4.777s] + cd /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/vendor/mrt_cmake_modules
+[4.777s] + mkdir -p /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/lib/python2.7/dist-packages
+[4.785s] + /usr/bin/env PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages CATKIN_BINARY_DIR=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules /usr/bin/python2 /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/vendor/mrt_cmake_modules/setup.py build --build-base /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules install --root=/ --install-layout=deb --prefix=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules --install-scripts=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/bin
+[4.821s] running build
+[4.828s] running build_py
+[4.831s] creating /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules/lib.linux-x86_64-2.7
+[4.833s] creating /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules/lib.linux-x86_64-2.7/mrt_cmake_modules
+[4.833s] copying src/mrt_cmake_modules/parameter_generator_catkin.py -> /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules/lib.linux-x86_64-2.7/mrt_cmake_modules
+[4.834s] copying src/mrt_cmake_modules/__init__.py -> /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules/lib.linux-x86_64-2.7/mrt_cmake_modules
+[4.835s] running install
+[4.836s] running install_lib
+[4.838s] creating /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/lib/python2.7/dist-packages/mrt_cmake_modules
+[4.840s] copying /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules/lib.linux-x86_64-2.7/mrt_cmake_modules/parameter_generator_catkin.py -> /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/lib/python2.7/dist-packages/mrt_cmake_modules
+[4.840s] copying /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules/lib.linux-x86_64-2.7/mrt_cmake_modules/__init__.py -> /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/lib/python2.7/dist-packages/mrt_cmake_modules
+[4.841s] byte-compiling /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/lib/python2.7/dist-packages/mrt_cmake_modules/parameter_generator_catkin.py to parameter_generator_catkin.pyc
+[4.843s] byte-compiling /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/lib/python2.7/dist-packages/mrt_cmake_modules/__init__.py to __init__.pyc
+[4.848s] running install_egg_info
+[4.849s] Writing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/lib/python2.7/dist-packages/mrt_cmake_modules-1.0.0.egg-info
+[4.865s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/lib/pkgconfig/mrt_cmake_modules.pc
+[4.865s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/mrt_cmake_modules-extras.cmake
+[4.865s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/mrt_cmake_modulesConfig.cmake
+[4.865s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/mrt_cmake_modulesConfig-version.cmake
+[4.865s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/package.xml
+[4.865s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules
+[4.865s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtCeres.cmake
+[4.865s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtSuiteSparse.cmake
+[4.865s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/Findlibgps.cmake
+[4.866s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/UseMrtAutoTarget.cmake
+[4.866s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtLeptonica.cmake
+[4.866s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindTinyXML.cmake
+[4.866s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/Findrange-v3.cmake
+[4.866s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtCTensorflow.cmake
+[4.866s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/Findgtest.cmake
+[4.866s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindClangTidy.cmake
+[4.866s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/CatkinMockForConan.cmake
+[4.866s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtANN.cmake
+[4.866s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/Findpugixml.cmake
+[4.866s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindIpopt.cmake
+[4.866s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/MrtParamGenerator.cmake
+[4.867s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindCairo.cmake
+[4.867s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtQt4.cmake
+[4.867s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindOSG.cmake
+[4.867s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindGTKMM.cmake
+[4.867s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindEigen2.cmake
+[4.867s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtCaffe.cmake
+[4.867s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtPCL.cmake
+[4.867s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindG2O.cmake
+[4.867s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindPoco.cmake
+[4.867s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/MRTCoverage.cmake
+[4.867s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindAravis.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtQt5.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMinpack.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtCUDA.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindFlann.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindAutoDeps.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtMetis.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindGTest-headers.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/UseMrtStdCompilerFlags.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtTesseract.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtTensorflow.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindBoostPython.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtebus-sdk.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtnlopt.cmake
+[4.868s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/Findyaml-cpp.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindGlog.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtVTK.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindPCAP.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtbenchmark.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtSDL2.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtf2c.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindGeographicLib.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindRapidXML.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/GatherDeps.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindIGL.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindSqlite3.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindQwt.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtOpenCV.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindTBB.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindMrtCereal.cmake
+[4.869s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/cmake/Modules/FindPNG++.cmake
+[4.870s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/mrt_cmake_modules/share/mrt_cmake_modules/scripts/generate_cmake_dependency_file.py
+[4.873s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/mrt_cmake_modules --target install -- -j6 -l6

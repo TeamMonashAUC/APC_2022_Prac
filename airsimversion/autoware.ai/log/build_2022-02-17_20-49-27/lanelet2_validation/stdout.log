@@ -1,0 +1,38 @@
+[  0%] Built target _catkin_empty_exported_target
+[ 81%] Built target lanelet2_validation
+[100%] Built target lanelet2_validation-lanelet2_validate-exec
+[ 11%] Built target gtest
+[ 11%] Built target _catkin_empty_exported_target
+[ 23%] Built target gtest_main
+[ 76%] Built target lanelet2_validation
+[ 88%] Built target lanelet2_validation-lanelet2_validate-exec
+[100%] Built target lanelet2_validation-lanelet2_validation-test
+[100%] Built target tests
+[  0%] Built target _catkin_empty_exported_target
+[ 81%] Built target lanelet2_validation
+[100%] Built target lanelet2_validation-lanelet2_validate-exec
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/pkgconfig/lanelet2_validation.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/share/lanelet2_validation/cmake/lanelet2_validationConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/share/lanelet2_validation/cmake/lanelet2_validationConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/share/lanelet2_validation/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/liblanelet2_validation.so
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/lib/lanelet2_validation/lanelet2_validate
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/internal
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/validators
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/validators/mapping
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/validators/mapping/UnknownTagValue.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/validators/mapping/UnknownTags.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/validators/mapping/CurvatureTooBig.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/validators/mapping/BoolTags.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/validators/mapping/MandatoryTags.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/validators/mapping/PointsTooClose.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/validators/routing
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/validators/routing/RoutingGraphIsValid.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/Issue.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/BasicValidator.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/Validation.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/Cli.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_validation/include/lanelet2_validation/ValidatorFactory.h

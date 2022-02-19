@@ -1,0 +1,148 @@
+[0.029s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/calibration_publisher': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/calibration_publisher -- -j6 -l6
+[0.146s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[0.150s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.154s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[0.157s] [  0%] Built target actionlib_generate_messages_cpp
+[0.166s] [  0%] Built target roscpp_generate_messages_cpp
+[0.191s] [  0%] Built target pcl_msgs_generate_messages_eus
+[0.198s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.208s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[0.231s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[0.233s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[0.270s] [  0%] Built target _catkin_empty_exported_target
+[0.279s] [  0%] Built target autoware_msgs_generate_messages_py
+[0.292s] [  0%] Built target std_msgs_generate_messages_py
+[0.298s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.333s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[0.334s] [  0%] Built target sensor_msgs_generate_messages_eus
+[0.345s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[0.362s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[0.366s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.380s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[0.404s] [  0%] Built target tf_generate_messages_py
+[0.413s] [  0%] Built target sensor_msgs_generate_messages_py
+[0.417s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[0.422s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.425s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[0.474s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.478s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.496s] [  0%] Built target roscpp_generate_messages_nodejs
+[0.513s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.526s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.554s] [  0%] Built target autoware_msgs_generate_messages_eus
+[0.567s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[0.575s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[0.578s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[0.583s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[0.626s] [  0%] Built target actionlib_msgs_generate_messages_py
+[0.628s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[0.631s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[0.643s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[0.647s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[0.672s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[0.678s] [  0%] Built target roscpp_generate_messages_lisp
+[0.682s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.684s] [  0%] Built target roscpp_generate_messages_py
+[0.699s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.713s] [  0%] Built target roscpp_generate_messages_eus
+[0.714s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[0.717s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.722s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[0.755s] [  0%] Built target pcl_msgs_generate_messages_py
+[0.760s] [  0%] Built target tf_generate_messages_lisp
+[0.765s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[0.767s] [  0%] Built target tf_generate_messages_eus
+[0.780s] [  0%] Built target tf_generate_messages_nodejs
+[0.795s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[0.796s] [  0%] Built target actionlib_generate_messages_eus
+[0.810s] [  0%] Built target actionlib_generate_messages_lisp
+[0.815s] [  0%] Built target tf_generate_messages_cpp
+[0.816s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[0.833s] [  0%] Built target actionlib_generate_messages_nodejs
+[0.841s] [  0%] Built target tf2_msgs_generate_messages_eus
+[0.849s] [  0%] Built target tf2_msgs_generate_messages_py
+[0.849s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[0.853s] [  0%] Built target actionlib_generate_messages_py
+[0.873s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[0.873s] [  0%] Built target std_msgs_generate_messages_eus
+[0.905s] [100%] Built target calibration_publisher
+[0.919s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/calibration_publisher' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/calibration_publisher -- -j6 -l6
+[1.024s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/calibration_publisher': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/calibration_publisher --target tests -- -j6 -l6
+[1.098s] Built target tests
+[1.111s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/calibration_publisher' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/calibration_publisher --target tests -- -j6 -l6
+[1.273s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/calibration_publisher': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/calibration_publisher --target install -- -j6 -l6
+[1.333s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[1.340s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[1.342s] [  0%] Built target roscpp_generate_messages_cpp
+[1.346s] [  0%] Built target geometry_msgs_generate_messages_py
+[1.359s] [  0%] Built target pcl_msgs_generate_messages_eus
+[1.375s] [  0%] Built target actionlib_generate_messages_cpp
+[1.381s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[1.387s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[1.402s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[1.410s] [  0%] Built target autoware_msgs_generate_messages_py
+[1.418s] [  0%] Built target std_msgs_generate_messages_py
+[1.421s] [  0%] Built target std_msgs_generate_messages_nodejs
+[1.439s] [  0%] Built target _catkin_empty_exported_target
+[1.440s] [  0%] Built target sensor_msgs_generate_messages_eus
+[1.450s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[1.466s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[1.473s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[1.475s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[1.496s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.506s] [  0%] Built target sensor_msgs_generate_messages_py
+[1.511s] [  0%] Built target tf_generate_messages_py
+[1.517s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[1.540s] [  0%] Built target geometry_msgs_generate_messages_eus
+[1.541s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[1.550s] [  0%] Built target std_msgs_generate_messages_lisp
+[1.570s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[1.578s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[1.582s] [  0%] Built target roscpp_generate_messages_nodejs
+[1.591s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[1.618s] [  0%] Built target autoware_msgs_generate_messages_eus
+[1.620s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[1.628s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[1.644s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[1.649s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[1.664s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[1.664s] [  0%] Built target actionlib_msgs_generate_messages_py
+[1.687s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[1.697s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[1.699s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[1.700s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[1.721s] [  0%] Built target roscpp_generate_messages_lisp
+[1.727s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[1.728s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[1.737s] [  0%] Built target roscpp_generate_messages_py
+[1.754s] [  0%] Built target roscpp_generate_messages_eus
+[1.766s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[1.772s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[1.785s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[1.790s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[1.798s] [  0%] Built target tf_generate_messages_lisp
+[1.798s] [  0%] Built target tf_generate_messages_eus
+[1.811s] [  0%] Built target tf_generate_messages_nodejs
+[1.823s] [  0%] Built target pcl_msgs_generate_messages_py
+[1.834s] [  0%] Built target actionlib_generate_messages_eus
+[1.835s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[1.846s] [  0%] Built target actionlib_generate_messages_lisp
+[1.846s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[1.863s] [  0%] Built target tf_generate_messages_cpp
+[1.879s] [  0%] Built target tf2_msgs_generate_messages_eus
+[1.882s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[1.887s] [  0%] Built target actionlib_generate_messages_nodejs
+[1.906s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[1.916s] [  0%] Built target actionlib_generate_messages_py
+[1.916s] [  0%] Built target tf2_msgs_generate_messages_py
+[1.924s] [  0%] Built target std_msgs_generate_messages_eus
+[1.940s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[1.973s] [100%] Built target calibration_publisher
+[2.001s] [36mInstall the project...[0m
+[2.013s] -- Install configuration: "Release"
+[2.014s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/calibration_publisher/lib/pkgconfig/calibration_publisher.pc
+[2.014s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/calibration_publisher/share/calibration_publisher/cmake/calibration_publisherConfig.cmake
+[2.015s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/calibration_publisher/share/calibration_publisher/cmake/calibration_publisherConfig-version.cmake
+[2.015s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/calibration_publisher/share/calibration_publisher/package.xml
+[2.015s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/calibration_publisher/lib/calibration_publisher/calibration_publisher
+[2.022s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/calibration_publisher' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/calibration_publisher --target install -- -j6 -l6

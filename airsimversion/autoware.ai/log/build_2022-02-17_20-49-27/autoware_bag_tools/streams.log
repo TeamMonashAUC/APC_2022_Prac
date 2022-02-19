@@ -1,0 +1,78 @@
+[0.016s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools -- -j6 -l6
+[0.121s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.129s] [  0%] Built target topic_tools_generate_messages_py
+[0.129s] [  0%] Built target nmea_msgs_generate_messages_py
+[0.141s] [  0%] Built target nmea_msgs_generate_messages_nodejs
+[0.150s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.173s] [  0%] Built target nmea_msgs_generate_messages_lisp
+[0.180s] [  0%] Built target topic_tools_generate_messages_eus
+[0.190s] [  0%] Built target std_msgs_generate_messages_py
+[0.193s] [  0%] Built target std_msgs_generate_messages_eus
+[0.201s] [  0%] Built target roscpp_generate_messages_cpp
+[0.237s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.248s] [  0%] Built target roscpp_generate_messages_eus
+[0.277s] [  0%] Built target roscpp_generate_messages_nodejs
+[0.277s] [  0%] Built target nmea_msgs_generate_messages_cpp
+[0.282s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.283s] [  0%] Built target roscpp_generate_messages_lisp
+[0.324s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.336s] [  0%] Built target std_srvs_generate_messages_cpp
+[0.343s] [  0%] Built target roscpp_generate_messages_py
+[0.343s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.350s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.358s] [  0%] Built target nmea_msgs_generate_messages_eus
+[0.395s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.398s] [  0%] Built target std_srvs_generate_messages_py
+[0.403s] [  0%] Built target std_srvs_generate_messages_eus
+[0.406s] [  0%] Built target std_srvs_generate_messages_nodejs
+[0.424s] [  0%] Built target topic_tools_generate_messages_cpp
+[0.445s] [  0%] Built target topic_tools_generate_messages_lisp
+[0.448s] [  0%] Built target topic_tools_generate_messages_nodejs
+[0.456s] [  0%] Built target std_srvs_generate_messages_lisp
+[0.514s] [100%] Built target nmea2kml
+[0.534s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools -- -j6 -l6
+[0.773s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools --target tests -- -j6 -l6
+[0.917s] Built target tests
+[1.007s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools --target tests -- -j6 -l6
+[1.157s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools --target install -- -j6 -l6
+[1.223s] [  0%] Built target std_msgs_generate_messages_py
+[1.232s] [  0%] Built target std_msgs_generate_messages_nodejs
+[1.232s] [  0%] Built target std_msgs_generate_messages_lisp
+[1.241s] [  0%] Built target nmea_msgs_generate_messages_nodejs
+[1.250s] [  0%] Built target topic_tools_generate_messages_py
+[1.251s] [  0%] Built target nmea_msgs_generate_messages_py
+[1.255s] [  0%] Built target topic_tools_generate_messages_eus
+[1.266s] [  0%] Built target roscpp_generate_messages_cpp
+[1.278s] [  0%] Built target nmea_msgs_generate_messages_lisp
+[1.290s] [  0%] Built target std_msgs_generate_messages_eus
+[1.297s] [  0%] Built target roscpp_generate_messages_nodejs
+[1.298s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.315s] [  0%] Built target nmea_msgs_generate_messages_cpp
+[1.319s] [  0%] Built target roscpp_generate_messages_eus
+[1.331s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[1.341s] [  0%] Built target roscpp_generate_messages_lisp
+[1.344s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[1.354s] [  0%] Built target nmea_msgs_generate_messages_eus
+[1.359s] [  0%] Built target roscpp_generate_messages_py
+[1.371s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[1.382s] [  0%] Built target std_srvs_generate_messages_cpp
+[1.393s] [  0%] Built target std_srvs_generate_messages_eus
+[1.397s] [  0%] Built target std_srvs_generate_messages_py
+[1.405s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[1.430s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[1.430s] [  0%] Built target std_srvs_generate_messages_nodejs
+[1.430s] [  0%] Built target topic_tools_generate_messages_cpp
+[1.430s] [  0%] Built target std_srvs_generate_messages_lisp
+[1.435s] [  0%] Built target topic_tools_generate_messages_nodejs
+[1.441s] [  0%] Built target topic_tools_generate_messages_lisp
+[1.477s] [100%] Built target nmea2kml
+[1.510s] [36mInstall the project...[0m
+[1.541s] -- Install configuration: "Release"
+[1.542s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_bag_tools/lib/pkgconfig/autoware_bag_tools.pc
+[1.542s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_bag_tools/share/autoware_bag_tools/cmake/autoware_bag_toolsConfig.cmake
+[1.542s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_bag_tools/share/autoware_bag_tools/cmake/autoware_bag_toolsConfig-version.cmake
+[1.542s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_bag_tools/share/autoware_bag_tools/package.xml
+[1.543s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_bag_tools/lib/autoware_bag_tools/change_frame_id.py
+[1.543s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_bag_tools/lib/autoware_bag_tools/replace_msg_time_with_hdr.py
+[1.543s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_bag_tools/lib/autoware_bag_tools/nmea2kml
+[1.548s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_bag_tools --target install -- -j6 -l6

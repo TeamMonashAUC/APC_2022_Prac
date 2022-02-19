@@ -1,0 +1,24 @@
+[0.022s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_quickstart_examples': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_quickstart_examples -- -j6 -l6
+[0.141s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_quickstart_examples' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_quickstart_examples -- -j6 -l6
+[0.270s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_quickstart_examples': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_quickstart_examples --target tests -- -j6 -l6
+[0.340s] Built target tests
+[0.382s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_quickstart_examples' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_quickstart_examples --target tests -- -j6 -l6
+[0.442s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_quickstart_examples': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_quickstart_examples --target install -- -j6 -l6
+[0.505s] [36mInstall the project...[0m
+[0.515s] -- Install configuration: "Release"
+[0.516s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/lib/pkgconfig/autoware_quickstart_examples.pc
+[0.516s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/cmake/autoware_quickstart_examplesConfig.cmake
+[0.516s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/cmake/autoware_quickstart_examplesConfig-version.cmake
+[0.516s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/package.xml
+[0.516s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch
+[0.516s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo
+[0.517s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/my_detection.launch
+[0.517s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/my_mission_planning.launch
+[0.517s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/my_localization.launch
+[0.517s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/my_map.launch
+[0.517s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/README.md
+[0.517s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/my_motion_planning.launch
+[0.517s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/default.rviz
+[0.517s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/rosbag_demo/my_sensing.launch
+[0.517s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_quickstart_examples/share/autoware_quickstart_examples/launch/tf_local.launch
+[0.521s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_quickstart_examples' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/autoware_quickstart_examples --target install -- -j6 -l6

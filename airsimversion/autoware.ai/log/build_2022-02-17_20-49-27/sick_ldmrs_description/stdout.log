@@ -1,0 +1,16 @@
+Built target tests
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/sick_ldmrs_description/lib/pkgconfig/sick_ldmrs_description.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/cmake/sick_ldmrs_descriptionConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/cmake/sick_ldmrs_descriptionConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/launch/upload_urdf.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/launch/show_urdf.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/meshes
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/meshes/sick_ldmrs.dae
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/meshes/sick_ldmrs_color.png
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/urdf
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/urdf/sick_ldmrs.urdf.xacro
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/sick_ldmrs_description/share/sick_ldmrs_description/urdf/sick_ldmrs_macros.urdf.xacro

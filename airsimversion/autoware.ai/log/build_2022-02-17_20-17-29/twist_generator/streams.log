@@ -1,0 +1,279 @@
+[0.041s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/core_perception/twist_generator -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist_generator
+[0.135s] -- The C compiler identification is GNU 7.5.0
+[0.202s] -- The CXX compiler identification is GNU 7.5.0
+[0.207s] -- Check for working C compiler: /usr/bin/cc
+[0.282s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.283s] -- Detecting C compiler ABI info
+[0.356s] -- Detecting C compiler ABI info - done
+[0.366s] -- Detecting C compile features
+[0.595s] -- Detecting C compile features - done
+[0.601s] -- Check for working CXX compiler: /usr/bin/c++
+[0.689s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.690s] -- Detecting CXX compiler ABI info
+[0.779s] -- Detecting CXX compiler ABI info - done
+[0.789s] -- Detecting CXX compile features
+[1.196s] -- Detecting CXX compile features - done
+[1.198s] -- CUDA compilation status: .
+[1.201s] -- Using CATKIN_DEVEL_PREFIX: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator/devel
+[1.202s] -- Using CMAKE_PREFIX_PATH: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags;/opt/ros/melodic
+[1.202s] -- This workspace overlays: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs;/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags;/opt/ros/melodic
+[1.219s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[1.220s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[1.220s] -- Using Debian Python package layout
+[1.221s] -- Using empy: /usr/bin/empy
+[1.400s] -- Using CATKIN_ENABLE_TESTING: ON
+[1.400s] -- Call enable_testing()
+[1.402s] -- Using CATKIN_TEST_RESULTS_DIR: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator/test_results
+[1.426s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[1.426s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[1.448s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[1.449s] -- Looking for pthread.h
+[1.519s] -- Looking for pthread.h - found
+[1.520s] -- Looking for pthread_create
+[1.597s] -- Looking for pthread_create - not found
+[1.597s] -- Looking for pthread_create in pthreads
+[1.664s] -- Looking for pthread_create in pthreads - not found
+[1.664s] -- Looking for pthread_create in pthread
+[1.734s] -- Looking for pthread_create in pthread - found
+[1.735s] -- Found Threads: TRUE  
+[1.740s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[1.791s] -- catkin 0.7.29
+[1.791s] -- BUILD_SHARED_LIBS is on
+[1.950s] -- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[2.321s] -- Configuring done
+[2.367s] -- Generating done
+[2.379s] -- Build files have been written to: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator
+[2.390s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/core_perception/twist_generator -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist_generator
+[2.391s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator -- -j6 -l6
+[2.447s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[2.461s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[2.473s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_eus[0m
+[2.487s] [  0%] Built target pcl_msgs_generate_messages_eus
+[2.500s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[2.514s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[2.528s] [35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_lisp[0m
+[2.541s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[2.562s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[2.573s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[2.588s] [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[2.602s] [  0%] Built target std_msgs_generate_messages_py
+[2.624s] [35m[1mScanning dependencies of target autoware_msgs_generate_messages_py[0m
+[2.636s] [  0%] Built target autoware_msgs_generate_messages_py
+[2.648s] [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[2.660s] [  0%] Built target std_msgs_generate_messages_nodejs
+[2.672s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[2.685s] [  0%] Built target sensor_msgs_generate_messages_eus
+[2.696s] [35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[2.708s] [  0%] Built target _catkin_empty_exported_target
+[2.720s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[2.733s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[2.745s] [35m[1mScanning dependencies of target autoware_msgs_generate_messages_cpp[0m
+[2.757s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[2.769s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[2.781s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[2.793s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_nodejs[0m
+[2.804s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[2.816s] [35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_py[0m
+[2.828s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[2.881s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[2.952s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[2.997s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[3.035s] [  0%] Built target sensor_msgs_generate_messages_py
+[3.057s] [35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[3.070s] [  0%] Built target tf_generate_messages_py
+[3.081s] [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[3.108s] [  0%] Built target std_msgs_generate_messages_cpp
+[3.119s] [35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_py[0m
+[3.131s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[3.143s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[3.154s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[3.165s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[3.177s] [  0%] Built target geometry_msgs_generate_messages_eus
+[3.188s] [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[3.200s] [  0%] Built target std_msgs_generate_messages_lisp
+[3.211s] [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[3.223s] [  0%] Built target roscpp_generate_messages_nodejs
+[3.234s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[3.246s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[3.257s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[3.269s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[3.280s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp[0m
+[3.292s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[3.304s] [35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_cpp[0m
+[3.315s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[3.327s] [35m[1mScanning dependencies of target autoware_msgs_generate_messages_eus[0m
+[3.339s] [  0%] Built target autoware_msgs_generate_messages_eus
+[3.350s] [35m[1mScanning dependencies of target autoware_msgs_generate_messages_lisp[0m
+[3.361s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[3.372s] [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[3.391s] [  0%] Built target std_msgs_generate_messages_eus
+[3.404s] [35m[1mScanning dependencies of target autoware_msgs_generate_messages_nodejs[0m
+[3.417s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[3.429s] [35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_eus[0m
+[3.441s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[3.452s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[3.465s] [  0%] Built target actionlib_msgs_generate_messages_py
+[3.477s] [35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_lisp[0m
+[3.491s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[3.502s] [35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_nodejs[0m
+[3.515s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[3.531s] [35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_eus[0m
+[3.539s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[3.551s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[3.563s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[3.575s] [35m[1mScanning dependencies of target jsk_footstep_msgs_generate_messages_cpp[0m
+[3.587s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[3.600s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[3.613s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[3.626s] [35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[3.638s] [  0%] Built target tf_generate_messages_eus
+[3.650s] [35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[3.664s] [  0%] Built target tf_generate_messages_lisp
+[3.676s] [35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[3.689s] [  0%] Built target tf_generate_messages_nodejs
+[3.701s] [35m[1mScanning dependencies of target jsk_recognition_msgs_generate_messages_nodejs[0m
+[3.716s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[3.729s] [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[3.742s] [  0%] Built target roscpp_generate_messages_lisp
+[3.754s] [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[3.766s] [  0%] Built target roscpp_generate_messages_py
+[3.777s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[3.789s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[3.801s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[3.812s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[3.827s] [35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[3.845s] [  0%] Built target roscpp_generate_messages_eus
+[3.856s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[3.867s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[3.878s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[3.889s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[3.906s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_py[0m
+[3.919s] [  0%] Built target pcl_msgs_generate_messages_py
+[3.930s] [35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[3.941s] [  0%] Built target actionlib_generate_messages_eus
+[3.953s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[3.966s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[3.976s] [35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[3.991s] [  0%] Built target actionlib_generate_messages_lisp
+[4.003s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp[0m
+[4.017s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[4.029s] [35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[4.041s] [  0%] Built target tf_generate_messages_cpp
+[4.053s] [35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[4.064s] [  0%] Built target actionlib_generate_messages_nodejs
+[4.076s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[4.087s] [  0%] Built target tf2_msgs_generate_messages_eus
+[4.099s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[4.110s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[4.121s] [35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[4.134s] [  0%] Built target actionlib_generate_messages_py
+[4.145s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[4.157s] [  0%] Built target tf2_msgs_generate_messages_py
+[4.169s] [35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[4.180s] [  0%] Built target actionlib_generate_messages_cpp
+[4.192s] [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[4.209s] [  0%] Built target roscpp_generate_messages_cpp
+[4.221s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[4.232s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[4.244s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[4.256s] [  0%] Built target geometry_msgs_generate_messages_py
+[4.269s] [35m[1mScanning dependencies of target vehicle_status_converter[0m
+[4.301s] [ 33%] [32mBuilding CXX object CMakeFiles/vehicle_status_converter.dir/src/vehicle_status_converter.cpp.o[0m
+[8.259s] [ 66%] [32mBuilding CXX object CMakeFiles/vehicle_status_converter.dir/src/vehicle_status_converter_node.cpp.o[0m
+[11.028s] [100%] [32m[1mLinking CXX executable devel/lib/twist_generator/vehicle_status_converter[0m
+[11.238s] [100%] Built target vehicle_status_converter
+[11.254s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator -- -j6 -l6
+[11.375s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator --target tests -- -j6 -l6
+[11.452s] [35m[1mScanning dependencies of target gtest[0m
+[11.471s] [ 20%] [32mBuilding CXX object gtest/googlemock/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.o[0m
+[16.529s] [ 40%] [32m[1mLinking CXX shared library libgtest.so[0m
+[16.659s] [ 40%] Built target gtest
+[16.672s] [35m[1mScanning dependencies of target vehicle_status_converter-test[0m
+[16.710s] [ 60%] [32mBuilding CXX object CMakeFiles/vehicle_status_converter-test.dir/test/src/test_vehicle_status_converter.cpp.o[0m
+[19.462s] [ 80%] [32mBuilding CXX object CMakeFiles/vehicle_status_converter-test.dir/src/vehicle_status_converter.cpp.o[0m
+[23.405s] [100%] [32m[1mLinking CXX executable devel/lib/twist_generator/vehicle_status_converter-test[0m
+[23.611s] [100%] Built target vehicle_status_converter-test
+[23.623s] [35m[1mScanning dependencies of target tests[0m
+[23.634s] [100%] Built target tests
+[23.651s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator --target tests -- -j6 -l6
+[23.753s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator --target install -- -j6 -l6
+[23.813s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[23.835s] [  0%] Built target pcl_msgs_generate_messages_eus
+[23.858s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[23.881s] [  0%] Built target jsk_recognition_msgs_generate_messages_lisp
+[23.904s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[23.928s] [  0%] Built target std_msgs_generate_messages_py
+[23.951s] [  0%] Built target autoware_msgs_generate_messages_py
+[23.973s] [  0%] Built target std_msgs_generate_messages_nodejs
+[23.995s] [  0%] Built target sensor_msgs_generate_messages_eus
+[24.018s] [  0%] Built target _catkin_empty_exported_target
+[24.040s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[24.062s] [  0%] Built target autoware_msgs_generate_messages_cpp
+[24.083s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[24.105s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[24.126s] [  0%] Built target jsk_recognition_msgs_generate_messages_py
+[24.150s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[24.173s] [  0%] Built target sensor_msgs_generate_messages_py
+[24.204s] [  0%] Built target tf_generate_messages_py
+[24.229s] [  0%] Built target std_msgs_generate_messages_cpp
+[24.260s] [  0%] Built target jsk_footstep_msgs_generate_messages_py
+[24.283s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[24.317s] [  0%] Built target geometry_msgs_generate_messages_eus
+[24.342s] [  0%] Built target std_msgs_generate_messages_lisp
+[24.368s] [  0%] Built target roscpp_generate_messages_nodejs
+[24.395s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[24.417s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[24.441s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[24.466s] [  0%] Built target jsk_recognition_msgs_generate_messages_cpp
+[24.490s] [  0%] Built target autoware_msgs_generate_messages_eus
+[24.514s] [  0%] Built target autoware_msgs_generate_messages_lisp
+[24.539s] [  0%] Built target std_msgs_generate_messages_eus
+[24.562s] [  0%] Built target autoware_msgs_generate_messages_nodejs
+[24.586s] [  0%] Built target jsk_footstep_msgs_generate_messages_eus
+[24.610s] [  0%] Built target actionlib_msgs_generate_messages_py
+[24.633s] [  0%] Built target jsk_footstep_msgs_generate_messages_lisp
+[24.657s] [  0%] Built target jsk_footstep_msgs_generate_messages_nodejs
+[24.683s] [  0%] Built target jsk_recognition_msgs_generate_messages_eus
+[24.709s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[24.732s] [  0%] Built target jsk_footstep_msgs_generate_messages_cpp
+[24.756s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[24.781s] [  0%] Built target tf_generate_messages_eus
+[24.804s] [  0%] Built target tf_generate_messages_lisp
+[24.826s] [  0%] Built target tf_generate_messages_nodejs
+[24.847s] [  0%] Built target jsk_recognition_msgs_generate_messages_nodejs
+[24.869s] [  0%] Built target roscpp_generate_messages_lisp
+[24.894s] [  0%] Built target roscpp_generate_messages_py
+[24.918s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[24.941s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[24.964s] [  0%] Built target roscpp_generate_messages_eus
+[24.992s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[25.016s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[25.044s] [  0%] Built target pcl_msgs_generate_messages_py
+[25.068s] [  0%] Built target actionlib_generate_messages_eus
+[25.093s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[25.118s] [  0%] Built target actionlib_generate_messages_lisp
+[25.141s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[25.163s] [  0%] Built target tf_generate_messages_cpp
+[25.188s] [  0%] Built target actionlib_generate_messages_nodejs
+[25.210s] [  0%] Built target tf2_msgs_generate_messages_eus
+[25.233s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[25.255s] [  0%] Built target actionlib_generate_messages_py
+[25.280s] [  0%] Built target tf2_msgs_generate_messages_py
+[25.304s] [  0%] Built target actionlib_generate_messages_cpp
+[25.324s] [  0%] Built target roscpp_generate_messages_cpp
+[25.347s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[25.367s] [  0%] Built target geometry_msgs_generate_messages_py
+[25.399s] [100%] Built target vehicle_status_converter
+[25.422s] [36mInstall the project...[0m
+[25.431s] -- Install configuration: "Release"
+[25.432s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist_generator/lib/pkgconfig/twist_generator.pc
+[25.432s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist_generator/share/twist_generator/cmake/twist_generatorConfig.cmake
+[25.432s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist_generator/share/twist_generator/cmake/twist_generatorConfig-version.cmake
+[25.432s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist_generator/share/twist_generator/package.xml
+[25.432s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist_generator/lib/twist_generator/vehicle_status_converter
+[25.433s] -- Set runtime path of "/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist_generator/lib/twist_generator/vehicle_status_converter" to ""
+[25.433s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist_generator/share/twist_generator/launch
+[25.433s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist_generator/share/twist_generator/launch/vehicle_status_converter.launch
+[25.434s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist_generator/include/twist_generator
+[25.434s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist_generator/include/twist_generator/vehicle_status_converter.hpp
+[25.440s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib:${LD_LIBRARY_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:${PYTHONPATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/amathutils_lib/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/share:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist_generator --target install -- -j6 -l6

@@ -1,0 +1,17 @@
+Built target tests
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/lib/pkgconfig/lanelet2_maps.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/cmake/lanelet2_mapsConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/cmake/lanelet2_mapsConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/include/lanelet2_maps
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/include/lanelet2_maps/internal
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/res
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/res/mapping_example.osm
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/style_images.zip
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/lines.mapcss
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/.gitignore
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/laneletpresets.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_maps/share/lanelet2_maps/josm/lanelets.mapcss

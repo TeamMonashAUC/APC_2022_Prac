@@ -1,0 +1,16 @@
+[100%] Built target pcl_omp_registration
+Built target tests
+[100%] Built target pcl_omp_registration
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/pcl_omp_registration/lib/pkgconfig/pcl_omp_registration.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/pcl_omp_registration/share/pcl_omp_registration/cmake/pcl_omp_registrationConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/pcl_omp_registration/share/pcl_omp_registration/cmake/pcl_omp_registrationConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/pcl_omp_registration/share/pcl_omp_registration/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/ndt.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/impl
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/impl/ndt.hpp
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/impl/registration.hpp
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/pcl_omp_registration/include/pcl_omp_registration/registration.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/pcl_omp_registration/lib/libpcl_omp_registration.so

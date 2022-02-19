@@ -1,0 +1,697 @@
+[0.065s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs -- -j6 -l6
+[0.249s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_SideStrip
+[0.271s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_VectorArray
+[0.274s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CrossWalkArray
+[0.277s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadMark
+[0.284s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Gutter
+[0.298s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_DTLaneArray
+[0.385s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_WallArray
+[0.403s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_ZebraZoneArray
+[0.422s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_WhiteLine
+[0.428s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_WhiteLineArray
+[0.445s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_ZebraZone
+[0.499s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadSign
+[0.535s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Lane
+[0.540s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_StopLineArray
+[0.545s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Box
+[0.547s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_UtilityPole
+[0.649s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_SignalArray
+[0.649s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadPoleArray
+[0.649s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_GuardRail
+[0.686s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Signal
+[0.690s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CrossRoadArray
+[0.710s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_StreetLight
+[0.777s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadEdge
+[0.780s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_SideStripArray
+[0.800s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_FenceArray
+[0.807s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_PointArray
+[0.814s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_DTLane
+[0.823s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Point
+[0.904s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_WayAreaArray
+[0.929s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_WayArea
+[0.944s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_LaneArray
+[0.953s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_GutterArray
+[0.963s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_StopLine
+[1.000s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_AreaArray
+[1.015s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CurveMirror
+[1.027s] [  0%] Built target std_msgs_generate_messages_py
+[1.035s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_DriveOnPortion
+[1.056s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadEdgeArray
+[1.064s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_NodeArray
+[1.099s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CrossRoad
+[1.112s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Pole
+[1.145s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_SideWalkArray
+[1.160s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RailCrossing
+[1.176s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Node
+[1.199s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadPole
+[1.206s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Curb
+[1.232s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RailCrossingArray
+[1.234s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadSignArray
+[1.298s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_LineArray
+[1.313s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_SideWalk
+[1.314s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadMarkArray
+[1.328s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_DriveOnPortionArray
+[1.334s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_GuardRailArray
+[1.429s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Fence
+[1.429s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Line
+[1.448s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CurbArray
+[1.464s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_BoxArray
+[1.469s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Vector
+[1.477s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_StreetLightArray
+[1.543s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Wall
+[1.579s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CurveMirrorArray
+[1.586s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Area
+[1.587s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_UtilityPoleArray
+[1.623s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CrossWalk
+[1.623s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_PoleArray
+[1.632s] [  0%] Built target std_msgs_generate_messages_lisp
+[1.636s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.654s] [  0%] Built target std_msgs_generate_messages_nodejs
+[1.659s] [  0%] Built target std_msgs_generate_messages_eus
+[1.702s] [ 20%] Built target vector_map_msgs_generate_messages_py
+[1.705s] [ 40%] Built target vector_map_msgs_generate_messages_cpp
+[1.724s] [ 59%] Built target vector_map_msgs_generate_messages_nodejs
+[1.727s] [ 79%] Built target vector_map_msgs_generate_messages_lisp
+[1.728s] [100%] Built target vector_map_msgs_generate_messages_eus
+[1.754s] [100%] Built target vector_map_msgs_generate_messages
+[1.772s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs -- -j6 -l6
+[1.948s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs --target tests -- -j6 -l6
+[2.088s] Built target tests
+[2.103s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs --target tests -- -j6 -l6
+[2.459s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs --target install -- -j6 -l6
+[2.555s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Gutter
+[2.566s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CrossWalkArray
+[2.575s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_SideStrip
+[2.580s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_DTLaneArray
+[2.585s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_VectorArray
+[2.614s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadMark
+[2.624s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_WallArray
+[2.648s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_WhiteLine
+[2.662s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_ZebraZoneArray
+[2.677s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadSign
+[2.688s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_ZebraZone
+[2.705s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Box
+[2.712s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_StopLineArray
+[2.737s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_UtilityPole
+[2.757s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_WhiteLineArray
+[2.799s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_SignalArray
+[2.805s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Lane
+[2.806s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Signal
+[2.848s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_StreetLight
+[2.858s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadPoleArray
+[2.885s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_GuardRail
+[2.937s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_DTLane
+[2.947s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_FenceArray
+[2.953s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_PointArray
+[2.972s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_SideStripArray
+[2.988s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadEdge
+[3.016s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CrossRoadArray
+[3.051s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Point
+[3.056s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_WayAreaArray
+[3.057s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_WayArea
+[3.110s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_GutterArray
+[3.117s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_StopLine
+[3.141s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CurveMirror
+[3.176s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_DriveOnPortion
+[3.176s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_LaneArray
+[3.202s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_AreaArray
+[3.216s] [  0%] Built target std_msgs_generate_messages_py
+[3.254s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadEdgeArray
+[3.317s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_NodeArray
+[3.333s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadPole
+[3.333s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Node
+[3.336s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_SideWalkArray
+[3.345s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CrossRoad
+[3.348s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Pole
+[3.445s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_DriveOnPortionArray
+[3.459s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadSignArray
+[3.486s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RailCrossingArray
+[3.490s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Curb
+[3.492s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RailCrossing
+[3.539s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_GuardRailArray
+[3.573s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Fence
+[3.573s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_LineArray
+[3.574s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_SideWalk
+[3.591s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_RoadMarkArray
+[3.601s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CurbArray
+[3.658s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_BoxArray
+[3.680s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Vector
+[3.689s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_StreetLightArray
+[3.710s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CurveMirrorArray
+[3.765s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Line
+[3.809s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Wall
+[3.815s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_Area
+[3.817s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_CrossWalk
+[3.840s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_PoleArray
+[3.856s] [  0%] Built target std_msgs_generate_messages_eus
+[3.857s] [  0%] Built target _vector_map_msgs_generate_messages_check_deps_UtilityPoleArray
+[3.860s] [  0%] Built target std_msgs_generate_messages_nodejs
+[3.868s] [  0%] Built target std_msgs_generate_messages_lisp
+[3.906s] [ 20%] Built target vector_map_msgs_generate_messages_eus
+[3.914s] [ 41%] Built target vector_map_msgs_generate_messages_py
+[3.932s] [ 60%] Built target vector_map_msgs_generate_messages_nodejs
+[3.940s] [ 80%] Built target vector_map_msgs_generate_messages_lisp
+[3.950s] [ 80%] Built target std_msgs_generate_messages_cpp
+[3.983s] [100%] Built target vector_map_msgs_generate_messages_cpp
+[4.033s] [100%] Built target vector_map_msgs_generate_messages
+[4.087s] [36mInstall the project...[0m
+[4.094s] -- Install configuration: "Release"
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/Area.msg
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/AreaArray.msg
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/Box.msg
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/BoxArray.msg
+[4.094s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/CrossRoad.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/CrossRoadArray.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/CrossWalk.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/CrossWalkArray.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/Curb.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/CurbArray.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/CurveMirror.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/CurveMirrorArray.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/DTLane.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/DTLaneArray.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/DriveOnPortion.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/DriveOnPortionArray.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/Fence.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/FenceArray.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/GuardRail.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/GuardRailArray.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/Gutter.msg
+[4.095s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/GutterArray.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/Lane.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/LaneArray.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/Line.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/LineArray.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/Node.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/NodeArray.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/Point.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/PointArray.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/Pole.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/PoleArray.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/RailCrossing.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/RailCrossingArray.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/RoadEdge.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/RoadEdgeArray.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/RoadMark.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/RoadMarkArray.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/RoadPole.msg
+[4.096s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/RoadPoleArray.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/RoadSign.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/RoadSignArray.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/SideStrip.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/SideStripArray.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/SideWalk.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/SideWalkArray.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/Signal.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/SignalArray.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/StopLine.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/StopLineArray.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/StreetLight.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/StreetLightArray.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/UtilityPole.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/UtilityPoleArray.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/Vector.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/VectorArray.msg
+[4.097s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/Wall.msg
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/WallArray.msg
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/WayArea.msg
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/WayAreaArray.msg
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/WhiteLine.msg
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/WhiteLineArray.msg
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/ZebraZone.msg
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/msg/ZebraZoneArray.msg
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/cmake/vector_map_msgs-msg-paths.cmake
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/WhiteLine.h
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/Point.h
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/DTLaneArray.h
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/AreaArray.h
+[4.098s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/CrossWalkArray.h
+[4.099s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/Vector.h
+[4.099s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/CurveMirror.h
+[4.099s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/RoadPole.h
+[4.099s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/SideStrip.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/LineArray.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/StopLine.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/SideStripArray.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/GuardRailArray.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/DriveOnPortion.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/NodeArray.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/CurbArray.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/DTLane.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/Box.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/Pole.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/PoleArray.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/Gutter.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/RoadSignArray.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/PointArray.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/RoadMark.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/Node.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/Lane.h
+[4.100s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/RoadSign.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/GutterArray.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/RoadEdge.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/WhiteLineArray.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/WallArray.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/Wall.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/UtilityPole.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/CurveMirrorArray.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/SideWalk.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/WayAreaArray.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/FenceArray.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/RailCrossing.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/Line.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/RoadEdgeArray.h
+[4.101s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/StreetLight.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/Area.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/GuardRail.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/StreetLightArray.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/SideWalkArray.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/Fence.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/ZebraZoneArray.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/ZebraZone.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/DriveOnPortionArray.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/SignalArray.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/RoadPoleArray.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/BoxArray.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/CrossRoadArray.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/CrossRoad.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/RoadMarkArray.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/UtilityPoleArray.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/Curb.h
+[4.102s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/CrossWalk.h
+[4.103s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/WayArea.h
+[4.103s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/LaneArray.h
+[4.103s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/Signal.h
+[4.103s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/VectorArray.h
+[4.103s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/StopLineArray.h
+[4.103s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/include/vector_map_msgs/RailCrossingArray.h
+[4.103s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs
+[4.103s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg
+[4.103s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/CurbArray.l
+[4.103s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/SideStripArray.l
+[4.103s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/UtilityPoleArray.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/UtilityPole.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/PointArray.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/NodeArray.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/Lane.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/RoadSignArray.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/DriveOnPortionArray.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/VectorArray.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/Fence.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/CrossRoad.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/SideWalkArray.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/WayAreaArray.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/RoadEdgeArray.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/RailCrossing.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/WhiteLine.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/RoadPole.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/Wall.l
+[4.104s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/LineArray.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/LaneArray.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/WayArea.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/DTLaneArray.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/SideStrip.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/PoleArray.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/CrossRoadArray.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/RoadSign.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/DTLane.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/StopLine.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/Pole.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/WallArray.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/RoadMark.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/CrossWalkArray.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/StreetLightArray.l
+[4.105s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/GuardRail.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/ZebraZoneArray.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/Point.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/Gutter.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/Area.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/Curb.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/RoadEdge.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/FenceArray.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/StopLineArray.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/RoadMarkArray.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/ZebraZone.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/CurveMirror.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/StreetLight.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/SideWalk.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/GuardRailArray.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/RailCrossingArray.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/BoxArray.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/Vector.l
+[4.106s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/WhiteLineArray.l
+[4.107s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/GutterArray.l
+[4.107s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/CurveMirrorArray.l
+[4.107s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/DriveOnPortion.l
+[4.107s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/AreaArray.l
+[4.107s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/Box.l
+[4.107s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/Line.l
+[4.107s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/Signal.l
+[4.107s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/CrossWalk.l
+[4.107s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/SignalArray.l
+[4.107s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/Node.l
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/msg/RoadPoleArray.l
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/roseus/ros/vector_map_msgs/manifest.l
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_PointArray.lisp
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_WhiteLine.lisp
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/CurbArray.lisp
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_Signal.lisp
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_Node.lisp
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_LaneArray.lisp
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_VectorArray.lisp
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/FenceArray.lisp
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/Line.lisp
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/UtilityPoleArray.lisp
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/WayAreaArray.lisp
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/LineArray.lisp
+[4.108s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_Line.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/vector_map_msgs-msg.asd
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/AreaArray.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_FenceArray.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/Fence.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_SideWalkArray.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/RailCrossing.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/LaneArray.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/Lane.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/SideStrip.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/VectorArray.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_DTLaneArray.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/CrossRoad.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_WhiteLineArray.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_WayArea.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/SideStripArray.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package.lisp
+[4.109s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_ZebraZone.lisp
+[4.112s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_NodeArray.lisp
+[4.117s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_DriveOnPortionArray.lisp
+[4.118s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/Signal.lisp
+[4.118s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_Box.lisp
+[4.118s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_CurbArray.lisp
+[4.118s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/CrossWalk.lisp
+[4.118s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/DTLane.lisp
+[4.118s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_CrossWalkArray.lisp
+[4.118s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/WallArray.lisp
+[4.118s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/Gutter.lisp
+[4.118s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_Gutter.lisp
+[4.118s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/CurveMirror.lisp
+[4.118s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/StreetLight.lisp
+[4.118s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/NodeArray.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_RoadMarkArray.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_RoadPole.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_BoxArray.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/UtilityPole.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/Point.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/Wall.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_UtilityPole.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/CrossRoadArray.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/ZebraZoneArray.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/StopLineArray.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_RoadSignArray.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/RoadPoleArray.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/GuardRailArray.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_GuardRail.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/SignalArray.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_RoadMark.lisp
+[4.119s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_StreetLightArray.lisp
+[4.120s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_AreaArray.lisp
+[4.120s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/GutterArray.lisp
+[4.120s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_CrossRoadArray.lisp
+[4.120s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/DriveOnPortionArray.lisp
+[4.120s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/RoadEdgeArray.lisp
+[4.120s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_RailCrossingArray.lisp
+[4.120s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_GuardRailArray.lisp
+[4.120s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_GutterArray.lisp
+[4.120s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_SideWalk.lisp
+[4.120s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/RoadEdge.lisp
+[4.120s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_CurveMirrorArray.lisp
+[4.120s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/RoadMarkArray.lisp
+[4.120s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/DTLaneArray.lisp
+[4.121s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_CrossWalk.lisp
+[4.121s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_DTLane.lisp
+[4.122s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/Node.lisp
+[4.122s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/Pole.lisp
+[4.122s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_WallArray.lisp
+[4.122s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_LineArray.lisp
+[4.122s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/PointArray.lisp
+[4.122s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_RoadSign.lisp
+[4.122s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/RailCrossingArray.lisp
+[4.122s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/WhiteLine.lisp
+[4.122s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_RoadPoleArray.lisp
+[4.123s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_StopLine.lisp
+[4.123s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_StopLineArray.lisp
+[4.123s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_RoadEdge.lisp
+[4.123s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_Area.lisp
+[4.123s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_DriveOnPortion.lisp
+[4.123s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/SideWalkArray.lisp
+[4.123s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_RailCrossing.lisp
+[4.123s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_Curb.lisp
+[4.123s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/Area.lisp
+[4.123s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/RoadSignArray.lisp
+[4.123s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_PoleArray.lisp
+[4.123s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_SignalArray.lisp
+[4.124s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_SideStripArray.lisp
+[4.124s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_Lane.lisp
+[4.124s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_CurveMirror.lisp
+[4.124s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/Box.lisp
+[4.124s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/RoadPole.lisp
+[4.124s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/WhiteLineArray.lisp
+[4.124s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/ZebraZone.lisp
+[4.124s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/DriveOnPortion.lisp
+[4.124s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/GuardRail.lisp
+[4.124s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_Fence.lisp
+[4.124s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_SideStrip.lisp
+[4.124s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_CrossRoad.lisp
+[4.125s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/RoadSign.lisp
+[4.125s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/Vector.lisp
+[4.125s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_Wall.lisp
+[4.125s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/RoadMark.lisp
+[4.125s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_Point.lisp
+[4.125s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/StopLine.lisp
+[4.125s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/CurveMirrorArray.lisp
+[4.125s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/StreetLightArray.lisp
+[4.125s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_WayAreaArray.lisp
+[4.125s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/SideWalk.lisp
+[4.125s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_ZebraZoneArray.lisp
+[4.125s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_StreetLight.lisp
+[4.125s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/BoxArray.lisp
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/Curb.lisp
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_Pole.lisp
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/WayArea.lisp
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_UtilityPoleArray.lisp
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_RoadEdgeArray.lisp
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/_package_Vector.lisp
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/PoleArray.lisp
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/common-lisp/ros/vector_map_msgs/msg/CrossWalkArray.lisp
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/Point.js
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/RoadPole.js
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/RoadSign.js
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/GutterArray.js
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/CrossRoad.js
+[4.126s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/Node.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/PoleArray.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/GuardRail.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/_index.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/Curb.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/DTLane.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/CurveMirror.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/RoadEdge.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/Line.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/SideWalk.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/VectorArray.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/WayArea.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/CrossWalkArray.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/Wall.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/BoxArray.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/Box.js
+[4.127s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/GuardRailArray.js
+[4.128s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/DriveOnPortionArray.js
+[4.128s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/NodeArray.js
+[4.128s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/SideWalkArray.js
+[4.128s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/UtilityPole.js
+[4.128s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/Vector.js
+[4.128s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/CurbArray.js
+[4.128s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/DriveOnPortion.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/FenceArray.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/Fence.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/Pole.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/StopLineArray.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/SignalArray.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/RailCrossingArray.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/UtilityPoleArray.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/SideStrip.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/RoadEdgeArray.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/LaneArray.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/StreetLightArray.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/LineArray.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/RoadMark.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/WallArray.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/AreaArray.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/CurveMirrorArray.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/StreetLight.js
+[4.129s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/CrossRoadArray.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/CrossWalk.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/WhiteLine.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/DTLaneArray.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/Gutter.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/RoadPoleArray.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/Lane.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/StopLine.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/ZebraZoneArray.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/RoadMarkArray.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/WhiteLineArray.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/RailCrossing.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/WayAreaArray.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/RoadSignArray.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/Signal.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/PointArray.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/SideStripArray.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/Area.js
+[4.130s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/msg/ZebraZone.js
+[4.131s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/gennodejs/ros/vector_map_msgs/_index.js
+[4.143s] Listing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs/devel/lib/python2.7/dist-packages/vector_map_msgs ...
+[4.143s] Listing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs/devel/lib/python2.7/dist-packages/vector_map_msgs/msg ...
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs
+[4.143s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg
+[4.144s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CrossRoad.py
+[4.153s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RailCrossingArray.pyc
+[4.153s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_WhiteLine.py
+[4.153s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CrossWalkArray.py
+[4.153s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_GutterArray.py
+[4.153s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Point.py
+[4.153s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_ZebraZoneArray.pyc
+[4.154s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_StreetLight.py
+[4.154s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_StreetLightArray.py
+[4.154s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_DriveOnPortion.py
+[4.154s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_SideWalk.pyc
+[4.154s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadEdge.py
+[4.154s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadPole.pyc
+[4.154s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_LineArray.py
+[4.154s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RailCrossing.py
+[4.154s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_SideStripArray.py
+[4.154s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_VectorArray.py
+[4.154s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_WallArray.py
+[4.154s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Pole.py
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_DriveOnPortionArray.py
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Node.pyc
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadMark.py
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_DriveOnPortionArray.pyc
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CurveMirrorArray.pyc
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CrossRoad.pyc
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadSignArray.pyc
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/__init__.pyc
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_PoleArray.pyc
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Area.pyc
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_WhiteLine.pyc
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_LineArray.pyc
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_SideWalkArray.py
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CurveMirrorArray.py
+[4.155s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Fence.py
+[4.156s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_AreaArray.pyc
+[4.156s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_DriveOnPortion.pyc
+[4.156s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CurveMirror.pyc
+[4.156s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Vector.pyc
+[4.156s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CrossRoadArray.py
+[4.156s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadEdgeArray.py
+[4.156s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Wall.pyc
+[4.156s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Pole.pyc
+[4.156s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_StopLine.pyc
+[4.156s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Node.py
+[4.156s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_GutterArray.pyc
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Gutter.py
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_SideStrip.pyc
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_DTLane.py
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_GuardRailArray.pyc
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_NodeArray.py
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadEdge.pyc
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Vector.py
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Curb.pyc
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Wall.py
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_UtilityPoleArray.py
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_SideWalk.py
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_PointArray.py
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_VectorArray.pyc
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CurbArray.pyc
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CrossWalk.pyc
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Fence.pyc
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_WhiteLineArray.py
+[4.157s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Line.py
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Gutter.pyc
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadPoleArray.py
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_SignalArray.pyc
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadSignArray.py
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadSign.pyc
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CrossWalk.py
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_WallArray.pyc
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Signal.py
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadPole.py
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_WayAreaArray.py
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_BoxArray.pyc
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_FenceArray.pyc
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_DTLaneArray.py
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Lane.pyc
+[4.158s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Lane.py
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_ZebraZone.py
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_DTLane.pyc
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_StopLine.py
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_GuardRail.pyc
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RailCrossingArray.py
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RailCrossing.pyc
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CrossRoadArray.pyc
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Box.pyc
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_WayArea.pyc
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CurbArray.py
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Line.pyc
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_UtilityPole.pyc
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_DTLaneArray.pyc
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_ZebraZoneArray.py
+[4.159s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Signal.pyc
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadMarkArray.pyc
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_GuardRailArray.py
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/__init__.py
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadMark.pyc
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadSign.py
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_PointArray.pyc
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CrossWalkArray.pyc
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Point.pyc
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_LaneArray.pyc
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_WayAreaArray.pyc
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_UtilityPoleArray.pyc
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_AreaArray.py
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_ZebraZone.pyc
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_LaneArray.py
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_SignalArray.py
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_NodeArray.pyc
+[4.160s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_UtilityPole.py
+[4.161s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_FenceArray.py
+[4.161s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_WhiteLineArray.pyc
+[4.161s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadEdgeArray.pyc
+[4.161s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadPoleArray.pyc
+[4.161s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_RoadMarkArray.py
+[4.161s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_StopLineArray.pyc
+[4.161s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_StopLineArray.py
+[4.161s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_StreetLight.pyc
+[4.162s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_WayArea.py
+[4.162s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_SideWalkArray.pyc
+[4.162s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Box.py
+[4.162s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_SideStripArray.pyc
+[4.162s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_StreetLightArray.pyc
+[4.162s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_CurveMirror.py
+[4.162s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_BoxArray.py
+[4.162s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_PoleArray.py
+[4.162s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_SideStrip.py
+[4.162s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Curb.py
+[4.162s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_GuardRail.py
+[4.162s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/msg/_Area.py
+[4.162s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/__init__.pyc
+[4.163s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/python2.7/dist-packages/vector_map_msgs/__init__.py
+[4.163s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/lib/pkgconfig/vector_map_msgs.pc
+[4.163s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/cmake/vector_map_msgs-msg-extras.cmake
+[4.163s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/cmake/vector_map_msgsConfig.cmake
+[4.163s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/cmake/vector_map_msgsConfig-version.cmake
+[4.163s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/vector_map_msgs/share/vector_map_msgs/package.xml
+[4.163s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/vector_map_msgs --target install -- -j6 -l6

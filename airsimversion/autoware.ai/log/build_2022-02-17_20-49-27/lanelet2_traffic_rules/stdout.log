@@ -1,0 +1,24 @@
+[  0%] Built target _catkin_empty_exported_target
+[100%] Built target lanelet2_traffic_rules
+[  0%] Built target _catkin_empty_exported_target
+[ 20%] Built target gtest
+[ 40%] Built target gtest_main
+[ 80%] Built target lanelet2_traffic_rules
+[100%] Built target lanelet2_traffic_rules-lanelet2_traffic_rules-test
+[100%] Built target tests
+[  0%] Built target _catkin_empty_exported_target
+[100%] Built target lanelet2_traffic_rules
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/pkgconfig/lanelet2_traffic_rules.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/share/lanelet2_traffic_rules/cmake/lanelet2_traffic_rulesConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/share/lanelet2_traffic_rules/cmake/lanelet2_traffic_rulesConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/share/lanelet2_traffic_rules/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/lib/liblanelet2_traffic_rules.so
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/internal
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/TrafficRulesFactory.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/Exceptions.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/GenericTrafficRules.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/GermanTrafficRules.h
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/lanelet2_traffic_rules/include/lanelet2_traffic_rules/TrafficRules.h

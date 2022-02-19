@@ -1,0 +1,449 @@
+[0.014s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/utilities/kitti_player -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player
+[0.094s] -- The C compiler identification is GNU 7.5.0
+[0.159s] -- The CXX compiler identification is GNU 7.5.0
+[0.165s] -- Check for working C compiler: /usr/bin/cc
+[0.236s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.240s] -- Detecting C compiler ABI info
+[0.311s] -- Detecting C compiler ABI info - done
+[0.320s] -- Detecting C compile features
+[0.539s] -- Detecting C compile features - done
+[0.540s] -- Check for working CXX compiler: /usr/bin/c++
+[0.626s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.626s] -- Detecting CXX compiler ABI info
+[0.711s] -- Detecting CXX compiler ABI info - done
+[0.720s] -- Detecting CXX compile features
+[1.088s] -- Detecting CXX compile features - done
+[1.090s] -- CUDA compilation status: .
+[1.092s] -- Using CATKIN_DEVEL_PREFIX: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player/devel
+[1.092s] -- Using CMAKE_PREFIX_PATH: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags;/opt/ros/melodic
+[1.093s] -- This workspace overlays: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags;/opt/ros/melodic
+[1.115s] -- Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2") 
+[1.115s] -- Using PYTHON_EXECUTABLE: /usr/bin/python2
+[1.116s] -- Using Debian Python package layout
+[1.116s] -- Using empy: /usr/bin/empy
+[1.300s] -- Using CATKIN_ENABLE_TESTING: ON
+[1.300s] -- Call enable_testing()
+[1.302s] -- Using CATKIN_TEST_RESULTS_DIR: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player/test_results
+[1.325s] -- Found gtest sources under '/usr/src/googletest': gtests will be built
+[1.325s] -- Found gmock sources under '/usr/src/googletest': gmock will be built
+[1.339s] -- Found PythonInterp: /usr/bin/python2 (found version "2.7.17") 
+[1.340s] -- Looking for pthread.h
+[1.412s] -- Looking for pthread.h - found
+[1.412s] -- Looking for pthread_create
+[1.488s] -- Looking for pthread_create - not found
+[1.488s] -- Looking for pthread_create in pthreads
+[1.555s] -- Looking for pthread_create in pthreads - not found
+[1.555s] -- Looking for pthread_create in pthread
+[1.625s] -- Looking for pthread_create in pthread - found
+[1.626s] -- Found Threads: TRUE  
+[1.631s] -- Using Python nosetests: /usr/bin/nosetests-2.7
+[1.678s] -- catkin 0.7.29
+[1.678s] -- BUILD_SHARED_LIBS is on
+[2.449s] -- Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[2.871s] -- Checking for module 'eigen3'
+[2.889s] --   Found eigen3, version 3.3.4
+[2.940s] -- Found eigen: /usr/include/eigen3  
+[3.020s] -- Boost version: 1.65.1
+[3.020s] -- Found the following Boost libraries:
+[3.020s] --   system
+[3.020s] --   filesystem
+[3.020s] --   thread
+[3.020s] --   date_time
+[3.021s] --   iostreams
+[3.021s] --   serialization
+[3.021s] --   chrono
+[3.021s] --   atomic
+[3.021s] --   regex
+[3.025s] -- Checking for module 'libopenni'
+[3.042s] --   Found libopenni, version 1.5.4.0
+[3.091s] -- Found openni: /usr/lib/libOpenNI.so  
+[3.093s] -- Checking for module 'libopenni2'
+[3.111s] --   Found libopenni2, version 2.2.0.3
+[3.163s] -- Found OpenNI2: /usr/lib/libOpenNI2.so  
+[3.169s] -- Could NOT find ensenso (missing: ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR) 
+[3.169s] ** WARNING ** io features related to ensenso will be disabled
+[3.173s] -- Could NOT find DAVIDSDK (missing: DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR) 
+[3.173s] ** WARNING ** io features related to davidSDK will be disabled
+[3.174s] -- Could NOT find DSSDK (missing: _DSSDK_LIBRARIES) 
+[3.175s] ** WARNING ** io features related to dssdk will be disabled
+[3.175s] ** WARNING ** io features related to pcap will be disabled
+[3.175s] ** WARNING ** io features related to png will be disabled
+[3.246s] -- The imported target "vtkRenderingPythonTkWidgets" references the file
+[3.246s]    "/usr/lib/x86_64-linux-gnu/libvtkRenderingPythonTkWidgets.so"
+[3.247s] but this file does not exist.  Possible reasons include:
+[3.247s] * The file was deleted, renamed, or moved to another location.
+[3.247s] * An install or uninstall procedure did not complete successfully.
+[3.247s] * The installation package was faulty and contained
+[3.247s]    "/usr/lib/cmake/vtk-6.3/VTKTargets.cmake"
+[3.247s] but not all the files it references.
+[3.247s] 
+[3.247s] -- The imported target "vtk" references the file
+[3.247s]    "/usr/bin/vtk"
+[3.247s] but this file does not exist.  Possible reasons include:
+[3.247s] * The file was deleted, renamed, or moved to another location.
+[3.247s] * An install or uninstall procedure did not complete successfully.
+[3.248s] * The installation package was faulty and contained
+[3.248s]    "/usr/lib/cmake/vtk-6.3/VTKTargets.cmake"
+[3.248s] but not all the files it references.
+[3.248s] 
+[3.321s] -- Found libusb-1.0: /usr/include  
+[3.321s] ** WARNING ** io features related to libusb-1.0 will be disabled
+[3.322s] -- Checking for module 'flann'
+[3.341s] --   Found flann, version 1.9.1
+[3.394s] -- Found Flann: /usr/lib/x86_64-linux-gnu/libflann_cpp_s.a  
+[3.441s] -- Could NOT find ensenso (missing: ENSENSO_LIBRARY ENSENSO_INCLUDE_DIR) 
+[3.441s] ** WARNING ** visualization features related to ensenso will be disabled
+[3.445s] -- Could NOT find DAVIDSDK (missing: DAVIDSDK_LIBRARY DAVIDSDK_INCLUDE_DIR) 
+[3.445s] ** WARNING ** visualization features related to davidSDK will be disabled
+[3.448s] -- Could NOT find DSSDK (missing: _DSSDK_LIBRARIES) 
+[3.448s] ** WARNING ** visualization features related to dssdk will be disabled
+[3.448s] -- Could NOT find RSSDK (missing: _RSSDK_LIBRARIES) 
+[3.448s] ** WARNING ** visualization features related to rssdk will be disabled
+[3.489s] -- Found qhull: /usr/lib/x86_64-linux-gnu/libqhull.so  
+[3.528s] -- looking for PCL_COMMON
+[3.530s] -- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  
+[3.530s] -- looking for PCL_OCTREE
+[3.532s] -- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  
+[3.533s] -- looking for PCL_IO
+[3.534s] -- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  
+[3.535s] -- looking for PCL_KDTREE
+[3.537s] -- Found PCL_KDTREE: /usr/lib/x86_64-linux-gnu/libpcl_kdtree.so  
+[3.537s] -- looking for PCL_SEARCH
+[3.539s] -- Found PCL_SEARCH: /usr/lib/x86_64-linux-gnu/libpcl_search.so  
+[3.539s] -- looking for PCL_SAMPLE_CONSENSUS
+[3.541s] -- Found PCL_SAMPLE_CONSENSUS: /usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so  
+[3.541s] -- looking for PCL_FILTERS
+[3.543s] -- Found PCL_FILTERS: /usr/lib/x86_64-linux-gnu/libpcl_filters.so  
+[3.543s] -- looking for PCL_2D
+[3.544s] -- Found PCL_2D: /usr/include/pcl-1.8  
+[3.545s] -- looking for PCL_GEOMETRY
+[3.545s] -- Found PCL_GEOMETRY: /usr/include/pcl-1.8  
+[3.545s] -- looking for PCL_FEATURES
+[3.547s] -- Found PCL_FEATURES: /usr/lib/x86_64-linux-gnu/libpcl_features.so  
+[3.548s] -- looking for PCL_ML
+[3.550s] -- Found PCL_ML: /usr/lib/x86_64-linux-gnu/libpcl_ml.so  
+[3.550s] -- looking for PCL_SEGMENTATION
+[3.552s] -- Found PCL_SEGMENTATION: /usr/lib/x86_64-linux-gnu/libpcl_segmentation.so  
+[3.553s] -- looking for PCL_VISUALIZATION
+[3.555s] -- Found PCL_VISUALIZATION: /usr/lib/x86_64-linux-gnu/libpcl_visualization.so  
+[3.555s] -- looking for PCL_SURFACE
+[3.557s] -- Found PCL_SURFACE: /usr/lib/x86_64-linux-gnu/libpcl_surface.so  
+[3.558s] -- looking for PCL_REGISTRATION
+[3.560s] -- Found PCL_REGISTRATION: /usr/lib/x86_64-linux-gnu/libpcl_registration.so  
+[3.561s] -- looking for PCL_KEYPOINTS
+[3.563s] -- Found PCL_KEYPOINTS: /usr/lib/x86_64-linux-gnu/libpcl_keypoints.so  
+[3.564s] -- looking for PCL_TRACKING
+[3.570s] -- Found PCL_TRACKING: /usr/lib/x86_64-linux-gnu/libpcl_tracking.so  
+[3.570s] -- looking for PCL_RECOGNITION
+[3.571s] -- Found PCL_RECOGNITION: /usr/lib/x86_64-linux-gnu/libpcl_recognition.so  
+[3.571s] -- looking for PCL_STEREO
+[3.572s] -- Found PCL_STEREO: /usr/lib/x86_64-linux-gnu/libpcl_stereo.so  
+[3.573s] -- looking for PCL_APPS
+[3.575s] -- Found PCL_APPS: /usr/lib/x86_64-linux-gnu/libpcl_apps.so  
+[3.578s] -- looking for PCL_IN_HAND_SCANNER
+[3.578s] -- Found PCL_IN_HAND_SCANNER: /usr/include/pcl-1.8  
+[3.578s] -- looking for PCL_MODELER
+[3.579s] -- Found PCL_MODELER: /usr/include/pcl-1.8  
+[3.579s] -- looking for PCL_POINT_CLOUD_EDITOR
+[3.580s] -- Found PCL_POINT_CLOUD_EDITOR: /usr/include/pcl-1.8  
+[3.580s] -- looking for PCL_OUTOFCORE
+[3.582s] -- Found PCL_OUTOFCORE: /usr/lib/x86_64-linux-gnu/libpcl_outofcore.so  
+[3.583s] -- looking for PCL_PEOPLE
+[3.585s] -- Found PCL_PEOPLE: /usr/lib/x86_64-linux-gnu/libpcl_people.so  
+[3.614s] -- Found PCL: /usr/lib/x86_64-linux-gnu/libboost_system.so;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;/usr/lib/x86_64-linux-gnu/libboost_thread.so;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;/usr/lib/x86_64-linux-gnu/libboost_iostreams.so;/usr/lib/x86_64-linux-gnu/libboost_serialization.so;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;/usr/lib/x86_64-linux-gnu/libboost_regex.so;/usr/lib/x86_64-linux-gnu/libpthread.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_common.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_common.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_octree.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_octree.so;/usr/lib/libOpenNI.so;/usr/lib/libOpenNI2.so;vtkChartsCore;vtkCommonColor;vtkCommonDataModel;vtkCommonMath;vtkCommonCore;vtksys;vtkCommonMisc;vtkCommonSystem;vtkCommonTransforms;vtkInfovisCore;vtkFiltersExtraction;vtkCommonExecutionModel;vtkFiltersCore;vtkFiltersGeneral;vtkCommonComputationalGeometry;vtkFiltersStatistics;vtkImagingFourier;vtkImagingCore;vtkalglib;vtkRenderingContext2D;vtkRenderingCore;vtkFiltersGeometry;vtkFiltersSources;vtkRenderingFreeType;/usr/lib/x86_64-linux-gnu/libfreetype.so;/usr/lib/x86_64-linux-gnu/libz.so;vtkftgl;vtkDICOMParser;vtkDomainsChemistry;vtkIOXML;vtkIOGeometry;vtkIOCore;vtkIOXMLParser;/usr/lib/x86_64-linux-gnu/libexpat.so;vtkFiltersAMR;vtkParallelCore;vtkIOLegacy;vtkFiltersFlowPaths;vtkFiltersGeneric;vtkFiltersHybrid;vtkImagingSources;vtkFiltersHyperTree;vtkFiltersImaging;vtkImagingGeneral;vtkFiltersModeling;vtkFiltersParallel;vtkFiltersParallelFlowPaths;vtkParallelMPI;vtkFiltersParallelGeometry;vtkFiltersParallelImaging;vtkFiltersParallelMPI;vtkFiltersParallelStatistics;vtkFiltersProgrammable;vtkFiltersPython;/usr/lib/x86_64-linux-gnu/libpython2.7.so;vtkWrappingPythonCore;vtkWrappingTools;vtkFiltersReebGraph;vtkFiltersSMP;vtkFiltersSelection;vtkFiltersTexture;vtkFiltersVerdict;verdict;vtkGUISupportQt;vtkInteractionStyle;vtkRenderingOpenGL;vtkImagingHybrid;vtkIOImage;vtkmetaio;/usr/lib/x86_64-linux-gnu/libjpeg.so;/usr/lib/x86_64-linux-gnu/libpng.so;/usr/lib/x86_64-linux-gnu/libtiff.so;vtkGUISupportQtOpenGL;vtkGUISupportQtSQL;vtkIOSQL;sqlite3;vtkGUISupportQtWebkit;vtkViewsQt;vtkViewsInfovis;vtkInfovisLayout;vtkInfovisBoostGraphAlgorithms;vtkRenderingLabel;vtkViewsCore;vtkInteractionWidgets;vtkRenderingAnnotation;vtkImagingColor;vtkRenderingVolume;vtkGeovisCore;/usr/lib/x86_64-linux-gnu/libproj.so;vtkIOAMR;/usr/lib/x86_64-linux-gnu/hdf5/openmpi/libhdf5.so;/usr/lib/x86_64-linux-gnu/libsz.so;/usr/lib/x86_64-linux-gnu/libdl.so;/usr/lib/x86_64-linux-gnu/libm.so;/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so;vtkIOEnSight;vtkIOExodus;vtkexoIIc;/usr/lib/x86_64-linux-gnu/libnetcdf_c++.so;/usr/lib/x86_64-linux-gnu/libnetcdf.so;vtkIOExport;vtkRenderingGL2PS;vtkRenderingContextOpenGL;/usr/lib/x86_64-linux-gnu/libgl2ps.so;vtkIOFFMPEG;vtkIOMovie;/usr/lib/x86_64-linux-gnu/libtheoraenc.so;/usr/lib/x86_64-linux-gnu/libtheoradec.so;/usr/lib/x86_64-linux-gnu/libogg.so;vtkIOGDAL;vtkIOGeoJSON;vtkIOImport;vtkIOInfovis;/usr/lib/x86_64-linux-gnu/libxml2.so;vtkIOLSDyna;vtkIOMINC;vtkIOMPIImage;vtkIOMPIParallel;vtkIOParallel;vtkIONetCDF;/usr/lib/x86_64-linux-gnu/libjsoncpp.so;vtkIOMySQL;vtkIOODBC;vtkIOPLY;vtkIOParallelExodus;vtkIOParallelLSDyna;vtkIOParallelNetCDF;vtkIOParallelXML;vtkIOPostgreSQL;vtkIOVPIC;VPIC;vtkIOVideo;vtkIOXdmf2;vtkxdmf2;vtkImagingMath;vtkImagingMorphological;vtkImagingStatistics;vtkImagingStencil;vtkInteractionImage;vtkLocalExample;vtkParallelMPI4Py;vtkPythonInterpreter;vtkRenderingExternal;vtkRenderingFreeTypeFontConfig;vtkRenderingImage;vtkRenderingLIC;vtkRenderingLOD;vtkRenderingMatplotlib;vtkRenderingParallel;vtkRenderingParallelLIC;vtkRenderingQt;vtkRenderingVolumeAMR;vtkRenderingVolumeOpenGL;vtkTestingGenericBridge;vtkTestingIOSQL;vtkTestingRendering;vtkViewsContext2D;vtkViewsGeovis;vtkWrappingJava;optimized;/usr/lib/x86_64-linux-gnu/libpcl_io.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_io.so;optimized;/usr/lib/x86_64-linux-gnu/libflann_cpp_s.a;debug;/usr/lib/x86_64-linux-gnu/libflann_cpp_s.a;optimized;/usr/lib/x86_64-linux-gnu/libpcl_kdtree.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_kdtree.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_search.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_search.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_filters.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_filters.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_features.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_features.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_ml.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_ml.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_segmentation.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_segmentation.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_visualization.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_visualization.so;optimized;/usr/lib/x86_64-linux-gnu/libqhull.so;debug;/usr/lib/x86_64-linux-gnu/libqhull.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_surface.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_surface.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_registration.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_registration.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_keypoints.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_keypoints.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_tracking.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_tracking.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_recognition.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_recognition.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_stereo.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_stereo.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_apps.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_apps.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_outofcore.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_outofcore.so;optimized;/usr/lib/x86_64-linux-gnu/libpcl_people.so;debug;/usr/lib/x86_64-linux-gnu/libpcl_people.so;/usr/lib/x86_64-linux-gnu/libboost_system.so;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;/usr/lib/x86_64-linux-gnu/libboost_thread.so;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;/usr/lib/x86_64-linux-gnu/libboost_iostreams.so;/usr/lib/x86_64-linux-gnu/libboost_serialization.so;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;/usr/lib/x86_64-linux-gnu/libboost_regex.so;/usr/lib/x86_64-linux-gnu/libpthread.so;optimized;/usr/lib/x86_64-linux-gnu/libqhull.so;debug;/usr/lib/x86_64-linux-gnu/libqhull.so;/usr/lib/libOpenNI.so;/usr/lib/libOpenNI2.so;optimized;/usr/lib/x86_64-linux-gnu/libflann_cpp_s.a;debug;/usr/lib/x86_64-linux-gnu/libflann_cpp_s.a;vtkChartsCore;vtkCommonColor;vtkCommonDataModel;vtkCommonMath;vtkCommonCore;vtksys;vtkCommonMisc;vtkCommonSystem;vtkCommonTransforms;vtkInfovisCore;vtkFiltersExtraction;vtkCommonExecutionModel;vtkFiltersCore;vtkFiltersGeneral;vtkCommonComputationalGeometry;vtkFiltersStatistics;vtkImagingFourier;vtkImagingCore;vtkalglib;vtkRenderingContext2D;vtkRenderingCore;vtkFiltersGeometry;vtkFiltersSources;vtkRenderingFreeType;/usr/lib/x86_64-linux-gnu/libfreetype.so;/usr/lib/x86_64-linux-gnu/libz.so;vtkftgl;vtkDICOMParser;vtkDomainsChemistry;vtkIOXML;vtkIOGeometry;vtkIOCore;vtkIOXMLParser;/usr/lib/x86_64-linux-gnu/libexpat.so;vtkFiltersAMR;vtkParallelCore;vtkIOLegacy;vtkFiltersFlowPaths;vtkFiltersGeneric;vtkFiltersHybrid;vtkImagingSources;vtkFiltersHyperTree;vtkFiltersImaging;vtkImagingGeneral;vtkFiltersModeling;vtkFiltersParallel;vtkFiltersParallelFlowPaths;vtkParallelMPI;vtkFiltersParallelGeometry;vtkFiltersParallelImaging;vtkFiltersParallelMPI;vtkFiltersParallelStatistics;vtkFiltersProgrammable;vtkFiltersPython;/usr/lib/x86_64-linux-gnu/libpython2.7.so;vtkWrappingPythonCore;vtkWrappingTools;vtkFiltersReebGraph;vtkFiltersSMP;vtkFiltersSelection;vtkFiltersTexture;vtkFiltersVerdict;verdict;vtkGUISupportQt;vtkInteractionStyle;vtkRenderingOpenGL;vtkImagingHybrid;vtkIOImage;vtkmetaio;/usr/lib/x86_64-linux-gnu/libjpeg.so;/usr/lib/x86_64-linux-gnu/libpng.so;/usr/lib/x86_64-linux-gnu/libtiff.so;vtkGUISupportQtOpenGL;vtkGUISupportQtSQL;vtkIOSQL;sqlite3;vtkGUISupportQtWebkit;vtkViewsQt;vtkViewsInfovis;vtkInfovisLayout;vtkInfovisBoostGraphAlgorithms;vtkRenderingLabel;vtkViewsCore;vtkInteractionWidgets;vtkRenderingAnnotation;vtkImagingColor;vtkRenderingVolume;vtkGeovisCore;/usr/lib/x86_64-linux-gnu/libproj.so;vtkIOAMR;/usr/lib/x86_64-linux-gnu/hdf5/openmpi/libhdf5.so;/usr/lib/x86_64-linux-gnu/libsz.so;/usr/lib/x86_64-linux-gnu/libdl.so;/usr/lib/x86_64-linux-gnu/libm.so;/usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so;vtkIOEnSight;vtkIOExodus;vtkexoIIc;/usr/lib/x86_64-linux-gnu/libnetcdf_c++.so;/usr/lib/x86_64-linux-gnu/libnetcdf.so;vtkIOExport;vtkRenderingGL2PS;vtkRenderingContextOpenGL;/usr/lib/x86_64-linux-gnu/libgl2ps.so;vtkIOFFMPEG;vtkIOMovie;/usr/lib/x86_64-linux-gnu/libtheoraenc.so;/usr/lib/x86_64-linux-gnu/libtheoradec.so;/usr/lib/x86_64-linux-gnu/libogg.so;vtkIOGDAL;vtkIOGeoJSON;vtkIOImport;vtkIOInfovis;/usr/lib/x86_64-linux-gnu/libxml2.so;vtkIOLSDyna;vtkIOMINC;vtkIOMPIImage;vtkIOMPIParallel;vtkIOParallel;vtkIONetCDF;/usr/lib/x86_64-linux-gnu/libjsoncpp.so;vtkIOMySQL;vtkIOODBC;vtkIOPLY;vtkIOParallelExodus;vtkIOParallelLSDyna;vtkIOParallelNetCDF;vtkIOParallelXML;vtkIOPostgreSQL;vtkIOVPIC;VPIC;vtkIOVideo;vtkIOXdmf2;vtkxdmf2;vtkImagingMath;vtkImagingMorphological;vtkImagingStatistics;vtkImagingStencil;vtkInteractionImage;vtkLocalExample;vtkParallelMPI4Py;vtkPythonInterpreter;vtkRenderingExternal;vtkRenderingFreeTypeFontConfig;vtkRenderingImage;vtkRenderingLIC;vtkRenderingLOD;vtkRenderingMatplotlib;vtkRenderingParallel;vtkRenderingParallelLIC;vtkRenderingQt;vtkRenderingVolumeAMR;vtkRenderingVolumeOpenGL;vtkTestingGenericBridge;vtkTestingIOSQL;vtkTestingRendering;vtkViewsContext2D;vtkViewsGeovis;vtkWrappingJava (Required is at least version "1.7") 
+[3.633s] -- Found OpenCV: /usr (found version "3.2.0") 
+[3.800s] -- Configuring done
+[3.921s] -- Generating done
+[3.934s] -- Build files have been written to: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player
+[3.948s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/utilities/kitti_player -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player
+[3.952s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player -- -j6 -l6
+[4.008s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[4.019s] [  0%] Built target actionlib_msgs_generate_messages_py
+[4.029s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[4.039s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[4.050s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[4.060s] [  0%] Built target tf2_msgs_generate_messages_eus
+[4.071s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[4.083s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[4.094s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[4.111s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[4.126s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp[0m
+[4.139s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[4.153s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[4.164s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[4.175s] [35m[1mScanning dependencies of target stereo_msgs_generate_messages_py[0m
+[4.186s] [  0%] Built target stereo_msgs_generate_messages_py
+[4.196s] [35m[1mScanning dependencies of target topic_tools_generate_messages_cpp[0m
+[4.209s] [  0%] Built target topic_tools_generate_messages_cpp
+[4.223s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[4.235s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[4.249s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[4.260s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[4.271s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[4.282s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[4.293s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[4.304s] [  0%] Built target geometry_msgs_generate_messages_eus
+[4.317s] [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[4.328s] [  0%] Built target std_msgs_generate_messages_py
+[4.340s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[4.352s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[4.363s] [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[4.374s] [  0%] Built target std_msgs_generate_messages_nodejs
+[4.385s] [35m[1mScanning dependencies of target bond_generate_messages_lisp[0m
+[4.396s] [  0%] Built target bond_generate_messages_lisp
+[4.407s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[4.418s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[4.428s] [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[4.439s] [  0%] Built target std_msgs_generate_messages_eus
+[4.450s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[4.462s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[4.473s] [35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[4.484s] [  0%] Built target std_srvs_generate_messages_eus
+[4.495s] [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[4.506s] [  0%] Built target roscpp_generate_messages_lisp
+[4.517s] [35m[1mScanning dependencies of target bond_generate_messages_eus[0m
+[4.528s] [  0%] Built target bond_generate_messages_eus
+[4.538s] [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[4.549s] [  0%] Built target std_msgs_generate_messages_cpp
+[4.560s] [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[4.571s] [  0%] Built target roscpp_generate_messages_py
+[4.581s] [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[4.595s] [  0%] Built target roscpp_generate_messages_cpp
+[4.606s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[4.618s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[4.629s] [35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[4.640s] [  0%] Built target actionlib_generate_messages_cpp
+[4.651s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[4.664s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[4.678s] [35m[1mScanning dependencies of target nodelet_generate_messages_py[0m
+[4.692s] [  0%] Built target nodelet_generate_messages_py
+[4.705s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[4.718s] [  0%] Built target sensor_msgs_generate_messages_py
+[4.730s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[4.741s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[4.752s] [35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[4.763s] [  0%] Built target tf_generate_messages_py
+[4.775s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[4.787s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[4.799s] [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[4.810s] [  0%] Built target roscpp_generate_messages_nodejs
+[4.821s] [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[4.832s] [  0%] Built target std_msgs_generate_messages_lisp
+[4.844s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[4.855s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[4.866s] [35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[4.879s] [  0%] Built target sensor_msgs_generate_messages_eus
+[4.890s] [35m[1mScanning dependencies of target pcl_ros_gencfg[0m
+[4.903s] [  0%] Built target pcl_ros_gencfg
+[4.915s] [35m[1mScanning dependencies of target topic_tools_generate_messages_nodejs[0m
+[4.935s] [  0%] Built target topic_tools_generate_messages_nodejs
+[4.948s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[4.959s] [  0%] Built target tf2_msgs_generate_messages_py
+[4.970s] [35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[4.982s] [  0%] Built target actionlib_generate_messages_py
+[4.993s] [35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[5.005s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[5.016s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[5.027s] [  0%] Built target geometry_msgs_generate_messages_py
+[5.038s] [35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[5.050s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[5.061s] [35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[5.074s] [  0%] Built target dynamic_reconfigure_gencfg
+[5.086s] [35m[1mScanning dependencies of target nodelet_generate_messages_cpp[0m
+[5.097s] [  0%] Built target nodelet_generate_messages_cpp
+[5.109s] [35m[1mScanning dependencies of target bond_generate_messages_py[0m
+[5.120s] [  0%] Built target bond_generate_messages_py
+[5.132s] [35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[5.149s] [  0%] Built target std_srvs_generate_messages_nodejs
+[5.161s] [35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[5.173s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[5.185s] [35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[5.196s] [  0%] Built target actionlib_generate_messages_lisp
+[5.208s] [35m[1mScanning dependencies of target nodelet_generate_messages_eus[0m
+[5.220s] [  0%] Built target nodelet_generate_messages_eus
+[5.231s] [35m[1mScanning dependencies of target nodelet_generate_messages_lisp[0m
+[5.241s] [  0%] Built target nodelet_generate_messages_lisp
+[5.253s] [35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[5.264s] [  0%] Built target roscpp_generate_messages_eus
+[5.275s] [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[5.286s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[5.298s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[5.309s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[5.321s] [35m[1mScanning dependencies of target nodelet_generate_messages_nodejs[0m
+[5.332s] [  0%] Built target nodelet_generate_messages_nodejs
+[5.343s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_nodejs[0m
+[5.354s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[5.366s] [35m[1mScanning dependencies of target bond_generate_messages_cpp[0m
+[5.378s] [  0%] Built target bond_generate_messages_cpp
+[5.390s] [35m[1mScanning dependencies of target bond_generate_messages_nodejs[0m
+[5.401s] [  0%] Built target bond_generate_messages_nodejs
+[5.413s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[5.425s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[5.446s] [35m[1mScanning dependencies of target topic_tools_generate_messages_py[0m
+[5.457s] [  0%] Built target topic_tools_generate_messages_py
+[5.468s] [35m[1mScanning dependencies of target nodelet_topic_tools_gencfg[0m
+[5.479s] [  0%] Built target nodelet_topic_tools_gencfg
+[5.493s] [35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[5.506s] [  0%] Built target std_srvs_generate_messages_lisp
+[5.517s] [35m[1mScanning dependencies of target topic_tools_generate_messages_lisp[0m
+[5.528s] [  0%] Built target topic_tools_generate_messages_lisp
+[5.540s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_eus[0m
+[5.552s] [  0%] Built target pcl_msgs_generate_messages_eus
+[5.563s] [35m[1mScanning dependencies of target topic_tools_generate_messages_eus[0m
+[5.578s] [  0%] Built target topic_tools_generate_messages_eus
+[5.591s] [35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[5.603s] [  0%] Built target std_srvs_generate_messages_cpp
+[5.614s] [35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[5.625s] [  0%] Built target tf_generate_messages_eus
+[5.637s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[5.648s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[5.659s] [35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[5.671s] [  0%] Built target std_srvs_generate_messages_py
+[5.685s] [35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[5.695s] [  0%] Built target tf_generate_messages_lisp
+[5.707s] [35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[5.718s] [  0%] Built target tf_generate_messages_nodejs
+[5.729s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_py[0m
+[5.741s] [  0%] Built target pcl_msgs_generate_messages_py
+[5.753s] [35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[5.764s] [  0%] Built target actionlib_generate_messages_eus
+[5.777s] [35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp[0m
+[5.790s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[5.801s] [35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[5.813s] [  0%] Built target tf_generate_messages_cpp
+[5.825s] [35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[5.836s] [  0%] Built target actionlib_generate_messages_nodejs
+[5.848s] [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[5.860s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[5.872s] [35m[1mScanning dependencies of target kitti_player_gencfg[0m
+[5.885s] [ 33%] [34m[1mGenerating dynamic reconfigure files from cfg/kitti_player.cfg: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player/devel/include/kitti_player/kitti_playerConfig.h /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player/devel/lib/python2.7/dist-packages/kitti_player/cfg/kitti_playerConfig.py[0m
+[5.934s] Generating reconfiguration files for kitti_player in kitti_player
+[5.937s] Wrote header file in /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player/devel/include/kitti_player/kitti_playerConfig.h
+[5.995s] [ 33%] Built target kitti_player_gencfg
+[6.008s] [35m[1mScanning dependencies of target stereo_msgs_generate_messages_cpp[0m
+[6.020s] [ 33%] Built target stereo_msgs_generate_messages_cpp
+[6.032s] [35m[1mScanning dependencies of target stereo_msgs_generate_messages_eus[0m
+[6.044s] [ 33%] Built target stereo_msgs_generate_messages_eus
+[6.056s] [35m[1mScanning dependencies of target stereo_msgs_generate_messages_lisp[0m
+[6.069s] [ 33%] Built target stereo_msgs_generate_messages_lisp
+[6.082s] [35m[1mScanning dependencies of target stereo_msgs_generate_messages_nodejs[0m
+[6.095s] [ 33%] Built target stereo_msgs_generate_messages_nodejs
+[6.110s] [35m[1mScanning dependencies of target kitti_player[0m
+[6.222s] [ 66%] [32mBuilding CXX object CMakeFiles/kitti_player.dir/src/kitti_player.cpp.o[0m
+[19.022s] [100%] [32m[1mLinking CXX executable devel/lib/kitti_player/kitti_player[0m
+[22.027s] [100%] Built target kitti_player
+[22.043s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player -- -j6 -l6
+[22.158s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player --target tests -- -j6 -l6
+[22.227s] [35m[1mScanning dependencies of target tests[0m
+[22.240s] Built target tests
+[22.255s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player --target tests -- -j6 -l6
+[22.362s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player --target install -- -j6 -l6
+[22.440s] [  0%] Built target actionlib_msgs_generate_messages_py
+[22.463s] [  0%] Built target tf2_msgs_generate_messages_nodejs
+[22.486s] [  0%] Built target tf2_msgs_generate_messages_eus
+[22.508s] [  0%] Built target tf2_msgs_generate_messages_cpp
+[22.533s] [  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[22.565s] [  0%] Built target pcl_msgs_generate_messages_cpp
+[22.588s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[22.613s] [  0%] Built target stereo_msgs_generate_messages_py
+[22.635s] [  0%] Built target topic_tools_generate_messages_cpp
+[22.670s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[22.692s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[22.715s] [  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[22.740s] [  0%] Built target geometry_msgs_generate_messages_eus
+[22.760s] [  0%] Built target std_msgs_generate_messages_py
+[22.780s] [  0%] Built target dynamic_reconfigure_generate_messages_eus
+[22.800s] [  0%] Built target std_msgs_generate_messages_nodejs
+[22.824s] [  0%] Built target bond_generate_messages_lisp
+[22.846s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[22.867s] [  0%] Built target std_msgs_generate_messages_eus
+[22.888s] [  0%] Built target sensor_msgs_generate_messages_lisp
+[22.909s] [  0%] Built target std_srvs_generate_messages_eus
+[22.931s] [  0%] Built target roscpp_generate_messages_lisp
+[22.953s] [  0%] Built target bond_generate_messages_eus
+[22.977s] [  0%] Built target std_msgs_generate_messages_cpp
+[22.999s] [  0%] Built target roscpp_generate_messages_py
+[23.020s] [  0%] Built target roscpp_generate_messages_cpp
+[23.042s] [  0%] Built target sensor_msgs_generate_messages_nodejs
+[23.064s] [  0%] Built target actionlib_generate_messages_cpp
+[23.089s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[23.114s] [  0%] Built target nodelet_generate_messages_py
+[23.135s] [  0%] Built target sensor_msgs_generate_messages_py
+[23.158s] [  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[23.199s] [  0%] Built target tf_generate_messages_py
+[23.221s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[23.243s] [  0%] Built target roscpp_generate_messages_nodejs
+[23.265s] [  0%] Built target std_msgs_generate_messages_lisp
+[23.288s] [  0%] Built target sensor_msgs_generate_messages_cpp
+[23.310s] [  0%] Built target sensor_msgs_generate_messages_eus
+[23.332s] [  0%] Built target pcl_ros_gencfg
+[23.358s] [  0%] Built target topic_tools_generate_messages_nodejs
+[23.382s] [  0%] Built target tf2_msgs_generate_messages_py
+[23.405s] [  0%] Built target actionlib_generate_messages_py
+[23.430s] [  0%] Built target dynamic_reconfigure_generate_messages_py
+[23.455s] [  0%] Built target geometry_msgs_generate_messages_py
+[23.478s] [  0%] Built target tf2_msgs_generate_messages_lisp
+[23.501s] [  0%] Built target dynamic_reconfigure_gencfg
+[23.525s] [  0%] Built target nodelet_generate_messages_cpp
+[23.559s] [  0%] Built target bond_generate_messages_py
+[23.587s] [  0%] Built target std_srvs_generate_messages_nodejs
+[23.610s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[23.633s] [  0%] Built target actionlib_generate_messages_lisp
+[23.656s] [  0%] Built target nodelet_generate_messages_eus
+[23.683s] [  0%] Built target nodelet_generate_messages_lisp
+[23.704s] [  0%] Built target roscpp_generate_messages_eus
+[23.726s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[23.749s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[23.772s] [  0%] Built target nodelet_generate_messages_nodejs
+[23.794s] [  0%] Built target pcl_msgs_generate_messages_nodejs
+[23.820s] [  0%] Built target bond_generate_messages_cpp
+[23.841s] [  0%] Built target bond_generate_messages_nodejs
+[23.865s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[23.889s] [  0%] Built target topic_tools_generate_messages_py
+[23.914s] [  0%] Built target nodelet_topic_tools_gencfg
+[23.938s] [  0%] Built target std_srvs_generate_messages_lisp
+[23.960s] [  0%] Built target topic_tools_generate_messages_lisp
+[23.985s] [  0%] Built target pcl_msgs_generate_messages_eus
+[24.009s] [  0%] Built target topic_tools_generate_messages_eus
+[24.033s] [  0%] Built target std_srvs_generate_messages_cpp
+[24.056s] [  0%] Built target tf_generate_messages_eus
+[24.078s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[24.099s] [  0%] Built target std_srvs_generate_messages_py
+[24.137s] [  0%] Built target tf_generate_messages_lisp
+[24.159s] [  0%] Built target tf_generate_messages_nodejs
+[24.181s] [  0%] Built target pcl_msgs_generate_messages_py
+[24.203s] [  0%] Built target actionlib_generate_messages_eus
+[24.226s] [  0%] Built target pcl_msgs_generate_messages_lisp
+[24.248s] [  0%] Built target tf_generate_messages_cpp
+[24.271s] [  0%] Built target actionlib_generate_messages_nodejs
+[24.294s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[24.317s] [ 33%] Built target kitti_player_gencfg
+[24.339s] [ 33%] Built target stereo_msgs_generate_messages_cpp
+[24.362s] [ 33%] Built target stereo_msgs_generate_messages_eus
+[24.384s] [ 33%] Built target stereo_msgs_generate_messages_lisp
+[24.407s] [ 33%] Built target stereo_msgs_generate_messages_nodejs
+[24.449s] [100%] Built target kitti_player
+[24.475s] [36mInstall the project...[0m
+[24.486s] -- Install configuration: "Release"
+[24.486s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/include/kitti_player/kitti_playerConfig.h
+[24.486s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/lib/python2.7/dist-packages/kitti_player/__init__.py
+[24.498s] Listing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player/devel/lib/python2.7/dist-packages/kitti_player/cfg ...
+[24.498s] Compiling /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player/devel/lib/python2.7/dist-packages/kitti_player/cfg/__init__.py ...
+[24.498s] Compiling /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player/devel/lib/python2.7/dist-packages/kitti_player/cfg/kitti_playerConfig.py ...
+[24.500s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/lib/python2.7/dist-packages/kitti_player/cfg
+[24.500s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/lib/python2.7/dist-packages/kitti_player/cfg/__init__.pyc
+[24.500s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/lib/python2.7/dist-packages/kitti_player/cfg/kitti_playerConfig.py
+[24.500s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/lib/python2.7/dist-packages/kitti_player/cfg/__init__.py
+[24.500s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/lib/python2.7/dist-packages/kitti_player/cfg/kitti_playerConfig.pyc
+[24.500s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/lib/pkgconfig/kitti_player.pc
+[24.500s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/share/kitti_player/cmake/kitti_playerConfig.cmake
+[24.500s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/share/kitti_player/cmake/kitti_playerConfig-version.cmake
+[24.500s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/share/kitti_player/package.xml
+[24.501s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/lib/kitti_player/kitti_player
+[24.501s] -- Set runtime path of "/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/lib/kitti_player/kitti_player" to ""
+[24.501s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/share/kitti_player/launch
+[24.501s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/share/kitti_player/launch/kittiplayer_libviso2.launch
+[24.501s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/share/kitti_player/cfg
+[24.502s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/share/kitti_player/cfg/rviz_kitti_player.rviz
+[24.502s] -- Installing: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/kitti_player/share/kitti_player/cfg/kitti_player.cfg
+[24.508s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player' returned '0': CMAKE_PREFIX_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags:${CMAKE_PREFIX_PATH} PKG_CONFIG_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/x86_64-linux-gnu/pkgconfig:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/lib/pkgconfig:${PKG_CONFIG_PATH} ROS_PACKAGE_PATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_build_flags/share:${ROS_PACKAGE_PATH} /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/kitti_player --target install -- -j6 -l6

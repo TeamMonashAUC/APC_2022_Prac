@@ -1,0 +1,78 @@
+[0.019s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist2odom': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist2odom -- -j6 -l6
+[0.084s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.088s] [  0%] Built target std_msgs_generate_messages_nodejs
+[0.091s] [  0%] Built target std_msgs_generate_messages_py
+[0.096s] [  0%] Built target std_msgs_generate_messages_lisp
+[0.102s] [  0%] Built target nav_msgs_generate_messages_py
+[0.108s] [  0%] Built target geometry_msgs_generate_messages_py
+[0.117s] [  0%] Built target roscpp_generate_messages_cpp
+[0.125s] [  0%] Built target std_msgs_generate_messages_eus
+[0.125s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[0.134s] [  0%] Built target roscpp_generate_messages_py
+[0.136s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[0.149s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[0.154s] [  0%] Built target nav_msgs_generate_messages_nodejs
+[0.161s] [  0%] Built target std_msgs_generate_messages_cpp
+[0.161s] [  0%] Built target roscpp_generate_messages_lisp
+[0.175s] [  0%] Built target nav_msgs_generate_messages_lisp
+[0.177s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[0.185s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[0.185s] [  0%] Built target nav_msgs_generate_messages_cpp
+[0.194s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[0.204s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[0.209s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[0.213s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[0.214s] [  0%] Built target nav_msgs_generate_messages_eus
+[0.224s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[0.228s] [  0%] Built target actionlib_msgs_generate_messages_py
+[0.235s] [  0%] Built target geometry_msgs_generate_messages_eus
+[0.235s] [  0%] Built target roscpp_generate_messages_nodejs
+[0.245s] [  0%] Built target roscpp_generate_messages_eus
+[0.253s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[0.282s] [100%] Built target twist2odom
+[0.295s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist2odom' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist2odom -- -j6 -l6
+[0.411s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist2odom': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist2odom --target tests -- -j6 -l6
+[0.490s] [ 40%] Built target gtest
+[0.540s] [100%] Built target twist2odom_test
+[0.572s] [100%] Built target tests
+[0.591s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist2odom' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist2odom --target tests -- -j6 -l6
+[0.871s] Invoking command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist2odom': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist2odom --target install -- -j6 -l6
+[0.986s] [  0%] Built target rosgraph_msgs_generate_messages_lisp
+[0.990s] [  0%] Built target std_msgs_generate_messages_py
+[1.000s] [  0%] Built target nav_msgs_generate_messages_py
+[1.001s] [  0%] Built target std_msgs_generate_messages_lisp
+[1.013s] [  0%] Built target std_msgs_generate_messages_nodejs
+[1.039s] [  0%] Built target roscpp_generate_messages_cpp
+[1.048s] [  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[1.059s] [  0%] Built target std_msgs_generate_messages_eus
+[1.066s] [  0%] Built target geometry_msgs_generate_messages_py
+[1.086s] [  0%] Built target rosgraph_msgs_generate_messages_py
+[1.090s] [  0%] Built target roscpp_generate_messages_py
+[1.106s] [  0%] Built target nav_msgs_generate_messages_nodejs
+[1.108s] [  0%] Built target actionlib_msgs_generate_messages_nodejs
+[1.115s] [  0%] Built target std_msgs_generate_messages_cpp
+[1.126s] [  0%] Built target roscpp_generate_messages_lisp
+[1.137s] [  0%] Built target nav_msgs_generate_messages_lisp
+[1.140s] [  0%] Built target nav_msgs_generate_messages_cpp
+[1.154s] [  0%] Built target geometry_msgs_generate_messages_nodejs
+[1.161s] [  0%] Built target geometry_msgs_generate_messages_cpp
+[1.167s] [  0%] Built target geometry_msgs_generate_messages_lisp
+[1.167s] [  0%] Built target actionlib_msgs_generate_messages_cpp
+[1.176s] [  0%] Built target nav_msgs_generate_messages_eus
+[1.197s] [  0%] Built target actionlib_msgs_generate_messages_eus
+[1.202s] [  0%] Built target actionlib_msgs_generate_messages_lisp
+[1.203s] [  0%] Built target rosgraph_msgs_generate_messages_eus
+[1.211s] [  0%] Built target roscpp_generate_messages_nodejs
+[1.224s] [  0%] Built target actionlib_msgs_generate_messages_py
+[1.232s] [  0%] Built target geometry_msgs_generate_messages_eus
+[1.235s] [  0%] Built target rosgraph_msgs_generate_messages_cpp
+[1.239s] [  0%] Built target roscpp_generate_messages_eus
+[1.267s] [100%] Built target twist2odom
+[1.296s] [36mInstall the project...[0m
+[1.305s] -- Install configuration: "Release"
+[1.307s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist2odom/lib/pkgconfig/twist2odom.pc
+[1.308s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist2odom/share/twist2odom/cmake/twist2odomConfig.cmake
+[1.308s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist2odom/share/twist2odom/cmake/twist2odomConfig-version.cmake
+[1.308s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist2odom/share/twist2odom/package.xml
+[1.309s] -- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/twist2odom/lib/twist2odom/twist2odom
+[1.357s] Invoked command in '/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist2odom' returned '0': /usr/bin/cmake --build /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/twist2odom --target install -- -j6 -l6

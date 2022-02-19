@@ -1,0 +1,29 @@
+Built target tests
+[36mInstall the project...[0m
+-- Install configuration: "Release"
++ cd /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/simulation/carla_simulator_bridge/carla_autoware_bridge
++ mkdir -p /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/lib/python2.7/dist-packages
++ /usr/bin/env PYTHONPATH=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/carla_autoware_bridge/lib/python2.7/dist-packages:/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/autoware_msgs/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages CATKIN_BINARY_DIR=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/carla_autoware_bridge /usr/bin/python2 /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/src/autoware/simulation/carla_simulator_bridge/carla_autoware_bridge/setup.py build --build-base /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/build/carla_autoware_bridge install --root=/ --install-layout=deb --prefix=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge --install-scripts=/home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/bin
+running build
+running build_py
+running install
+running install_lib
+running install_egg_info
+Removing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/lib/python2.7/dist-packages/carla_autoware_bridge-0.0.0.egg-info
+Writing /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/lib/python2.7/dist-packages/carla_autoware_bridge-0.0.0.egg-info
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/lib/pkgconfig/carla_autoware_bridge.pc
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/cmake/carla_autoware_bridgeConfig.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/cmake/carla_autoware_bridgeConfig-version.cmake
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/package.xml
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/lib/carla_autoware_bridge/carla_to_autoware_vehicle_status
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/lib/carla_autoware_bridge/carla_to_autoware_waypoints
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/lib/carla_autoware_bridge/odometry_to_posestamped
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/lib/carla_autoware_bridge/vehiclecmd_to_ackermanndrive
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/lib/carla_autoware_bridge/carla_to_autoware_detected_objects
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/launch/carla_autoware_bridge_common.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/launch/carla_autoware_bridge.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/launch/carla_autoware_bridge_with_manual_control.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/launch/tf.launch
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/config
+-- Up-to-date: /home/yeap/APC_2022_Prac/airsimversion/autoware.ai/install/carla_autoware_bridge/share/carla_autoware_bridge/config/sensors.json
