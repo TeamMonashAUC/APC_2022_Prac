@@ -30,8 +30,9 @@ If you have Nvidia GPU, install CUDA ( this version below is for Ubuntu 18.04):
 
 ### Git cloning for the first time and Git pulling every single time:
    ##### 1. Install dependencies using rosdep:
-      a. $ rosdep update
-      b. $ rosdep install -y --from-paths src --ignore-src --rosdistro $ROS_DISTRO
+      a. $ cd ~/APC_2022_Prac/airsimversion/autoware.ai
+      b. $ rosdep update
+      c. $ rosdep install -y --from-paths src --ignore-src --rosdistro $ROS_DISTRO
 
    ##### 2. Compile the workspace
 
