@@ -1,2 +1,0 @@
-# Members
-Ng Shien Ming

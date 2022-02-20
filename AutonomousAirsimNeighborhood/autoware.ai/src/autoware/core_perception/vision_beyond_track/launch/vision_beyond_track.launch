@@ -1,5 +1,5 @@
 <launch>
-  <arg name="camera_info_src" default="/camera_info"/>
+  <arg name="camera_info_src" default="/airsim_node/PhysXCar/front_center/Scene/camera_info"/>
   <arg name="objects_topic_src" default="/detection/image_detector/objects"/>
   <arg name="camera_height" default="1.2"/>
 
