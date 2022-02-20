@@ -12,7 +12,7 @@ This workspace contains some packages or files that initially is not within the 
 As autoware.ai can be built via different commands, one with or without CUDA support. (If you have an Nvidia GPU, you should have CUDA support available. If you have AMD or Intel GPU used, CUDA support is not available. )
 
 
-### Cloning for the first time:
+### If you Git Clone for the first time, read this section:
 You should have ROS melodic available if you are using Ubuntu 18.04.
  
 Install Qt (this version below is for Ubuntu 18.04):
@@ -27,38 +27,57 @@ If you have Nvidia GPU, install CUDA ( this version below is for Ubuntu 18.04):
     $ mkdir eigen && tar --strip-components=1 -xzvf eigen-3.4.0.tar.gz -C eigen #Decompress
     $ cd eigen && mkdir build && cd build && cmake .. && make && make install #Build and install
     $ cd && rm -rf 3.3.7.tar.gz && rm -rf eigen #Remove downloaded and temporary files
+    
+    
 
-### Git cloning for the first time and Git pulling every single time:
+### If you git clone for the first time or just git pull the latest changes, read this every single time:
 
-   ##### If you have build, log and install files 
-     a. Remove your build, log and install files and place them temporarily in other directories before you pull.
-     b. Move them back after you pulled and proceed to the next section.
      
-   ##### 1. Install dependencies using rosdep:
-      a. $ cd ~/APC_2022_Prac/airsimversion/autoware.ai
-      b. $ rosdep update
-      c. $ rosdep install -y --from-paths src --ignore-src --rosdistro $ROS_DISTRO
+   ##### 1. Install dependencies using rosdep in autoware.ai:
+       $ cd ~/APC_2022_Prac/AutonomousAirsimNeighborhood/autoware.ai
+       $ rosdep update
+       $ rosdep install -y --from-paths src --ignore-src --rosdistro $ROS_DISTRO
 
-   ##### 2. Compile the workspace
+   ##### 2. Compile the workspace in autoware.ai
 
     a. With CUDA support
        $ AUTOWARE_COMPILE_WITH_CUDA=1 colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release
 
     b. Without CUDA Support
-      $ colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release
+       $ colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release
    
-
+   ##### 3. Compile the workspace in catkin_ws
+   
+       $ cd ~/APC_2022_Prac/AutonomousAirsimNeighborhood/catkin_ws
+       $ catkin_make
 
 
 ### GIT PUSHING EVERY SINGLE TIME:
- 1) ALWAYS remove the log files, install files and build files in autoware.ai before Git Pushing. You can either delete it or temporarily move to other directories. THIS IS IMPORTANT because different members may have or do not have CUDA support on their laptop or pc which they compile differently using different command (check the section just above state different compiling command)
+#### Protocols for Git Pushing changes to the Github repository when working as a team
+(Read all the steps in advanced, do not follow the first step without reading all of the other steps) These steps are used to avoid merging conflicts in github.
 
- 2) After Git Pushing, you can recompile again to retrieve back your files mentioned above if you deleted it using compiling command in the above section or you can just move back the files from the other directory you put in before you git push.
+Steps:
+1) Prliminary step: always have 2 copies of the Github repository that wanted to be modified. One is used for Git Pulling whenever someone does any changes on the repository you are modifying or will modify which we call it the main repo. Another one is used to do trial and error modification to see the code works as expected which we call it trial repo. 
 
- 3) Extra: you no need to remove the additional files built in catkin_ws as we all compile workspace the same way using catkin_make. (Assumption: this assume that you are using catkin_make command to compile workspace. If you are not, discuss with the current person in-charge.)
+2) Assume currently you have a main repo that has not been modified yet and a trial repo that you finish modifying, git pull the latest github repo to the main repo even though your main repo is the latest version just in case of any unexpected conflict issues. 
 
-### EXTRA NOTICE: 
- 1) If you find out that there is log files, install files and build files in the Github repository, you can recorrect it by pulling it , delete them then pushing back again.
+3) Transfer the changes from your successful trial repo into the main repo. Then, use your main repo to run the changes you made to see if it's successful or not while checking if someone is going to make changes to the Github repo in the group. Negotiate with them about who or when shall push changes if required.
 
-## PROTOCOLS FOR GIT PUSHING AND GIT PULLING FOR ALL REPOSITORY
- Please refer to this link: https://docs.google.com/document/d/1Pfw7eHWmMhLx0jqc95NdSMOaUkW31QaqW7IGphx6vds/edit?usp=sharing and search for this section "Protocols for Git Pushing changes to the Github repository when working as a team"
+4) If not successful, continue to modify and to check in the group if anyone informs the group that they are going to git    push new changes. If yes, negotiate with them about who or when shall push changes while continuing if no. If      successful, process to step 5.
+
+5) Assume currently you have a correctly modified latest main repo and a trial repo that you finish modifying, inform        everyone in the group that you are going to Git Push. Inform them in the format of:
+
+   a) Changes in what repository (if your team is working with multiple repo simultaneously , if one repo you can skip         this)
+   
+   b) Changes in what workspace (for example , catkin_ws or autoware.ai)
+   
+   c) Changes in what package in src. (for example, ndt_mapping or autoware/core_perception/lidar_localizer)
+   
+   d) Date and time you are going to git push. (if you are going to make changes very soon, please put the time ahead at       least 10 minutes, for example currently is 10:00 am and I want to push soon I will pull 10:10 am, the reason why is       that maybe someone is stuck at step 3 or step 4 )
+   
+6) If no one says that they are doing anything with Github repo, you shall push changes on the specified time in 5 d).      If someone is doing changes, negotiate and discuss with them.
+   
+7) Replace your old trial repo with a new trial repo which is the copy of the main repo that you git pushed into the        latest Github.
+
+
+
